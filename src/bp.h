@@ -40,7 +40,6 @@ POSSIBILITY OF SUCH DAMAGE.
 #include <string>
 #include <functional>
 #include <unordered_map>
-#include <bits/stdc++.h>
 
 #include "macsim.h"
 #include "global_types.h"
@@ -114,11 +113,8 @@ public:
 
 public:
   uns8* m_pht; /**< branch history table */
-  std::vector<std::vector<int8_t>> m_pctt; /**< perceptron table */
-  int threshold;
   uns64 m_global_hist_64; /**< global branch history (64-bit) */
   uns32 m_global_hist; /**< global branch history (32-bit) */
-  std::bitset<59> m_global_hist_59;
   const char* m_name; /**< branch predictor name */
 
 protected:

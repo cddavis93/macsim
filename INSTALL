@@ -10,7 +10,7 @@
 
 === Build steps ===
 
-  ./build.py --dramsimc
+  ./build.py --dramsim
 
 
 === Build options ===

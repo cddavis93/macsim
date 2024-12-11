@@ -38,8 +38,6 @@ POSSIBILITY OF SUCH DAMAGE.
 #define UOP_H_INCLUDED
 
 #include <string>
-#include <bits/stdc++.h>
-
 
 #include "global_types.h"
 #include "global_defs.h"
@@ -54,6 +52,7 @@ typedef enum Iaq_Type_enum {
   mem_ALLOCQ,
   fp_ALLOCQ,
   simd_ALLOCQ,
+  tile_ALLOCQ,
   max_ALLOCQ
 } ALLOCQ_Type;
 
@@ -120,6 +119,7 @@ typedef enum Uop_Type_enum {
 
   // other instructions
   UOP_AES,  //!< AES enctyption
+  UOP_AMX_COMPUTE_BF16,
   UOP_PCLMUL,  //!< carryless multiplication
   UOP_X87,  //!< x87 ALU op
   UOP_XSAVE,  //!< XSAVE context switch
@@ -540,8 +540,7 @@ public:
   bool m_l2_miss; /**< l2 miss */
   uns32 m_pred_global_hist; /**< global branch history 32-bit */
   uns64 m_pred_global_hist_64; /**< global branch history 64-bit */
-  std::bitset<59> m_pred_global_hist_59;
-  int64_t m_perceptron_output; /**< perceptron bp output */
+  int32 m_perceptron_output; /**< perceptron bp output */
   int m_btb_set; /**< btb set address */
 };
 
@@ -566,7 +565,6 @@ public:
 public:
   uns32 m_global_hist; /**< global branch history 32-bit */
   uns64 m_global_hist_64; /**< global branch history 64-bit */
-  std::bitset<59> m_global_hist_59;
   int m_thread_id; /**< thread id */
 };
 
