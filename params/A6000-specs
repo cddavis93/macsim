@@ -1,0 +1,9 @@
+108 SMs (listed as num_sim_cores and num_sim_small_cores)
+4 subpartitions per SM
+192KB/SM of combined shared memory and L1 data cache
+256KB RF/SM but 64KB/subpartition
+40MB L2 cache?
+
+A6000 has 6MB in L2 
+accel-sim config shows 64 sets, 128 line size, 16 way accossiativity
+by the equation from macsim, that gives 48 tiles
