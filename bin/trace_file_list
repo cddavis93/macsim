@@ -1,3 +1,13 @@
-1
-/home/cory/LightGCN-PyTorch/traces/macsim/kernel_config.txt
-#../sst-unit-test/traces/nvbit/vectormultadd/65536/kernel_config.txt
+12
+/home/cory/LightGCN-PyTorch/traces/macsim/Kernel4571/trace.txt
+/home/cory/LightGCN-PyTorch/traces/macsim/Kernel6461/trace.txt
+/home/cory/LightGCN-PyTorch/traces/macsim/Kernel67289/trace.txt
+/home/cory/LightGCN-PyTorch/traces/macsim/Kernel39876/trace.txt
+/home/cory/LightGCN-PyTorch/traces/macsim/Kernel10589/trace.txt
+/home/cory/ExpressGNN/traces/macsim/Kernel9510/trace.txt
+/home/cory/ExpressGNN/traces/macsim/Kernel2715/trace.txt
+/home/cory/ExpressGNN/traces/macsim/Kernel14709/trace.txt
+/home/cory/ExpressGNN/traces/macsim/Kernel6545/trace.txt
+/home/cory/ExpressGNN/traces/macsim/Kernel1099/trace.txt
+/home/cory/ExpressGNN/traces/macsim/Kernel10152/trace.txt
+/home/cory/ExpressGNN/traces/macsim/Kernel52652/trace.txt
