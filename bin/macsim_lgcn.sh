@@ -11,10 +11,10 @@ for kernel in "${LGCN_kernels[@]}"; do
     cp ../params/params_$config params.in
     echo "out ../stats/LGCN/$kernel" >> params.in
     echo "1" > trace_file_list
-    echo "/home/cory/macsim/traces/LGCN/Kernel$kernel/trace.txt" >> trace_file_list
+    echo "../traces/LGCN/Kernel$kernel/trace.txt" >> trace_file_list
     echo "running macsim"
     echo "LGCN kernel $kernel" 
-    echo "trace path /home/cory/macsim/traces/LGCN/Kernel$kernel/trace.txt"
+    echo "trace path ../traces/LGCN/Kernel$kernel/trace.txt"
     mkdir ../stats/LGCN/$kernel
     mkdir ../stats/LGCN/$kernel/$day
     ./macsim 2>&1 | tee ../stats/LGCN/$kernel/$day/sim.log
