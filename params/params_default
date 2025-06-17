@@ -1,4 +1,4 @@
-
+out ../stats/
 # Simulation Configuration
 num_sim_cores 16
 num_sim_small_cores 16

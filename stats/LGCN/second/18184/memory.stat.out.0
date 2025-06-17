@@ -1,0 +1,1471 @@
+####################################################################################################
+Interval
+####################################################################################################
+Cumulative:         Cycles:                  20000     Instructions:                  1200
+AVG_MEMORY_LATENCY_BASE                                    230115                        230115
+
+AVG_MEMORY_LATENCY                                      713384855                       3100.12
+
+MSHR_FULL                                                       0                             0
+
+TOTAL_MEMORY                                               230100                        230100
+
+TOTAL_MEMORY_MERGE                                          25754                      0.111925
+
+TOTAL_WB                                                       15                   6.51891e-05
+
+L1_WB                                                           8                      0.533333
+
+L2_WB                                                           0                             0
+
+LLC_WB                                                          0                             0
+
+TOTAL_DRAM                                                 203370                        203370
+
+TOTAL_DRAM_MERGE                                                1                   4.91715e-06
+
+L1_HIT_CPU                                                      0                             0
+
+L1_HIT_GPU                                                  15358                         15358
+
+L1_MISS_CPU                                                     0                             0
+
+L1_MISS_GPU                                                223750                        223750
+
+L2_HIT_CPU                                                      0                             0
+
+L2_HIT_GPU                                                      0                             0
+
+L2_MISS_CPU                                                     0                             0
+
+L2_MISS_GPU                                                204346                        204346
+
+L3_HIT_CPU                                                      0                             0
+
+L3_HIT_GPU                                                      0                             0
+
+L3_MISS_CPU                                                     0                             0
+
+L3_MISS_GPU                                                204346                        204346
+
+LLC_HIT_CPU                                                     0                             0
+
+LLC_HIT_GPU                                                   990                           990
+
+LLC_MISS_CPU                                                    0                             0
+
+LLC_MISS_GPU                                               203356                        203356
+
+LLC_HIT_PROMOTION_CPU                                           0                             0
+
+LLC_HIT_PROMOTION_GPU                                           0                             0
+
+FETCH_THREAD_SKIP_LD_WAIT                                       0                             0
+
+FETCH_THREAD_SKIP_BR_WAIT                                       0                             0
+
+FETCH_THREAD_SKIP_SCHED_WAIT                                    0                             0
+
+NUM_MUL_TRANS_CM_TM_DM_INST                                     0                             0
+
+NUM_MUL_TRANS_CM_TM_DM                                          0                           NaN
+
+CONST_CACHE_HIT                                                 0                             0
+
+CONST_CACHE_MISS                                                0                             0
+
+CONST_CACHE_MISS_NO_EXECUTE                                     0                             0
+
+CONST_CACHE_ACCESS                                              0                             0
+
+TEXTURE_CACHE_HIT                                               0                             0
+
+TEXTURE_CACHE_MISS                                              0                             0
+
+TEXTURE_CACHE_NO_EXECUTE                                        0                             0
+
+TEXTURE_CACHE_ACCESS                                            0                             0
+
+SHARED_MEM_INST                                                 0                             0
+
+SHARED_MEM_ACCESS                                         4017805                       4017805
+
+CACHE_BANK_BUSY                                             21031                         21031
+
+ICACHE_MISS_TOTAL                                            6350                          6350
+
+TOTAL_CAGE_PERIOD                                               0                             0
+
+TOTAL_CAGE_APPL0                                                0                           NaN
+
+TOTAL_CAGE_APPL1                                                0                           NaN
+
+TOTAL_CAGE_APPL2                                                0                           NaN
+
+TOTAL_CAGE_APPL3                                                0                           NaN
+
+TOTAL_CAGE_APPL4                                                0                           NaN
+
+ABIP_AVG_RATIO_BASE                                             0                             0
+
+ABIP_AVG_RATIO                                                  0                           NaN
+
+TOTAL_WRITE_ACKS                                                0                             0
+
+TOTAL_WRITES                                               101274                        101274
+
+NUM_PHYSICAL_PAGES                                              0                             0
+
+UNIQUE_PAGE                                                     0                             0
+
+REALLOCATION                                                    0                             0
+
+EVICTION                                                        0                             0
+
+AVG_PAGE_FAULTS_PER_BATCH_BASE                                  0                             0
+
+AVG_PAGE_FAULTS_PER_BATCH                                       0                           NaN
+
+MAX_PAGE_FAULTS_PER_BATCH                                       0                           NaN
+
+COAL_INST                                                       0                          NaN 
+UNCOAL_INST                                                     0                          NaN 
+                                                                0                           100%
+
+COAL_INST_SINGLE_TRANS                                          0                          NaN 
+COAL_INST_MUL_TRANS                                             0                          NaN 
+UNCOAL_INST_MUL_TRANS                                           0                          NaN 
+                                                                0                           100%
+
+SM_COAL_INST                                                    0                          NaN 
+CM_COAL_INST                                                    0                          NaN 
+TM_COAL_INST                                                    0                          NaN 
+DM_COAL_INST                                                    0                          NaN 
+                                                                0                           100%
+
+SM_UNCOAL_INST                                                  0                          NaN 
+CM_UNCOAL_INST                                                  0                          NaN 
+TM_UNCOAL_INST                                                  0                          NaN 
+DM_UNCOAL_INST                                                  0                          NaN 
+                                                                0                           100%
+
+SM_COAL_INST_SINGLE_TRANS                                       0                          NaN 
+CM_COAL_INST_SINGLE_TRANS                                       0                          NaN 
+TM_COAL_INST_SINGLE_TRANS                                       0                          NaN 
+DM_COAL_INST_SINGLE_TRANS                                       0                          NaN 
+                                                                0                           100%
+
+SM_COAL_INST_MUL_TRANS                                          0                          NaN 
+CM_COAL_INST_MUL_TRANS                                          0                          NaN 
+TM_COAL_INST_MUL_TRANS                                          0                          NaN 
+DM_COAL_INST_MUL_TRANS                                          0                          NaN 
+                                                                0                           100%
+
+LD_NO_FORWARD                                                   0                          NaN 
+FORWARDED_LD                                                    0                          NaN 
+                                                                0                           100%
+
+TLB_HIT                                                         0                          NaN 
+TLB_MISS                                                        0                          NaN 
+                                                                0                           100%
+
+PAGETABLE_HIT                                                   0                          NaN 
+PAGETABLE_MISS                                                  0                          NaN 
+                                                                0                           100%
+
+MEM_STALL_CYCLE_CORE_0                                          0                             0
+
+ICACHE_FILL_CORE_0                                             64                            64
+
+NUM_WRITE_ACKS_CORE_0                                           0                             0
+
+NUM_WRITES_CORE_0                                            1024                          1024
+
+ICACHE_HIT_CORE_0                                           65807                       99.9028%
+ICACHE_MISS_CORE_0                                             64                     0.0971596%
+                                                            65871                           100%
+
+MEM_STALL_CYCLE_CORE_1                                          0                             0
+
+ICACHE_FILL_CORE_1                                             64                            64
+
+NUM_WRITE_ACKS_CORE_1                                           0                             0
+
+NUM_WRITES_CORE_1                                            1024                          1024
+
+ICACHE_HIT_CORE_1                                           65509                       99.9024%
+ICACHE_MISS_CORE_1                                             64                     0.0976011%
+                                                            65573                           100%
+
+MEM_STALL_CYCLE_CORE_2                                          0                             0
+
+ICACHE_FILL_CORE_2                                             64                            64
+
+NUM_WRITE_ACKS_CORE_2                                           0                             0
+
+NUM_WRITES_CORE_2                                            1024                          1024
+
+ICACHE_HIT_CORE_2                                           65648                       99.9026%
+ICACHE_MISS_CORE_2                                             64                     0.0973947%
+                                                            65712                           100%
+
+MEM_STALL_CYCLE_CORE_3                                          0                             0
+
+ICACHE_FILL_CORE_3                                             64                            64
+
+NUM_WRITE_ACKS_CORE_3                                           0                             0
+
+NUM_WRITES_CORE_3                                            1024                          1024
+
+ICACHE_HIT_CORE_3                                           65895                        99.903%
+ICACHE_MISS_CORE_3                                             64                       0.09703%
+                                                            65959                           100%
+
+MEM_STALL_CYCLE_CORE_4                                          0                             0
+
+ICACHE_FILL_CORE_4                                             64                            64
+
+NUM_WRITE_ACKS_CORE_4                                           0                             0
+
+NUM_WRITES_CORE_4                                            1024                          1024
+
+ICACHE_HIT_CORE_4                                           68051                        99.906%
+ICACHE_MISS_CORE_4                                             64                     0.0939587%
+                                                            68115                           100%
+
+MEM_STALL_CYCLE_CORE_5                                          0                             0
+
+ICACHE_FILL_CORE_5                                             64                            64
+
+NUM_WRITE_ACKS_CORE_5                                           0                             0
+
+NUM_WRITES_CORE_5                                            1024                          1024
+
+ICACHE_HIT_CORE_5                                           68349                       99.9064%
+ICACHE_MISS_CORE_5                                             64                     0.0935495%
+                                                            68413                           100%
+
+MEM_STALL_CYCLE_CORE_6                                          0                             0
+
+ICACHE_FILL_CORE_6                                             64                            64
+
+NUM_WRITE_ACKS_CORE_6                                           0                             0
+
+NUM_WRITES_CORE_6                                            1024                          1024
+
+ICACHE_HIT_CORE_6                                           68734                        99.907%
+ICACHE_MISS_CORE_6                                             64                      0.093026%
+                                                            68798                           100%
+
+MEM_STALL_CYCLE_CORE_7                                          0                             0
+
+ICACHE_FILL_CORE_7                                             64                            64
+
+NUM_WRITE_ACKS_CORE_7                                           0                             0
+
+NUM_WRITES_CORE_7                                            1024                          1024
+
+ICACHE_HIT_CORE_7                                           68935                       99.9072%
+ICACHE_MISS_CORE_7                                             64                      0.092755%
+                                                            68999                           100%
+
+MEM_STALL_CYCLE_CORE_8                                          0                             0
+
+ICACHE_FILL_CORE_8                                             64                            64
+
+NUM_WRITE_ACKS_CORE_8                                           0                             0
+
+NUM_WRITES_CORE_8                                            1024                          1024
+
+ICACHE_HIT_CORE_8                                           68652                       99.9069%
+ICACHE_MISS_CORE_8                                             64                      0.093137%
+                                                            68716                           100%
+
+MEM_STALL_CYCLE_CORE_9                                          0                             0
+
+ICACHE_FILL_CORE_9                                             64                            64
+
+NUM_WRITE_ACKS_CORE_9                                           0                             0
+
+NUM_WRITES_CORE_9                                            1024                          1024
+
+ICACHE_HIT_CORE_9                                           68621                       99.9068%
+ICACHE_MISS_CORE_9                                             64                      0.093179%
+                                                            68685                           100%
+
+MEM_STALL_CYCLE_CORE_10                                         0                             0
+
+ICACHE_FILL_CORE_10                                            64                            64
+
+NUM_WRITE_ACKS_CORE_10                                          0                             0
+
+NUM_WRITES_CORE_10                                           1024                          1024
+
+ICACHE_HIT_CORE_10                                          68594                       99.9068%
+ICACHE_MISS_CORE_10                                            64                     0.0932157%
+                                                            68658                           100%
+
+MEM_STALL_CYCLE_CORE_11                                         0                             0
+
+ICACHE_FILL_CORE_11                                            64                            64
+
+NUM_WRITE_ACKS_CORE_11                                          0                             0
+
+NUM_WRITES_CORE_11                                           1024                          1024
+
+ICACHE_HIT_CORE_11                                          68715                        99.907%
+ICACHE_MISS_CORE_11                                            64                     0.0930517%
+                                                            68779                           100%
+
+MEM_STALL_CYCLE_CORE_12                                         0                             0
+
+ICACHE_FILL_CORE_12                                            64                            64
+
+NUM_WRITE_ACKS_CORE_12                                          0                             0
+
+NUM_WRITES_CORE_12                                           1024                          1024
+
+ICACHE_HIT_CORE_12                                          68700                       99.9069%
+ICACHE_MISS_CORE_12                                            64                      0.093072%
+                                                            68764                           100%
+
+MEM_STALL_CYCLE_CORE_13                                         0                             0
+
+ICACHE_FILL_CORE_13                                            64                            64
+
+NUM_WRITE_ACKS_CORE_13                                          0                             0
+
+NUM_WRITES_CORE_13                                           1024                          1024
+
+ICACHE_HIT_CORE_13                                          68575                       99.9068%
+ICACHE_MISS_CORE_13                                            64                     0.0932415%
+                                                            68639                           100%
+
+MEM_STALL_CYCLE_CORE_14                                         0                             0
+
+ICACHE_FILL_CORE_14                                            64                            64
+
+NUM_WRITE_ACKS_CORE_14                                          0                             0
+
+NUM_WRITES_CORE_14                                           1024                          1024
+
+ICACHE_HIT_CORE_14                                          68438                       99.9066%
+ICACHE_MISS_CORE_14                                            64                     0.0934279%
+                                                            68502                           100%
+
+MEM_STALL_CYCLE_CORE_15                                         0                             0
+
+ICACHE_FILL_CORE_15                                            64                            64
+
+NUM_WRITE_ACKS_CORE_15                                          0                             0
+
+NUM_WRITES_CORE_15                                           1024                          1024
+
+ICACHE_HIT_CORE_15                                          68697                       99.9069%
+ICACHE_MISS_CORE_15                                            64                      0.093076%
+                                                            68761                           100%
+
+MEM_STALL_CYCLE_CORE_16                                         0                             0
+
+ICACHE_FILL_CORE_16                                            64                            64
+
+NUM_WRITE_ACKS_CORE_16                                          0                             0
+
+NUM_WRITES_CORE_16                                           1024                          1024
+
+ICACHE_HIT_CORE_16                                          68839                       99.9071%
+ICACHE_MISS_CORE_16                                            64                     0.0928842%
+                                                            68903                           100%
+
+MEM_STALL_CYCLE_CORE_17                                         0                             0
+
+ICACHE_FILL_CORE_17                                            65                            65
+
+NUM_WRITE_ACKS_CORE_17                                          0                             0
+
+NUM_WRITES_CORE_17                                           1024                          1024
+
+ICACHE_HIT_CORE_17                                          68685                       99.9055%
+ICACHE_MISS_CORE_17                                            65                     0.0945455%
+                                                            68750                           100%
+
+MEM_STALL_CYCLE_CORE_18                                         0                             0
+
+ICACHE_FILL_CORE_18                                            64                            64
+
+NUM_WRITE_ACKS_CORE_18                                          0                             0
+
+NUM_WRITES_CORE_18                                           1024                          1024
+
+ICACHE_HIT_CORE_18                                          68802                       99.9071%
+ICACHE_MISS_CORE_18                                            64                     0.0929341%
+                                                            68866                           100%
+
+MEM_STALL_CYCLE_CORE_19                                         0                             0
+
+ICACHE_FILL_CORE_19                                            64                            64
+
+NUM_WRITE_ACKS_CORE_19                                          0                             0
+
+NUM_WRITES_CORE_19                                           1024                          1024
+
+ICACHE_HIT_CORE_19                                          68694                       99.9069%
+ICACHE_MISS_CORE_19                                            64                     0.0930801%
+                                                            68758                           100%
+
+MEM_STALL_CYCLE_CORE_20                                         0                             0
+
+ICACHE_FILL_CORE_20                                            64                            64
+
+NUM_WRITE_ACKS_CORE_20                                          0                             0
+
+NUM_WRITES_CORE_20                                           1024                          1024
+
+ICACHE_HIT_CORE_20                                          68716                        99.907%
+ICACHE_MISS_CORE_20                                            64                     0.0930503%
+                                                            68780                           100%
+
+MEM_STALL_CYCLE_CORE_21                                         0                             0
+
+ICACHE_FILL_CORE_21                                            64                            64
+
+NUM_WRITE_ACKS_CORE_21                                          0                             0
+
+NUM_WRITES_CORE_21                                           1024                          1024
+
+ICACHE_HIT_CORE_21                                          68633                       99.9068%
+ICACHE_MISS_CORE_21                                            64                     0.0931627%
+                                                            68697                           100%
+
+MEM_STALL_CYCLE_CORE_22                                         0                             0
+
+ICACHE_FILL_CORE_22                                            64                            64
+
+NUM_WRITE_ACKS_CORE_22                                          0                             0
+
+NUM_WRITES_CORE_22                                           1024                          1024
+
+ICACHE_HIT_CORE_22                                          68684                       99.9069%
+ICACHE_MISS_CORE_22                                            64                     0.0930936%
+                                                            68748                           100%
+
+MEM_STALL_CYCLE_CORE_23                                         0                             0
+
+ICACHE_FILL_CORE_23                                            64                            64
+
+NUM_WRITE_ACKS_CORE_23                                          0                             0
+
+NUM_WRITES_CORE_23                                           1024                          1024
+
+ICACHE_HIT_CORE_23                                          68364                       99.9065%
+ICACHE_MISS_CORE_23                                            64                      0.093529%
+                                                            68428                           100%
+
+MEM_STALL_CYCLE_CORE_24                                         0                             0
+
+ICACHE_FILL_CORE_24                                            64                            64
+
+NUM_WRITE_ACKS_CORE_24                                          0                             0
+
+NUM_WRITES_CORE_24                                           1024                          1024
+
+ICACHE_HIT_CORE_24                                          68620                       99.9068%
+ICACHE_MISS_CORE_24                                            64                     0.0931804%
+                                                            68684                           100%
+
+MEM_STALL_CYCLE_CORE_25                                         0                             0
+
+ICACHE_FILL_CORE_25                                            64                            64
+
+NUM_WRITE_ACKS_CORE_25                                          0                             0
+
+NUM_WRITES_CORE_25                                           1024                          1024
+
+ICACHE_HIT_CORE_25                                          68157                       99.9062%
+ICACHE_MISS_CORE_25                                            64                     0.0938128%
+                                                            68221                           100%
+
+MEM_STALL_CYCLE_CORE_26                                         0                             0
+
+ICACHE_FILL_CORE_26                                            64                            64
+
+NUM_WRITE_ACKS_CORE_26                                          0                             0
+
+NUM_WRITES_CORE_26                                           1024                          1024
+
+ICACHE_HIT_CORE_26                                          68459                       99.9066%
+ICACHE_MISS_CORE_26                                            64                     0.0933993%
+                                                            68523                           100%
+
+MEM_STALL_CYCLE_CORE_27                                         0                             0
+
+ICACHE_FILL_CORE_27                                            64                            64
+
+NUM_WRITE_ACKS_CORE_27                                          0                             0
+
+NUM_WRITES_CORE_27                                           1024                          1024
+
+ICACHE_HIT_CORE_27                                          68630                       99.9068%
+ICACHE_MISS_CORE_27                                            64                     0.0931668%
+                                                            68694                           100%
+
+MEM_STALL_CYCLE_CORE_28                                         0                             0
+
+ICACHE_FILL_CORE_28                                            67                            67
+
+NUM_WRITE_ACKS_CORE_28                                          0                             0
+
+NUM_WRITES_CORE_28                                           1024                          1024
+
+ICACHE_HIT_CORE_28                                          68717                       99.9026%
+ICACHE_MISS_CORE_28                                            67                     0.0974064%
+                                                            68784                           100%
+
+MEM_STALL_CYCLE_CORE_29                                         0                             0
+
+ICACHE_FILL_CORE_29                                            64                            64
+
+NUM_WRITE_ACKS_CORE_29                                          0                             0
+
+NUM_WRITES_CORE_29                                           1024                          1024
+
+ICACHE_HIT_CORE_29                                          68658                       99.9069%
+ICACHE_MISS_CORE_29                                            64                     0.0931288%
+                                                            68722                           100%
+
+MEM_STALL_CYCLE_CORE_30                                         0                             0
+
+ICACHE_FILL_CORE_30                                            64                            64
+
+NUM_WRITE_ACKS_CORE_30                                          0                             0
+
+NUM_WRITES_CORE_30                                           1024                          1024
+
+ICACHE_HIT_CORE_30                                          68644                       99.9069%
+ICACHE_MISS_CORE_30                                            64                     0.0931478%
+                                                            68708                           100%
+
+MEM_STALL_CYCLE_CORE_31                                         0                             0
+
+ICACHE_FILL_CORE_31                                            65                            65
+
+NUM_WRITE_ACKS_CORE_31                                          0                             0
+
+NUM_WRITES_CORE_31                                           1024                          1024
+
+ICACHE_HIT_CORE_31                                          68518                       99.9052%
+ICACHE_MISS_CORE_31                                            65                     0.0947757%
+                                                            68583                           100%
+
+MEM_STALL_CYCLE_CORE_32                                         0                             0
+
+ICACHE_FILL_CORE_32                                            65                            65
+
+NUM_WRITE_ACKS_CORE_32                                          0                             0
+
+NUM_WRITES_CORE_32                                           1024                          1024
+
+ICACHE_HIT_CORE_32                                          68350                        99.905%
+ICACHE_MISS_CORE_32                                            65                     0.0950084%
+                                                            68415                           100%
+
+MEM_STALL_CYCLE_CORE_33                                         0                             0
+
+ICACHE_FILL_CORE_33                                            64                            64
+
+NUM_WRITE_ACKS_CORE_33                                          0                             0
+
+NUM_WRITES_CORE_33                                           1024                          1024
+
+ICACHE_HIT_CORE_33                                          68266                       99.9063%
+ICACHE_MISS_CORE_33                                            64                     0.0936631%
+                                                            68330                           100%
+
+MEM_STALL_CYCLE_CORE_34                                         0                             0
+
+ICACHE_FILL_CORE_34                                            64                            64
+
+NUM_WRITE_ACKS_CORE_34                                          0                             0
+
+NUM_WRITES_CORE_34                                           1024                          1024
+
+ICACHE_HIT_CORE_34                                          68251                       99.9063%
+ICACHE_MISS_CORE_34                                            64                     0.0936837%
+                                                            68315                           100%
+
+MEM_STALL_CYCLE_CORE_35                                         0                             0
+
+ICACHE_FILL_CORE_35                                            64                            64
+
+NUM_WRITE_ACKS_CORE_35                                          0                             0
+
+NUM_WRITES_CORE_35                                            914                           914
+
+ICACHE_HIT_CORE_35                                          66489                       99.9038%
+ICACHE_MISS_CORE_35                                            64                      0.096164%
+                                                            66553                           100%
+
+MEM_STALL_CYCLE_CORE_36                                         0                             0
+
+ICACHE_FILL_CORE_36                                            56                            56
+
+NUM_WRITE_ACKS_CORE_36                                          0                             0
+
+NUM_WRITES_CORE_36                                            896                           896
+
+ICACHE_HIT_CORE_36                                          61175                       99.9085%
+ICACHE_MISS_CORE_36                                            56                     0.0914569%
+                                                            61231                           100%
+
+MEM_STALL_CYCLE_CORE_37                                         0                             0
+
+ICACHE_FILL_CORE_37                                            57                            57
+
+NUM_WRITE_ACKS_CORE_37                                          0                             0
+
+NUM_WRITES_CORE_37                                            904                           904
+
+ICACHE_HIT_CORE_37                                          62356                       99.9087%
+ICACHE_MISS_CORE_37                                            57                     0.0913271%
+                                                            62413                           100%
+
+MEM_STALL_CYCLE_CORE_38                                         0                             0
+
+ICACHE_FILL_CORE_38                                            56                            56
+
+NUM_WRITE_ACKS_CORE_38                                          0                             0
+
+NUM_WRITES_CORE_38                                            896                           896
+
+ICACHE_HIT_CORE_38                                          61154                       99.9085%
+ICACHE_MISS_CORE_38                                            56                     0.0914883%
+                                                            61210                           100%
+
+MEM_STALL_CYCLE_CORE_39                                         0                             0
+
+ICACHE_FILL_CORE_39                                            56                            56
+
+NUM_WRITE_ACKS_CORE_39                                          0                             0
+
+NUM_WRITES_CORE_39                                            896                           896
+
+ICACHE_HIT_CORE_39                                          60707                       99.9078%
+ICACHE_MISS_CORE_39                                            56                     0.0921613%
+                                                            60763                           100%
+
+MEM_STALL_CYCLE_CORE_40                                         0                             0
+
+ICACHE_FILL_CORE_40                                            57                            57
+
+NUM_WRITE_ACKS_CORE_40                                          0                             0
+
+NUM_WRITES_CORE_40                                            896                           896
+
+ICACHE_HIT_CORE_40                                          60918                       99.9065%
+ICACHE_MISS_CORE_40                                            57                     0.0934809%
+                                                            60975                           100%
+
+MEM_STALL_CYCLE_CORE_41                                         0                             0
+
+ICACHE_FILL_CORE_41                                            56                            56
+
+NUM_WRITE_ACKS_CORE_41                                          0                             0
+
+NUM_WRITES_CORE_41                                            896                           896
+
+ICACHE_HIT_CORE_41                                          61345                       99.9088%
+ICACHE_MISS_CORE_41                                            56                     0.0912037%
+                                                            61401                           100%
+
+MEM_STALL_CYCLE_CORE_42                                         0                             0
+
+ICACHE_FILL_CORE_42                                            56                            56
+
+NUM_WRITE_ACKS_CORE_42                                          0                             0
+
+NUM_WRITES_CORE_42                                            896                           896
+
+ICACHE_HIT_CORE_42                                          61323                       99.9088%
+ICACHE_MISS_CORE_42                                            56                     0.0912364%
+                                                            61379                           100%
+
+MEM_STALL_CYCLE_CORE_43                                         0                             0
+
+ICACHE_FILL_CORE_43                                            56                            56
+
+NUM_WRITE_ACKS_CORE_43                                          0                             0
+
+NUM_WRITES_CORE_43                                            896                           896
+
+ICACHE_HIT_CORE_43                                          61204                       99.9086%
+ICACHE_MISS_CORE_43                                            56                     0.0914136%
+                                                            61260                           100%
+
+MEM_STALL_CYCLE_CORE_44                                         0                             0
+
+ICACHE_FILL_CORE_44                                            56                            56
+
+NUM_WRITE_ACKS_CORE_44                                          0                             0
+
+NUM_WRITES_CORE_44                                            896                           896
+
+ICACHE_HIT_CORE_44                                          61074                       99.9084%
+ICACHE_MISS_CORE_44                                            56                      0.091608%
+                                                            61130                           100%
+
+MEM_STALL_CYCLE_CORE_45                                         0                             0
+
+ICACHE_FILL_CORE_45                                            56                            56
+
+NUM_WRITE_ACKS_CORE_45                                          0                             0
+
+NUM_WRITES_CORE_45                                            896                           896
+
+ICACHE_HIT_CORE_45                                          61240                       99.9086%
+ICACHE_MISS_CORE_45                                            56                       0.09136%
+                                                            61296                           100%
+
+MEM_STALL_CYCLE_CORE_46                                         0                             0
+
+ICACHE_FILL_CORE_46                                            56                            56
+
+NUM_WRITE_ACKS_CORE_46                                          0                             0
+
+NUM_WRITES_CORE_46                                            896                           896
+
+ICACHE_HIT_CORE_46                                          61438                       99.9089%
+ICACHE_MISS_CORE_46                                            56                     0.0910658%
+                                                            61494                           100%
+
+MEM_STALL_CYCLE_CORE_47                                         0                             0
+
+ICACHE_FILL_CORE_47                                            56                            56
+
+NUM_WRITE_ACKS_CORE_47                                          0                             0
+
+NUM_WRITES_CORE_47                                            896                           896
+
+ICACHE_HIT_CORE_47                                          61247                       99.9087%
+ICACHE_MISS_CORE_47                                            56                     0.0913495%
+                                                            61303                           100%
+
+MEM_STALL_CYCLE_CORE_48                                         0                             0
+
+ICACHE_FILL_CORE_48                                            56                            56
+
+NUM_WRITE_ACKS_CORE_48                                          0                             0
+
+NUM_WRITES_CORE_48                                            896                           896
+
+ICACHE_HIT_CORE_48                                          61051                       99.9084%
+ICACHE_MISS_CORE_48                                            56                     0.0916425%
+                                                            61107                           100%
+
+MEM_STALL_CYCLE_CORE_49                                         0                             0
+
+ICACHE_FILL_CORE_49                                            56                            56
+
+NUM_WRITE_ACKS_CORE_49                                          0                             0
+
+NUM_WRITES_CORE_49                                            896                           896
+
+ICACHE_HIT_CORE_49                                          61393                       99.9089%
+ICACHE_MISS_CORE_49                                            56                     0.0911325%
+                                                            61449                           100%
+
+MEM_STALL_CYCLE_CORE_50                                         0                             0
+
+ICACHE_FILL_CORE_50                                            56                            56
+
+NUM_WRITE_ACKS_CORE_50                                          0                             0
+
+NUM_WRITES_CORE_50                                            896                           896
+
+ICACHE_HIT_CORE_50                                          61085                       99.9084%
+ICACHE_MISS_CORE_50                                            56                     0.0915916%
+                                                            61141                           100%
+
+MEM_STALL_CYCLE_CORE_51                                         0                             0
+
+ICACHE_FILL_CORE_51                                            56                            56
+
+NUM_WRITE_ACKS_CORE_51                                          0                             0
+
+NUM_WRITES_CORE_51                                            896                           896
+
+ICACHE_HIT_CORE_51                                          61482                        99.909%
+ICACHE_MISS_CORE_51                                            56                     0.0910007%
+                                                            61538                           100%
+
+MEM_STALL_CYCLE_CORE_52                                         0                             0
+
+ICACHE_FILL_CORE_52                                            56                            56
+
+NUM_WRITE_ACKS_CORE_52                                          0                             0
+
+NUM_WRITES_CORE_52                                            896                           896
+
+ICACHE_HIT_CORE_52                                          61308                       99.9087%
+ICACHE_MISS_CORE_52                                            56                     0.0912587%
+                                                            61364                           100%
+
+MEM_STALL_CYCLE_CORE_53                                         0                             0
+
+ICACHE_FILL_CORE_53                                            56                            56
+
+NUM_WRITE_ACKS_CORE_53                                          0                             0
+
+NUM_WRITES_CORE_53                                            896                           896
+
+ICACHE_HIT_CORE_53                                          61276                       99.9087%
+ICACHE_MISS_CORE_53                                            56                     0.0913063%
+                                                            61332                           100%
+
+MEM_STALL_CYCLE_CORE_54                                         0                             0
+
+ICACHE_FILL_CORE_54                                            56                            56
+
+NUM_WRITE_ACKS_CORE_54                                          0                             0
+
+NUM_WRITES_CORE_54                                            896                           896
+
+ICACHE_HIT_CORE_54                                          61089                       99.9084%
+ICACHE_MISS_CORE_54                                            56                     0.0915856%
+                                                            61145                           100%
+
+MEM_STALL_CYCLE_CORE_55                                         0                             0
+
+ICACHE_FILL_CORE_55                                            56                            56
+
+NUM_WRITE_ACKS_CORE_55                                          0                             0
+
+NUM_WRITES_CORE_55                                            896                           896
+
+ICACHE_HIT_CORE_55                                          61237                       99.9086%
+ICACHE_MISS_CORE_55                                            56                     0.0913644%
+                                                            61293                           100%
+
+MEM_STALL_CYCLE_CORE_56                                         0                             0
+
+ICACHE_FILL_CORE_56                                            57                            57
+
+NUM_WRITE_ACKS_CORE_56                                          0                             0
+
+NUM_WRITES_CORE_56                                            896                           896
+
+ICACHE_HIT_CORE_56                                          61303                       99.9071%
+ICACHE_MISS_CORE_56                                            57                     0.0928944%
+                                                            61360                           100%
+
+MEM_STALL_CYCLE_CORE_57                                         0                             0
+
+ICACHE_FILL_CORE_57                                            56                            56
+
+NUM_WRITE_ACKS_CORE_57                                          0                             0
+
+NUM_WRITES_CORE_57                                            896                           896
+
+ICACHE_HIT_CORE_57                                          61394                       99.9089%
+ICACHE_MISS_CORE_57                                            56                      0.091131%
+                                                            61450                           100%
+
+MEM_STALL_CYCLE_CORE_58                                         0                             0
+
+ICACHE_FILL_CORE_58                                            56                            56
+
+NUM_WRITE_ACKS_CORE_58                                          0                             0
+
+NUM_WRITES_CORE_58                                            896                           896
+
+ICACHE_HIT_CORE_58                                          61244                       99.9086%
+ICACHE_MISS_CORE_58                                            56                      0.091354%
+                                                            61300                           100%
+
+MEM_STALL_CYCLE_CORE_59                                         0                             0
+
+ICACHE_FILL_CORE_59                                            56                            56
+
+NUM_WRITE_ACKS_CORE_59                                          0                             0
+
+NUM_WRITES_CORE_59                                            896                           896
+
+ICACHE_HIT_CORE_59                                          61427                       99.9089%
+ICACHE_MISS_CORE_59                                            56                     0.0910821%
+                                                            61483                           100%
+
+MEM_STALL_CYCLE_CORE_60                                         0                             0
+
+ICACHE_FILL_CORE_60                                            56                            56
+
+NUM_WRITE_ACKS_CORE_60                                          0                             0
+
+NUM_WRITES_CORE_60                                            896                           896
+
+ICACHE_HIT_CORE_60                                          61383                       99.9089%
+ICACHE_MISS_CORE_60                                            56                     0.0911473%
+                                                            61439                           100%
+
+MEM_STALL_CYCLE_CORE_61                                         0                             0
+
+ICACHE_FILL_CORE_61                                            56                            56
+
+NUM_WRITE_ACKS_CORE_61                                          0                             0
+
+NUM_WRITES_CORE_61                                            896                           896
+
+ICACHE_HIT_CORE_61                                          61364                       99.9088%
+ICACHE_MISS_CORE_61                                            56                     0.0911755%
+                                                            61420                           100%
+
+MEM_STALL_CYCLE_CORE_62                                         0                             0
+
+ICACHE_FILL_CORE_62                                            56                            56
+
+NUM_WRITE_ACKS_CORE_62                                          0                             0
+
+NUM_WRITES_CORE_62                                            896                           896
+
+ICACHE_HIT_CORE_62                                          61387                       99.9089%
+ICACHE_MISS_CORE_62                                            56                     0.0911414%
+                                                            61443                           100%
+
+MEM_STALL_CYCLE_CORE_63                                         0                             0
+
+ICACHE_FILL_CORE_63                                            57                            57
+
+NUM_WRITE_ACKS_CORE_63                                          0                             0
+
+NUM_WRITES_CORE_63                                            896                           896
+
+ICACHE_HIT_CORE_63                                          61454                       99.9073%
+ICACHE_MISS_CORE_63                                            57                     0.0926664%
+                                                            61511                           100%
+
+MEM_STALL_CYCLE_CORE_64                                         0                             0
+
+ICACHE_FILL_CORE_64                                            57                            57
+
+NUM_WRITE_ACKS_CORE_64                                          0                             0
+
+NUM_WRITES_CORE_64                                            896                           896
+
+ICACHE_HIT_CORE_64                                          61446                       99.9073%
+ICACHE_MISS_CORE_64                                            57                     0.0926784%
+                                                            61503                           100%
+
+MEM_STALL_CYCLE_CORE_65                                         0                             0
+
+ICACHE_FILL_CORE_65                                            56                            56
+
+NUM_WRITE_ACKS_CORE_65                                          0                             0
+
+NUM_WRITES_CORE_65                                            896                           896
+
+ICACHE_HIT_CORE_65                                          61344                       99.9088%
+ICACHE_MISS_CORE_65                                            56                     0.0912052%
+                                                            61400                           100%
+
+MEM_STALL_CYCLE_CORE_66                                         0                             0
+
+ICACHE_FILL_CORE_66                                            56                            56
+
+NUM_WRITE_ACKS_CORE_66                                          0                             0
+
+NUM_WRITES_CORE_66                                            896                           896
+
+ICACHE_HIT_CORE_66                                          61366                       99.9088%
+ICACHE_MISS_CORE_66                                            56                     0.0911725%
+                                                            61422                           100%
+
+MEM_STALL_CYCLE_CORE_67                                         0                             0
+
+ICACHE_FILL_CORE_67                                            56                            56
+
+NUM_WRITE_ACKS_CORE_67                                          0                             0
+
+NUM_WRITES_CORE_67                                            896                           896
+
+ICACHE_HIT_CORE_67                                          61621                       99.9092%
+ICACHE_MISS_CORE_67                                            56                     0.0907956%
+                                                            61677                           100%
+
+MEM_STALL_CYCLE_CORE_68                                         0                             0
+
+ICACHE_FILL_CORE_68                                            56                            56
+
+NUM_WRITE_ACKS_CORE_68                                          0                             0
+
+NUM_WRITES_CORE_68                                            896                           896
+
+ICACHE_HIT_CORE_68                                          61441                       99.9089%
+ICACHE_MISS_CORE_68                                            56                     0.0910614%
+                                                            61497                           100%
+
+MEM_STALL_CYCLE_CORE_69                                         0                             0
+
+ICACHE_FILL_CORE_69                                            56                            56
+
+NUM_WRITE_ACKS_CORE_69                                          0                             0
+
+NUM_WRITES_CORE_69                                            896                           896
+
+ICACHE_HIT_CORE_69                                          61297                       99.9087%
+ICACHE_MISS_CORE_69                                            56                     0.0912751%
+                                                            61353                           100%
+
+MEM_STALL_CYCLE_CORE_70                                         0                             0
+
+ICACHE_FILL_CORE_70                                            56                            56
+
+NUM_WRITE_ACKS_CORE_70                                          0                             0
+
+NUM_WRITES_CORE_70                                            896                           896
+
+ICACHE_HIT_CORE_70                                          61308                       99.9087%
+ICACHE_MISS_CORE_70                                            56                     0.0912587%
+                                                            61364                           100%
+
+MEM_STALL_CYCLE_CORE_71                                         0                             0
+
+ICACHE_FILL_CORE_71                                            56                            56
+
+NUM_WRITE_ACKS_CORE_71                                          0                             0
+
+NUM_WRITES_CORE_71                                            896                           896
+
+ICACHE_HIT_CORE_71                                          61250                       99.9087%
+ICACHE_MISS_CORE_71                                            56                     0.0913451%
+                                                            61306                           100%
+
+MEM_STALL_CYCLE_CORE_72                                         0                             0
+
+ICACHE_FILL_CORE_72                                            56                            56
+
+NUM_WRITE_ACKS_CORE_72                                          0                             0
+
+NUM_WRITES_CORE_72                                            896                           896
+
+ICACHE_HIT_CORE_72                                          58484                       99.9043%
+ICACHE_MISS_CORE_72                                            56                     0.0956611%
+                                                            58540                           100%
+
+MEM_STALL_CYCLE_CORE_73                                         0                             0
+
+ICACHE_FILL_CORE_73                                            56                            56
+
+NUM_WRITE_ACKS_CORE_73                                          0                             0
+
+NUM_WRITES_CORE_73                                            896                           896
+
+ICACHE_HIT_CORE_73                                          58552                       99.9044%
+ICACHE_MISS_CORE_73                                            56                     0.0955501%
+                                                            58608                           100%
+
+MEM_STALL_CYCLE_CORE_74                                         0                             0
+
+ICACHE_FILL_CORE_74                                            56                            56
+
+NUM_WRITE_ACKS_CORE_74                                          0                             0
+
+NUM_WRITES_CORE_74                                            896                           896
+
+ICACHE_HIT_CORE_74                                          58336                       99.9041%
+ICACHE_MISS_CORE_74                                            56                     0.0959035%
+                                                            58392                           100%
+
+MEM_STALL_CYCLE_CORE_75                                         0                             0
+
+ICACHE_FILL_CORE_75                                            56                            56
+
+NUM_WRITE_ACKS_CORE_75                                          0                             0
+
+NUM_WRITES_CORE_75                                            896                           896
+
+ICACHE_HIT_CORE_75                                          58640                       99.9046%
+ICACHE_MISS_CORE_75                                            56                     0.0954068%
+                                                            58696                           100%
+
+MEM_STALL_CYCLE_CORE_76                                         0                             0
+
+ICACHE_FILL_CORE_76                                            56                            56
+
+NUM_WRITE_ACKS_CORE_76                                          0                             0
+
+NUM_WRITES_CORE_76                                            896                           896
+
+ICACHE_HIT_CORE_76                                          58718                       99.9047%
+ICACHE_MISS_CORE_76                                            56                     0.0952802%
+                                                            58774                           100%
+
+MEM_STALL_CYCLE_CORE_77                                         0                             0
+
+ICACHE_FILL_CORE_77                                            56                            56
+
+NUM_WRITE_ACKS_CORE_77                                          0                             0
+
+NUM_WRITES_CORE_77                                            896                           896
+
+ICACHE_HIT_CORE_77                                          58644                       99.9046%
+ICACHE_MISS_CORE_77                                            56                     0.0954003%
+                                                            58700                           100%
+
+MEM_STALL_CYCLE_CORE_78                                         0                             0
+
+ICACHE_FILL_CORE_78                                            56                            56
+
+NUM_WRITE_ACKS_CORE_78                                          0                             0
+
+NUM_WRITES_CORE_78                                            896                           896
+
+ICACHE_HIT_CORE_78                                          58639                       99.9046%
+ICACHE_MISS_CORE_78                                            56                     0.0954085%
+                                                            58695                           100%
+
+MEM_STALL_CYCLE_CORE_79                                         0                             0
+
+ICACHE_FILL_CORE_79                                            56                            56
+
+NUM_WRITE_ACKS_CORE_79                                          0                             0
+
+NUM_WRITES_CORE_79                                            896                           896
+
+ICACHE_HIT_CORE_79                                          58850                       99.9049%
+ICACHE_MISS_CORE_79                                            56                     0.0950667%
+                                                            58906                           100%
+
+MEM_STALL_CYCLE_CORE_80                                         0                             0
+
+ICACHE_FILL_CORE_80                                            56                            56
+
+NUM_WRITE_ACKS_CORE_80                                          0                             0
+
+NUM_WRITES_CORE_80                                            896                           896
+
+ICACHE_HIT_CORE_80                                          58464                       99.9043%
+ICACHE_MISS_CORE_80                                            56                     0.0956938%
+                                                            58520                           100%
+
+MEM_STALL_CYCLE_CORE_81                                         0                             0
+
+ICACHE_FILL_CORE_81                                            56                            56
+
+NUM_WRITE_ACKS_CORE_81                                          0                             0
+
+NUM_WRITES_CORE_81                                            896                           896
+
+ICACHE_HIT_CORE_81                                          58703                       99.9047%
+ICACHE_MISS_CORE_81                                            56                     0.0953045%
+                                                            58759                           100%
+
+MEM_STALL_CYCLE_CORE_82                                         0                             0
+
+ICACHE_FILL_CORE_82                                            56                            56
+
+NUM_WRITE_ACKS_CORE_82                                          0                             0
+
+NUM_WRITES_CORE_82                                            896                           896
+
+ICACHE_HIT_CORE_82                                          58465                       99.9043%
+ICACHE_MISS_CORE_82                                            56                     0.0956921%
+                                                            58521                           100%
+
+MEM_STALL_CYCLE_CORE_83                                         0                             0
+
+ICACHE_FILL_CORE_83                                            56                            56
+
+NUM_WRITE_ACKS_CORE_83                                          0                             0
+
+NUM_WRITES_CORE_83                                            896                           896
+
+ICACHE_HIT_CORE_83                                          58546                       99.9044%
+ICACHE_MISS_CORE_83                                            56                     0.0955599%
+                                                            58602                           100%
+
+MEM_STALL_CYCLE_CORE_84                                         0                             0
+
+ICACHE_FILL_CORE_84                                            57                            57
+
+NUM_WRITE_ACKS_CORE_84                                          0                             0
+
+NUM_WRITES_CORE_84                                            896                           896
+
+ICACHE_HIT_CORE_84                                          58541                       99.9027%
+ICACHE_MISS_CORE_84                                            57                     0.0972729%
+                                                            58598                           100%
+
+MEM_STALL_CYCLE_CORE_85                                         0                             0
+
+ICACHE_FILL_CORE_85                                            56                            56
+
+NUM_WRITE_ACKS_CORE_85                                          0                             0
+
+NUM_WRITES_CORE_85                                            896                           896
+
+ICACHE_HIT_CORE_85                                          58707                       99.9047%
+ICACHE_MISS_CORE_85                                            56                     0.0952981%
+                                                            58763                           100%
+
+MEM_STALL_CYCLE_CORE_86                                         0                             0
+
+ICACHE_FILL_CORE_86                                            56                            56
+
+NUM_WRITE_ACKS_CORE_86                                          0                             0
+
+NUM_WRITES_CORE_86                                            896                           896
+
+ICACHE_HIT_CORE_86                                          58919                        99.905%
+ICACHE_MISS_CORE_86                                            56                     0.0949555%
+                                                            58975                           100%
+
+MEM_STALL_CYCLE_CORE_87                                         0                             0
+
+ICACHE_FILL_CORE_87                                            56                            56
+
+NUM_WRITE_ACKS_CORE_87                                          0                             0
+
+NUM_WRITES_CORE_87                                            896                           896
+
+ICACHE_HIT_CORE_87                                          58542                       99.9044%
+ICACHE_MISS_CORE_87                                            56                     0.0955664%
+                                                            58598                           100%
+
+MEM_STALL_CYCLE_CORE_88                                         0                             0
+
+ICACHE_FILL_CORE_88                                            56                            56
+
+NUM_WRITE_ACKS_CORE_88                                          0                             0
+
+NUM_WRITES_CORE_88                                            896                           896
+
+ICACHE_HIT_CORE_88                                          58651                       99.9046%
+ICACHE_MISS_CORE_88                                            56                      0.095389%
+                                                            58707                           100%
+
+MEM_STALL_CYCLE_CORE_89                                         0                             0
+
+ICACHE_FILL_CORE_89                                            56                            56
+
+NUM_WRITE_ACKS_CORE_89                                          0                             0
+
+NUM_WRITES_CORE_89                                            896                           896
+
+ICACHE_HIT_CORE_89                                          58765                       99.9048%
+ICACHE_MISS_CORE_89                                            56                     0.0952041%
+                                                            58821                           100%
+
+MEM_STALL_CYCLE_CORE_90                                         0                             0
+
+ICACHE_FILL_CORE_90                                            56                            56
+
+NUM_WRITE_ACKS_CORE_90                                          0                             0
+
+NUM_WRITES_CORE_90                                            896                           896
+
+ICACHE_HIT_CORE_90                                          58669                       99.9046%
+ICACHE_MISS_CORE_90                                            56                     0.0953597%
+                                                            58725                           100%
+
+MEM_STALL_CYCLE_CORE_91                                         0                             0
+
+ICACHE_FILL_CORE_91                                            56                            56
+
+NUM_WRITE_ACKS_CORE_91                                          0                             0
+
+NUM_WRITES_CORE_91                                            896                           896
+
+ICACHE_HIT_CORE_91                                          58805                       99.9049%
+ICACHE_MISS_CORE_91                                            56                     0.0951394%
+                                                            58861                           100%
+
+MEM_STALL_CYCLE_CORE_92                                         0                             0
+
+ICACHE_FILL_CORE_92                                            56                            56
+
+NUM_WRITE_ACKS_CORE_92                                          0                             0
+
+NUM_WRITES_CORE_92                                            896                           896
+
+ICACHE_HIT_CORE_92                                          58884                        99.905%
+ICACHE_MISS_CORE_92                                            56                     0.0950119%
+                                                            58940                           100%
+
+MEM_STALL_CYCLE_CORE_93                                         0                             0
+
+ICACHE_FILL_CORE_93                                            57                            57
+
+NUM_WRITE_ACKS_CORE_93                                          0                             0
+
+NUM_WRITES_CORE_93                                            896                           896
+
+ICACHE_HIT_CORE_93                                          58648                       99.9029%
+ICACHE_MISS_CORE_93                                            57                     0.0970956%
+                                                            58705                           100%
+
+MEM_STALL_CYCLE_CORE_94                                         0                             0
+
+ICACHE_FILL_CORE_94                                            56                            56
+
+NUM_WRITE_ACKS_CORE_94                                          0                             0
+
+NUM_WRITES_CORE_94                                            896                           896
+
+ICACHE_HIT_CORE_94                                          58655                       99.9046%
+ICACHE_MISS_CORE_94                                            56                     0.0953825%
+                                                            58711                           100%
+
+MEM_STALL_CYCLE_CORE_95                                         0                             0
+
+ICACHE_FILL_CORE_95                                            56                            56
+
+NUM_WRITE_ACKS_CORE_95                                          0                             0
+
+NUM_WRITES_CORE_95                                            896                           896
+
+ICACHE_HIT_CORE_95                                          58698                       99.9047%
+ICACHE_MISS_CORE_95                                            56                     0.0953127%
+                                                            58754                           100%
+
+MEM_STALL_CYCLE_CORE_96                                         0                             0
+
+ICACHE_FILL_CORE_96                                            56                            56
+
+NUM_WRITE_ACKS_CORE_96                                          0                             0
+
+NUM_WRITES_CORE_96                                            896                           896
+
+ICACHE_HIT_CORE_96                                          58672                       99.9046%
+ICACHE_MISS_CORE_96                                            56                     0.0953549%
+                                                            58728                           100%
+
+MEM_STALL_CYCLE_CORE_97                                         0                             0
+
+ICACHE_FILL_CORE_97                                            56                            56
+
+NUM_WRITE_ACKS_CORE_97                                          0                             0
+
+NUM_WRITES_CORE_97                                            896                           896
+
+ICACHE_HIT_CORE_97                                          58682                       99.9047%
+ICACHE_MISS_CORE_97                                            56                     0.0953386%
+                                                            58738                           100%
+
+MEM_STALL_CYCLE_CORE_98                                         0                             0
+
+ICACHE_FILL_CORE_98                                            56                            56
+
+NUM_WRITE_ACKS_CORE_98                                          0                             0
+
+NUM_WRITES_CORE_98                                            896                           896
+
+ICACHE_HIT_CORE_98                                          58699                       99.9047%
+ICACHE_MISS_CORE_98                                            56                      0.095311%
+                                                            58755                           100%
+
+MEM_STALL_CYCLE_CORE_99                                         0                             0
+
+ICACHE_FILL_CORE_99                                            56                            56
+
+NUM_WRITE_ACKS_CORE_99                                          0                             0
+
+NUM_WRITES_CORE_99                                            896                           896
+
+ICACHE_HIT_CORE_99                                          58611                       99.9045%
+ICACHE_MISS_CORE_99                                            56                      0.095454%
+                                                            58667                           100%
+
+MEM_STALL_CYCLE_CORE_100                                        0                             0
+
+ICACHE_FILL_CORE_100                                           56                            56
+
+NUM_WRITE_ACKS_CORE_100                                         0                             0
+
+NUM_WRITES_CORE_100                                           896                           896
+
+ICACHE_HIT_CORE_100                                         58407                       99.9042%
+ICACHE_MISS_CORE_100                                           56                     0.0957871%
+                                                            58463                           100%
+
+MEM_STALL_CYCLE_CORE_101                                        0                             0
+
+ICACHE_FILL_CORE_101                                           56                            56
+
+NUM_WRITE_ACKS_CORE_101                                         0                             0
+
+NUM_WRITES_CORE_101                                           896                           896
+
+ICACHE_HIT_CORE_101                                         58501                       99.9044%
+ICACHE_MISS_CORE_101                                           56                     0.0956333%
+                                                            58557                           100%
+
+MEM_STALL_CYCLE_CORE_102                                        0                             0
+
+ICACHE_FILL_CORE_102                                           56                            56
+
+NUM_WRITE_ACKS_CORE_102                                         0                             0
+
+NUM_WRITES_CORE_102                                           896                           896
+
+ICACHE_HIT_CORE_102                                         58653                       99.9046%
+ICACHE_MISS_CORE_102                                           56                     0.0953857%
+                                                            58709                           100%
+
+MEM_STALL_CYCLE_CORE_103                                        0                             0
+
+ICACHE_FILL_CORE_103                                           56                            56
+
+NUM_WRITE_ACKS_CORE_103                                         0                             0
+
+NUM_WRITES_CORE_103                                           896                           896
+
+ICACHE_HIT_CORE_103                                         58615                       99.9046%
+ICACHE_MISS_CORE_103                                           56                     0.0954475%
+                                                            58671                           100%
+
+MEM_STALL_CYCLE_CORE_104                                        0                             0
+
+ICACHE_FILL_CORE_104                                           56                            56
+
+NUM_WRITE_ACKS_CORE_104                                         0                             0
+
+NUM_WRITES_CORE_104                                           896                           896
+
+ICACHE_HIT_CORE_104                                         58646                       99.9046%
+ICACHE_MISS_CORE_104                                           56                     0.0953971%
+                                                            58702                           100%
+
+MEM_STALL_CYCLE_CORE_105                                        0                             0
+
+ICACHE_FILL_CORE_105                                           57                            57
+
+NUM_WRITE_ACKS_CORE_105                                         0                             0
+
+NUM_WRITES_CORE_105                                           896                           896
+
+ICACHE_HIT_CORE_105                                         58430                       99.9025%
+ICACHE_MISS_CORE_105                                           57                     0.0974576%
+                                                            58487                           100%
+
+MEM_STALL_CYCLE_CORE_106                                        0                             0
+
+ICACHE_FILL_CORE_106                                           56                            56
+
+NUM_WRITE_ACKS_CORE_106                                         0                             0
+
+NUM_WRITES_CORE_106                                           896                           896
+
+ICACHE_HIT_CORE_106                                         58647                       99.9046%
+ICACHE_MISS_CORE_106                                           56                     0.0953955%
+                                                            58703                           100%
+
+MEM_STALL_CYCLE_CORE_107                                        0                             0
+
+ICACHE_FILL_CORE_107                                           56                            56
+
+NUM_WRITE_ACKS_CORE_107                                         0                             0
+
+NUM_WRITES_CORE_107                                           896                           896
+
+ICACHE_HIT_CORE_107                                         58383                       99.9042%
+ICACHE_MISS_CORE_107                                           56                     0.0958264%
+                                                            58439                           100%
+

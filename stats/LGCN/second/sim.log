@@ -1,0 +1,6 @@
+Arguments: ./macsim 
+src/macsim.cc:122: (I=0  C=0):  initialize knobs
+number of cores : 108
+src/macsim.cc:541: (I=0  C=0):  initialize simulation
+src/macsim.cc:321: (I=0  C=0):  initialize cores (0/0/108)
+src/memory.cc:1570: (I=0  C=0):  Memory system(l2_decoupled_network) has been initialized.

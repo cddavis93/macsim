@@ -1,0 +1,2097 @@
+*** begin of the data structure *** 
+core_id:0 thread_id:0
+opcode: NVBIT_MOV
+num_read_regs: 0
+num_dest_regs: 1
+dst0: 1
+is_fp: 0
+cf_type: NOT_CF
+is_load: 0
+inst_size: 16
+inst_addr: 7f83a6fe0700
+active_mask: ffffffff
+br_taken_mask: 0
+br_target_addr: 7f83a6fe0710
+reconv_inst_addr/mem_addr: 0
+mem_addr/reconv_inst_addr: 0
+mem_access_size/barrier_id: 4
+num_barrier_threads: 0
+addr_space/fence_level: GPU_ADDR_SP_SHARED
+barrier_id/mem_access_size: 4
+fence_level/addr_space: GPU_FENCE_INVALID
+*** end of the data structure *** 
+
+*** begin of the data structure *** 
+core_id:0 thread_id:1
+opcode: NVBIT_MOV
+num_read_regs: 0
+num_dest_regs: 1
+dst0: 1
+is_fp: 0
+cf_type: NOT_CF
+is_load: 0
+inst_size: 16
+inst_addr: 7f83a6fe0700
+active_mask: ffffffff
+br_taken_mask: 0
+br_target_addr: 7f83a6fe0710
+reconv_inst_addr/mem_addr: 0
+mem_addr/reconv_inst_addr: 0
+mem_access_size/barrier_id: 4
+num_barrier_threads: 0
+addr_space/fence_level: GPU_ADDR_SP_SHARED
+barrier_id/mem_access_size: 4
+fence_level/addr_space: GPU_FENCE_INVALID
+*** end of the data structure *** 
+
+*** begin of the data structure *** 
+core_id:0 thread_id:2
+opcode: NVBIT_MOV
+num_read_regs: 0
+num_dest_regs: 1
+dst0: 1
+is_fp: 0
+cf_type: NOT_CF
+is_load: 0
+inst_size: 16
+inst_addr: 7f83a6fe0700
+active_mask: ffffffff
+br_taken_mask: 0
+br_target_addr: 7f83a6fe0710
+reconv_inst_addr/mem_addr: 0
+mem_addr/reconv_inst_addr: 0
+mem_access_size/barrier_id: 4
+num_barrier_threads: 0
+addr_space/fence_level: GPU_ADDR_SP_SHARED
+barrier_id/mem_access_size: 4
+fence_level/addr_space: GPU_FENCE_INVALID
+*** end of the data structure *** 
+
+*** begin of the data structure *** 
+core_id:0 thread_id:3
+opcode: NVBIT_MOV
+num_read_regs: 0
+num_dest_regs: 1
+dst0: 1
+is_fp: 0
+cf_type: NOT_CF
+is_load: 0
+inst_size: 16
+inst_addr: 7f83a6fe0700
+active_mask: ffffffff
+br_taken_mask: 0
+br_target_addr: 7f83a6fe0710
+reconv_inst_addr/mem_addr: 0
+mem_addr/reconv_inst_addr: 0
+mem_access_size/barrier_id: 4
+num_barrier_threads: 0
+addr_space/fence_level: GPU_ADDR_SP_SHARED
+barrier_id/mem_access_size: 4
+fence_level/addr_space: GPU_FENCE_INVALID
+*** end of the data structure *** 
+
+*** begin of the data structure *** 
+core_id:0 thread_id:0
+opcode: NVBIT_S2R
+num_read_regs: 0
+num_dest_regs: 1
+dst0: 2
+is_fp: 0
+cf_type: NOT_CF
+is_load: 0
+inst_size: 16
+inst_addr: 7f83a6fe0710
+active_mask: ffffffff
+br_taken_mask: 0
+br_target_addr: 7f83a6fe0720
+reconv_inst_addr/mem_addr: 0
+mem_addr/reconv_inst_addr: 0
+mem_access_size/barrier_id: 4
+num_barrier_threads: 0
+addr_space/fence_level: GPU_ADDR_SP_INVALID
+barrier_id/mem_access_size: 4
+fence_level/addr_space: GPU_FENCE_INVALID
+*** end of the data structure *** 
+
+*** begin of the data structure *** 
+core_id:0 thread_id:1
+opcode: NVBIT_S2R
+num_read_regs: 0
+num_dest_regs: 1
+dst0: 2
+is_fp: 0
+cf_type: NOT_CF
+is_load: 0
+inst_size: 16
+inst_addr: 7f83a6fe0710
+active_mask: ffffffff
+br_taken_mask: 0
+br_target_addr: 7f83a6fe0720
+reconv_inst_addr/mem_addr: 0
+mem_addr/reconv_inst_addr: 0
+mem_access_size/barrier_id: 4
+num_barrier_threads: 0
+addr_space/fence_level: GPU_ADDR_SP_INVALID
+barrier_id/mem_access_size: 4
+fence_level/addr_space: GPU_FENCE_INVALID
+*** end of the data structure *** 
+
+*** begin of the data structure *** 
+core_id:0 thread_id:2
+opcode: NVBIT_S2R
+num_read_regs: 0
+num_dest_regs: 1
+dst0: 2
+is_fp: 0
+cf_type: NOT_CF
+is_load: 0
+inst_size: 16
+inst_addr: 7f83a6fe0710
+active_mask: ffffffff
+br_taken_mask: 0
+br_target_addr: 7f83a6fe0720
+reconv_inst_addr/mem_addr: 0
+mem_addr/reconv_inst_addr: 0
+mem_access_size/barrier_id: 4
+num_barrier_threads: 0
+addr_space/fence_level: GPU_ADDR_SP_INVALID
+barrier_id/mem_access_size: 4
+fence_level/addr_space: GPU_FENCE_INVALID
+*** end of the data structure *** 
+
+*** begin of the data structure *** 
+core_id:0 thread_id:3
+opcode: NVBIT_S2R
+num_read_regs: 0
+num_dest_regs: 1
+dst0: 2
+is_fp: 0
+cf_type: NOT_CF
+is_load: 0
+inst_size: 16
+inst_addr: 7f83a6fe0710
+active_mask: ffffffff
+br_taken_mask: 0
+br_target_addr: 7f83a6fe0720
+reconv_inst_addr/mem_addr: 0
+mem_addr/reconv_inst_addr: 0
+mem_access_size/barrier_id: 4
+num_barrier_threads: 0
+addr_space/fence_level: GPU_ADDR_SP_INVALID
+barrier_id/mem_access_size: 4
+fence_level/addr_space: GPU_FENCE_INVALID
+*** end of the data structure *** 
+
+*** begin of the data structure *** 
+core_id:0 thread_id:0
+opcode: NVBIT_ULDC
+num_read_regs: 0
+num_dest_regs: 1
+dst0: 4
+is_fp: 0
+cf_type: NOT_CF
+is_load: 0
+inst_size: 16
+inst_addr: 7f83a6fe0720
+active_mask: ffffffff
+br_taken_mask: 0
+br_target_addr: 7f83a6fe0730
+reconv_inst_addr/mem_addr: 0
+mem_addr/reconv_inst_addr: 0
+mem_access_size/barrier_id: 8
+num_barrier_threads: 0
+addr_space/fence_level: GPU_ADDR_SP_INVALID
+barrier_id/mem_access_size: 8
+fence_level/addr_space: GPU_FENCE_INVALID
+*** end of the data structure *** 
+
+*** begin of the data structure *** 
+core_id:0 thread_id:1
+opcode: NVBIT_ULDC
+num_read_regs: 0
+num_dest_regs: 1
+dst0: 4
+is_fp: 0
+cf_type: NOT_CF
+is_load: 0
+inst_size: 16
+inst_addr: 7f83a6fe0720
+active_mask: ffffffff
+br_taken_mask: 0
+br_target_addr: 7f83a6fe0730
+reconv_inst_addr/mem_addr: 0
+mem_addr/reconv_inst_addr: 0
+mem_access_size/barrier_id: 8
+num_barrier_threads: 0
+addr_space/fence_level: GPU_ADDR_SP_INVALID
+barrier_id/mem_access_size: 8
+fence_level/addr_space: GPU_FENCE_INVALID
+*** end of the data structure *** 
+
+*** begin of the data structure *** 
+core_id:0 thread_id:2
+opcode: NVBIT_ULDC
+num_read_regs: 0
+num_dest_regs: 1
+dst0: 4
+is_fp: 0
+cf_type: NOT_CF
+is_load: 0
+inst_size: 16
+inst_addr: 7f83a6fe0720
+active_mask: ffffffff
+br_taken_mask: 0
+br_target_addr: 7f83a6fe0730
+reconv_inst_addr/mem_addr: 0
+mem_addr/reconv_inst_addr: 0
+mem_access_size/barrier_id: 8
+num_barrier_threads: 0
+addr_space/fence_level: GPU_ADDR_SP_INVALID
+barrier_id/mem_access_size: 8
+fence_level/addr_space: GPU_FENCE_INVALID
+*** end of the data structure *** 
+
+*** begin of the data structure *** 
+core_id:0 thread_id:3
+opcode: NVBIT_ULDC
+num_read_regs: 0
+num_dest_regs: 1
+dst0: 4
+is_fp: 0
+cf_type: NOT_CF
+is_load: 0
+inst_size: 16
+inst_addr: 7f83a6fe0720
+active_mask: ffffffff
+br_taken_mask: 0
+br_target_addr: 7f83a6fe0730
+reconv_inst_addr/mem_addr: 0
+mem_addr/reconv_inst_addr: 0
+mem_access_size/barrier_id: 8
+num_barrier_threads: 0
+addr_space/fence_level: GPU_ADDR_SP_INVALID
+barrier_id/mem_access_size: 8
+fence_level/addr_space: GPU_FENCE_INVALID
+*** end of the data structure *** 
+
+*** begin of the data structure *** 
+core_id:0 thread_id:0
+opcode: NVBIT_S2R
+num_read_regs: 0
+num_dest_regs: 1
+dst0: 3
+is_fp: 0
+cf_type: NOT_CF
+is_load: 0
+inst_size: 16
+inst_addr: 7f83a6fe0730
+active_mask: ffffffff
+br_taken_mask: 0
+br_target_addr: 7f83a6fe0740
+reconv_inst_addr/mem_addr: 0
+mem_addr/reconv_inst_addr: 0
+mem_access_size/barrier_id: 4
+num_barrier_threads: 0
+addr_space/fence_level: GPU_ADDR_SP_INVALID
+barrier_id/mem_access_size: 4
+fence_level/addr_space: GPU_FENCE_INVALID
+*** end of the data structure *** 
+
+*** begin of the data structure *** 
+core_id:0 thread_id:1
+opcode: NVBIT_S2R
+num_read_regs: 0
+num_dest_regs: 1
+dst0: 3
+is_fp: 0
+cf_type: NOT_CF
+is_load: 0
+inst_size: 16
+inst_addr: 7f83a6fe0730
+active_mask: ffffffff
+br_taken_mask: 0
+br_target_addr: 7f83a6fe0740
+reconv_inst_addr/mem_addr: 0
+mem_addr/reconv_inst_addr: 0
+mem_access_size/barrier_id: 4
+num_barrier_threads: 0
+addr_space/fence_level: GPU_ADDR_SP_INVALID
+barrier_id/mem_access_size: 4
+fence_level/addr_space: GPU_FENCE_INVALID
+*** end of the data structure *** 
+
+*** begin of the data structure *** 
+core_id:0 thread_id:2
+opcode: NVBIT_S2R
+num_read_regs: 0
+num_dest_regs: 1
+dst0: 3
+is_fp: 0
+cf_type: NOT_CF
+is_load: 0
+inst_size: 16
+inst_addr: 7f83a6fe0730
+active_mask: ffffffff
+br_taken_mask: 0
+br_target_addr: 7f83a6fe0740
+reconv_inst_addr/mem_addr: 0
+mem_addr/reconv_inst_addr: 0
+mem_access_size/barrier_id: 4
+num_barrier_threads: 0
+addr_space/fence_level: GPU_ADDR_SP_INVALID
+barrier_id/mem_access_size: 4
+fence_level/addr_space: GPU_FENCE_INVALID
+*** end of the data structure *** 
+
+*** begin of the data structure *** 
+core_id:0 thread_id:3
+opcode: NVBIT_S2R
+num_read_regs: 0
+num_dest_regs: 1
+dst0: 3
+is_fp: 0
+cf_type: NOT_CF
+is_load: 0
+inst_size: 16
+inst_addr: 7f83a6fe0730
+active_mask: ffffffff
+br_taken_mask: 0
+br_target_addr: 7f83a6fe0740
+reconv_inst_addr/mem_addr: 0
+mem_addr/reconv_inst_addr: 0
+mem_access_size/barrier_id: 4
+num_barrier_threads: 0
+addr_space/fence_level: GPU_ADDR_SP_INVALID
+barrier_id/mem_access_size: 4
+fence_level/addr_space: GPU_FENCE_INVALID
+*** end of the data structure *** 
+
+*** begin of the data structure *** 
+core_id:0 thread_id:0
+opcode: NVBIT_SHF
+num_read_regs: 2
+num_dest_regs: 1
+src0: 2
+src1: 255
+dst0: 2
+is_fp: 0
+cf_type: NOT_CF
+is_load: 0
+inst_size: 16
+inst_addr: 7f83a6fe0740
+active_mask: ffffffff
+br_taken_mask: 0
+br_target_addr: 7f83a6fe0750
+reconv_inst_addr/mem_addr: 0
+mem_addr/reconv_inst_addr: 0
+mem_access_size/barrier_id: 4
+num_barrier_threads: 0
+addr_space/fence_level: GPU_ADDR_SP_INVALID
+barrier_id/mem_access_size: 4
+fence_level/addr_space: GPU_FENCE_INVALID
+*** end of the data structure *** 
+
+*** begin of the data structure *** 
+core_id:0 thread_id:1
+opcode: NVBIT_SHF
+num_read_regs: 2
+num_dest_regs: 1
+src0: 2
+src1: 255
+dst0: 2
+is_fp: 0
+cf_type: NOT_CF
+is_load: 0
+inst_size: 16
+inst_addr: 7f83a6fe0740
+active_mask: ffffffff
+br_taken_mask: 0
+br_target_addr: 7f83a6fe0750
+reconv_inst_addr/mem_addr: 0
+mem_addr/reconv_inst_addr: 0
+mem_access_size/barrier_id: 4
+num_barrier_threads: 0
+addr_space/fence_level: GPU_ADDR_SP_INVALID
+barrier_id/mem_access_size: 4
+fence_level/addr_space: GPU_FENCE_INVALID
+*** end of the data structure *** 
+
+*** begin of the data structure *** 
+core_id:0 thread_id:2
+opcode: NVBIT_SHF
+num_read_regs: 2
+num_dest_regs: 1
+src0: 2
+src1: 255
+dst0: 2
+is_fp: 0
+cf_type: NOT_CF
+is_load: 0
+inst_size: 16
+inst_addr: 7f83a6fe0740
+active_mask: ffffffff
+br_taken_mask: 0
+br_target_addr: 7f83a6fe0750
+reconv_inst_addr/mem_addr: 0
+mem_addr/reconv_inst_addr: 0
+mem_access_size/barrier_id: 4
+num_barrier_threads: 0
+addr_space/fence_level: GPU_ADDR_SP_INVALID
+barrier_id/mem_access_size: 4
+fence_level/addr_space: GPU_FENCE_INVALID
+*** end of the data structure *** 
+
+*** begin of the data structure *** 
+core_id:0 thread_id:3
+opcode: NVBIT_SHF
+num_read_regs: 2
+num_dest_regs: 1
+src0: 2
+src1: 255
+dst0: 2
+is_fp: 0
+cf_type: NOT_CF
+is_load: 0
+inst_size: 16
+inst_addr: 7f83a6fe0740
+active_mask: ffffffff
+br_taken_mask: 0
+br_target_addr: 7f83a6fe0750
+reconv_inst_addr/mem_addr: 0
+mem_addr/reconv_inst_addr: 0
+mem_access_size/barrier_id: 4
+num_barrier_threads: 0
+addr_space/fence_level: GPU_ADDR_SP_INVALID
+barrier_id/mem_access_size: 4
+fence_level/addr_space: GPU_FENCE_INVALID
+*** end of the data structure *** 
+
+*** begin of the data structure *** 
+core_id:0 thread_id:0
+opcode: NVBIT_IADD3
+num_read_regs: 2
+num_dest_regs: 1
+src0: 2
+src1: 255
+dst0: 0
+is_fp: 0
+cf_type: NOT_CF
+is_load: 0
+inst_size: 16
+inst_addr: 7f83a6fe0750
+active_mask: ffffffff
+br_taken_mask: 0
+br_target_addr: 7f83a6fe0760
+reconv_inst_addr/mem_addr: 0
+mem_addr/reconv_inst_addr: 0
+mem_access_size/barrier_id: 4
+num_barrier_threads: 0
+addr_space/fence_level: GPU_ADDR_SP_INVALID
+barrier_id/mem_access_size: 4
+fence_level/addr_space: GPU_FENCE_INVALID
+*** end of the data structure *** 
+
+*** begin of the data structure *** 
+core_id:0 thread_id:1
+opcode: NVBIT_IADD3
+num_read_regs: 2
+num_dest_regs: 1
+src0: 2
+src1: 255
+dst0: 0
+is_fp: 0
+cf_type: NOT_CF
+is_load: 0
+inst_size: 16
+inst_addr: 7f83a6fe0750
+active_mask: ffffffff
+br_taken_mask: 0
+br_target_addr: 7f83a6fe0760
+reconv_inst_addr/mem_addr: 0
+mem_addr/reconv_inst_addr: 0
+mem_access_size/barrier_id: 4
+num_barrier_threads: 0
+addr_space/fence_level: GPU_ADDR_SP_INVALID
+barrier_id/mem_access_size: 4
+fence_level/addr_space: GPU_FENCE_INVALID
+*** end of the data structure *** 
+
+*** begin of the data structure *** 
+core_id:0 thread_id:2
+opcode: NVBIT_IADD3
+num_read_regs: 2
+num_dest_regs: 1
+src0: 2
+src1: 255
+dst0: 0
+is_fp: 0
+cf_type: NOT_CF
+is_load: 0
+inst_size: 16
+inst_addr: 7f83a6fe0750
+active_mask: ffffffff
+br_taken_mask: 0
+br_target_addr: 7f83a6fe0760
+reconv_inst_addr/mem_addr: 0
+mem_addr/reconv_inst_addr: 0
+mem_access_size/barrier_id: 4
+num_barrier_threads: 0
+addr_space/fence_level: GPU_ADDR_SP_INVALID
+barrier_id/mem_access_size: 4
+fence_level/addr_space: GPU_FENCE_INVALID
+*** end of the data structure *** 
+
+*** begin of the data structure *** 
+core_id:0 thread_id:3
+opcode: NVBIT_IADD3
+num_read_regs: 2
+num_dest_regs: 1
+src0: 2
+src1: 255
+dst0: 0
+is_fp: 0
+cf_type: NOT_CF
+is_load: 0
+inst_size: 16
+inst_addr: 7f83a6fe0750
+active_mask: ffffffff
+br_taken_mask: 0
+br_target_addr: 7f83a6fe0760
+reconv_inst_addr/mem_addr: 0
+mem_addr/reconv_inst_addr: 0
+mem_access_size/barrier_id: 4
+num_barrier_threads: 0
+addr_space/fence_level: GPU_ADDR_SP_INVALID
+barrier_id/mem_access_size: 4
+fence_level/addr_space: GPU_FENCE_INVALID
+*** end of the data structure *** 
+
+*** begin of the data structure *** 
+core_id:0 thread_id:0
+opcode: NVBIT_ISETP
+num_read_regs: 3
+num_dest_regs: 1
+src0: 7
+src1: 0
+src2: 7
+dst0: 0
+is_fp: 0
+cf_type: NOT_CF
+is_load: 0
+inst_size: 16
+inst_addr: 7f83a6fe0760
+active_mask: ffffffff
+br_taken_mask: 0
+br_target_addr: 7f83a6fe0770
+reconv_inst_addr/mem_addr: 0
+mem_addr/reconv_inst_addr: 0
+mem_access_size/barrier_id: 4
+num_barrier_threads: 0
+addr_space/fence_level: GPU_ADDR_SP_INVALID
+barrier_id/mem_access_size: 4
+fence_level/addr_space: GPU_FENCE_INVALID
+*** end of the data structure *** 
+
+*** begin of the data structure *** 
+core_id:0 thread_id:1
+opcode: NVBIT_ISETP
+num_read_regs: 3
+num_dest_regs: 1
+src0: 7
+src1: 0
+src2: 7
+dst0: 0
+is_fp: 0
+cf_type: NOT_CF
+is_load: 0
+inst_size: 16
+inst_addr: 7f83a6fe0760
+active_mask: ffffffff
+br_taken_mask: 0
+br_target_addr: 7f83a6fe0770
+reconv_inst_addr/mem_addr: 0
+mem_addr/reconv_inst_addr: 0
+mem_access_size/barrier_id: 4
+num_barrier_threads: 0
+addr_space/fence_level: GPU_ADDR_SP_INVALID
+barrier_id/mem_access_size: 4
+fence_level/addr_space: GPU_FENCE_INVALID
+*** end of the data structure *** 
+
+*** begin of the data structure *** 
+core_id:0 thread_id:2
+opcode: NVBIT_ISETP
+num_read_regs: 3
+num_dest_regs: 1
+src0: 7
+src1: 0
+src2: 7
+dst0: 0
+is_fp: 0
+cf_type: NOT_CF
+is_load: 0
+inst_size: 16
+inst_addr: 7f83a6fe0760
+active_mask: ffffffff
+br_taken_mask: 0
+br_target_addr: 7f83a6fe0770
+reconv_inst_addr/mem_addr: 0
+mem_addr/reconv_inst_addr: 0
+mem_access_size/barrier_id: 4
+num_barrier_threads: 0
+addr_space/fence_level: GPU_ADDR_SP_INVALID
+barrier_id/mem_access_size: 4
+fence_level/addr_space: GPU_FENCE_INVALID
+*** end of the data structure *** 
+
+*** begin of the data structure *** 
+core_id:0 thread_id:3
+opcode: NVBIT_ISETP
+num_read_regs: 3
+num_dest_regs: 1
+src0: 7
+src1: 0
+src2: 7
+dst0: 0
+is_fp: 0
+cf_type: NOT_CF
+is_load: 0
+inst_size: 16
+inst_addr: 7f83a6fe0760
+active_mask: ffffffff
+br_taken_mask: 0
+br_target_addr: 7f83a6fe0770
+reconv_inst_addr/mem_addr: 0
+mem_addr/reconv_inst_addr: 0
+mem_access_size/barrier_id: 4
+num_barrier_threads: 0
+addr_space/fence_level: GPU_ADDR_SP_INVALID
+barrier_id/mem_access_size: 4
+fence_level/addr_space: GPU_FENCE_INVALID
+*** end of the data structure *** 
+
+*** begin of the data structure *** 
+core_id:0 thread_id:0
+opcode: NVBIT_ISETP
+num_read_regs: 4
+num_dest_regs: 1
+src0: 7
+src1: 3
+src2: 0
+src3: 7
+dst0: 0
+is_fp: 0
+cf_type: NOT_CF
+is_load: 0
+inst_size: 16
+inst_addr: 7f83a6fe0860
+active_mask: ffffffff
+br_taken_mask: 0
+br_target_addr: 7f83a6fe0870
+reconv_inst_addr/mem_addr: 0
+mem_addr/reconv_inst_addr: 0
+mem_access_size/barrier_id: 4
+num_barrier_threads: 0
+addr_space/fence_level: GPU_ADDR_SP_INVALID
+barrier_id/mem_access_size: 4
+fence_level/addr_space: GPU_FENCE_INVALID
+*** end of the data structure *** 
+
+*** begin of the data structure *** 
+core_id:0 thread_id:1
+opcode: NVBIT_ISETP
+num_read_regs: 4
+num_dest_regs: 1
+src0: 7
+src1: 3
+src2: 0
+src3: 7
+dst0: 0
+is_fp: 0
+cf_type: NOT_CF
+is_load: 0
+inst_size: 16
+inst_addr: 7f83a6fe0860
+active_mask: ffffffff
+br_taken_mask: 0
+br_target_addr: 7f83a6fe0870
+reconv_inst_addr/mem_addr: 0
+mem_addr/reconv_inst_addr: 0
+mem_access_size/barrier_id: 4
+num_barrier_threads: 0
+addr_space/fence_level: GPU_ADDR_SP_INVALID
+barrier_id/mem_access_size: 4
+fence_level/addr_space: GPU_FENCE_INVALID
+*** end of the data structure *** 
+
+*** begin of the data structure *** 
+core_id:0 thread_id:2
+opcode: NVBIT_ISETP
+num_read_regs: 4
+num_dest_regs: 1
+src0: 7
+src1: 3
+src2: 0
+src3: 7
+dst0: 0
+is_fp: 0
+cf_type: NOT_CF
+is_load: 0
+inst_size: 16
+inst_addr: 7f83a6fe0860
+active_mask: ffffffff
+br_taken_mask: 0
+br_target_addr: 7f83a6fe0870
+reconv_inst_addr/mem_addr: 0
+mem_addr/reconv_inst_addr: 0
+mem_access_size/barrier_id: 4
+num_barrier_threads: 0
+addr_space/fence_level: GPU_ADDR_SP_INVALID
+barrier_id/mem_access_size: 4
+fence_level/addr_space: GPU_FENCE_INVALID
+*** end of the data structure *** 
+
+*** begin of the data structure *** 
+core_id:0 thread_id:3
+opcode: NVBIT_ISETP
+num_read_regs: 4
+num_dest_regs: 1
+src0: 7
+src1: 3
+src2: 0
+src3: 7
+dst0: 0
+is_fp: 0
+cf_type: NOT_CF
+is_load: 0
+inst_size: 16
+inst_addr: 7f83a6fe0860
+active_mask: ffffffff
+br_taken_mask: 0
+br_target_addr: 7f83a6fe0870
+reconv_inst_addr/mem_addr: 0
+mem_addr/reconv_inst_addr: 0
+mem_access_size/barrier_id: 4
+num_barrier_threads: 0
+addr_space/fence_level: GPU_ADDR_SP_INVALID
+barrier_id/mem_access_size: 4
+fence_level/addr_space: GPU_FENCE_INVALID
+*** end of the data structure *** 
+
+*** begin of the data structure *** 
+core_id:0 thread_id:0
+opcode: NVBIT_BSSY
+num_read_regs: 0
+num_dest_regs: 0
+is_fp: 0
+cf_type: NOT_CF
+is_load: 0
+inst_size: 16
+inst_addr: 7f83a6fe0870
+active_mask: ffffffff
+br_taken_mask: 0
+br_target_addr: 7f83a6fe0880
+reconv_inst_addr/mem_addr: 0
+mem_addr/reconv_inst_addr: 0
+mem_access_size/barrier_id: 4
+num_barrier_threads: 0
+addr_space/fence_level: GPU_ADDR_SP_INVALID
+barrier_id/mem_access_size: 4
+fence_level/addr_space: GPU_FENCE_INVALID
+*** end of the data structure *** 
+
+*** begin of the data structure *** 
+core_id:0 thread_id:1
+opcode: NVBIT_BSSY
+num_read_regs: 0
+num_dest_regs: 0
+is_fp: 0
+cf_type: NOT_CF
+is_load: 0
+inst_size: 16
+inst_addr: 7f83a6fe0870
+active_mask: ffffffff
+br_taken_mask: 0
+br_target_addr: 7f83a6fe0880
+reconv_inst_addr/mem_addr: 0
+mem_addr/reconv_inst_addr: 0
+mem_access_size/barrier_id: 4
+num_barrier_threads: 0
+addr_space/fence_level: GPU_ADDR_SP_INVALID
+barrier_id/mem_access_size: 4
+fence_level/addr_space: GPU_FENCE_INVALID
+*** end of the data structure *** 
+
+*** begin of the data structure *** 
+core_id:0 thread_id:2
+opcode: NVBIT_BSSY
+num_read_regs: 0
+num_dest_regs: 0
+is_fp: 0
+cf_type: NOT_CF
+is_load: 0
+inst_size: 16
+inst_addr: 7f83a6fe0870
+active_mask: ffffffff
+br_taken_mask: 0
+br_target_addr: 7f83a6fe0880
+reconv_inst_addr/mem_addr: 0
+mem_addr/reconv_inst_addr: 0
+mem_access_size/barrier_id: 4
+num_barrier_threads: 0
+addr_space/fence_level: GPU_ADDR_SP_INVALID
+barrier_id/mem_access_size: 4
+fence_level/addr_space: GPU_FENCE_INVALID
+*** end of the data structure *** 
+
+*** begin of the data structure *** 
+core_id:0 thread_id:3
+opcode: NVBIT_BSSY
+num_read_regs: 0
+num_dest_regs: 0
+is_fp: 0
+cf_type: NOT_CF
+is_load: 0
+inst_size: 16
+inst_addr: 7f83a6fe0870
+active_mask: ffffffff
+br_taken_mask: 0
+br_target_addr: 7f83a6fe0880
+reconv_inst_addr/mem_addr: 0
+mem_addr/reconv_inst_addr: 0
+mem_access_size/barrier_id: 4
+num_barrier_threads: 0
+addr_space/fence_level: GPU_ADDR_SP_INVALID
+barrier_id/mem_access_size: 4
+fence_level/addr_space: GPU_FENCE_INVALID
+*** end of the data structure *** 
+
+*** begin of the data structure *** 
+core_id:0 thread_id:0
+opcode: NVBIT_CS2R
+num_read_regs: 0
+num_dest_regs: 1
+dst0: 8
+is_fp: 0
+cf_type: NOT_CF
+is_load: 0
+inst_size: 16
+inst_addr: 7f83a6fe0880
+active_mask: ffffffff
+br_taken_mask: 0
+br_target_addr: 7f83a6fe0890
+reconv_inst_addr/mem_addr: 0
+mem_addr/reconv_inst_addr: 0
+mem_access_size/barrier_id: 4
+num_barrier_threads: 0
+addr_space/fence_level: GPU_ADDR_SP_INVALID
+barrier_id/mem_access_size: 4
+fence_level/addr_space: GPU_FENCE_INVALID
+*** end of the data structure *** 
+
+*** begin of the data structure *** 
+core_id:0 thread_id:1
+opcode: NVBIT_CS2R
+num_read_regs: 0
+num_dest_regs: 1
+dst0: 8
+is_fp: 0
+cf_type: NOT_CF
+is_load: 0
+inst_size: 16
+inst_addr: 7f83a6fe0880
+active_mask: ffffffff
+br_taken_mask: 0
+br_target_addr: 7f83a6fe0890
+reconv_inst_addr/mem_addr: 0
+mem_addr/reconv_inst_addr: 0
+mem_access_size/barrier_id: 4
+num_barrier_threads: 0
+addr_space/fence_level: GPU_ADDR_SP_INVALID
+barrier_id/mem_access_size: 4
+fence_level/addr_space: GPU_FENCE_INVALID
+*** end of the data structure *** 
+
+*** begin of the data structure *** 
+core_id:0 thread_id:2
+opcode: NVBIT_CS2R
+num_read_regs: 0
+num_dest_regs: 1
+dst0: 8
+is_fp: 0
+cf_type: NOT_CF
+is_load: 0
+inst_size: 16
+inst_addr: 7f83a6fe0880
+active_mask: ffffffff
+br_taken_mask: 0
+br_target_addr: 7f83a6fe0890
+reconv_inst_addr/mem_addr: 0
+mem_addr/reconv_inst_addr: 0
+mem_access_size/barrier_id: 4
+num_barrier_threads: 0
+addr_space/fence_level: GPU_ADDR_SP_INVALID
+barrier_id/mem_access_size: 4
+fence_level/addr_space: GPU_FENCE_INVALID
+*** end of the data structure *** 
+
+*** begin of the data structure *** 
+core_id:0 thread_id:3
+opcode: NVBIT_CS2R
+num_read_regs: 0
+num_dest_regs: 1
+dst0: 8
+is_fp: 0
+cf_type: NOT_CF
+is_load: 0
+inst_size: 16
+inst_addr: 7f83a6fe0880
+active_mask: ffffffff
+br_taken_mask: 0
+br_target_addr: 7f83a6fe0890
+reconv_inst_addr/mem_addr: 0
+mem_addr/reconv_inst_addr: 0
+mem_access_size/barrier_id: 4
+num_barrier_threads: 0
+addr_space/fence_level: GPU_ADDR_SP_INVALID
+barrier_id/mem_access_size: 4
+fence_level/addr_space: GPU_FENCE_INVALID
+*** end of the data structure *** 
+
+*** begin of the data structure *** 
+core_id:0 thread_id:0
+opcode: NVBIT_CS2R
+num_read_regs: 0
+num_dest_regs: 1
+dst0: 10
+is_fp: 0
+cf_type: NOT_CF
+is_load: 0
+inst_size: 16
+inst_addr: 7f83a6fe0890
+active_mask: ffffffff
+br_taken_mask: 0
+br_target_addr: 7f83a6fe08a0
+reconv_inst_addr/mem_addr: 0
+mem_addr/reconv_inst_addr: 0
+mem_access_size/barrier_id: 4
+num_barrier_threads: 0
+addr_space/fence_level: GPU_ADDR_SP_INVALID
+barrier_id/mem_access_size: 4
+fence_level/addr_space: GPU_FENCE_INVALID
+*** end of the data structure *** 
+
+*** begin of the data structure *** 
+core_id:0 thread_id:1
+opcode: NVBIT_CS2R
+num_read_regs: 0
+num_dest_regs: 1
+dst0: 10
+is_fp: 0
+cf_type: NOT_CF
+is_load: 0
+inst_size: 16
+inst_addr: 7f83a6fe0890
+active_mask: ffffffff
+br_taken_mask: 0
+br_target_addr: 7f83a6fe08a0
+reconv_inst_addr/mem_addr: 0
+mem_addr/reconv_inst_addr: 0
+mem_access_size/barrier_id: 4
+num_barrier_threads: 0
+addr_space/fence_level: GPU_ADDR_SP_INVALID
+barrier_id/mem_access_size: 4
+fence_level/addr_space: GPU_FENCE_INVALID
+*** end of the data structure *** 
+
+*** begin of the data structure *** 
+core_id:0 thread_id:2
+opcode: NVBIT_CS2R
+num_read_regs: 0
+num_dest_regs: 1
+dst0: 10
+is_fp: 0
+cf_type: NOT_CF
+is_load: 0
+inst_size: 16
+inst_addr: 7f83a6fe0890
+active_mask: ffffffff
+br_taken_mask: 0
+br_target_addr: 7f83a6fe08a0
+reconv_inst_addr/mem_addr: 0
+mem_addr/reconv_inst_addr: 0
+mem_access_size/barrier_id: 4
+num_barrier_threads: 0
+addr_space/fence_level: GPU_ADDR_SP_INVALID
+barrier_id/mem_access_size: 4
+fence_level/addr_space: GPU_FENCE_INVALID
+*** end of the data structure *** 
+
+*** begin of the data structure *** 
+core_id:0 thread_id:3
+opcode: NVBIT_CS2R
+num_read_regs: 0
+num_dest_regs: 1
+dst0: 10
+is_fp: 0
+cf_type: NOT_CF
+is_load: 0
+inst_size: 16
+inst_addr: 7f83a6fe0890
+active_mask: ffffffff
+br_taken_mask: 0
+br_target_addr: 7f83a6fe08a0
+reconv_inst_addr/mem_addr: 0
+mem_addr/reconv_inst_addr: 0
+mem_access_size/barrier_id: 4
+num_barrier_threads: 0
+addr_space/fence_level: GPU_ADDR_SP_INVALID
+barrier_id/mem_access_size: 4
+fence_level/addr_space: GPU_FENCE_INVALID
+*** end of the data structure *** 
+
+*** begin of the data structure *** 
+core_id:0 thread_id:0
+opcode: NVBIT_CS2R
+num_read_regs: 0
+num_dest_regs: 1
+dst0: 12
+is_fp: 0
+cf_type: NOT_CF
+is_load: 0
+inst_size: 16
+inst_addr: 7f83a6fe08a0
+active_mask: ffffffff
+br_taken_mask: 0
+br_target_addr: 7f83a6fe08b0
+reconv_inst_addr/mem_addr: 0
+mem_addr/reconv_inst_addr: 0
+mem_access_size/barrier_id: 4
+num_barrier_threads: 0
+addr_space/fence_level: GPU_ADDR_SP_INVALID
+barrier_id/mem_access_size: 4
+fence_level/addr_space: GPU_FENCE_INVALID
+*** end of the data structure *** 
+
+*** begin of the data structure *** 
+core_id:0 thread_id:1
+opcode: NVBIT_CS2R
+num_read_regs: 0
+num_dest_regs: 1
+dst0: 12
+is_fp: 0
+cf_type: NOT_CF
+is_load: 0
+inst_size: 16
+inst_addr: 7f83a6fe08a0
+active_mask: ffffffff
+br_taken_mask: 0
+br_target_addr: 7f83a6fe08b0
+reconv_inst_addr/mem_addr: 0
+mem_addr/reconv_inst_addr: 0
+mem_access_size/barrier_id: 4
+num_barrier_threads: 0
+addr_space/fence_level: GPU_ADDR_SP_INVALID
+barrier_id/mem_access_size: 4
+fence_level/addr_space: GPU_FENCE_INVALID
+*** end of the data structure *** 
+
+*** begin of the data structure *** 
+core_id:0 thread_id:2
+opcode: NVBIT_CS2R
+num_read_regs: 0
+num_dest_regs: 1
+dst0: 12
+is_fp: 0
+cf_type: NOT_CF
+is_load: 0
+inst_size: 16
+inst_addr: 7f83a6fe08a0
+active_mask: ffffffff
+br_taken_mask: 0
+br_target_addr: 7f83a6fe08b0
+reconv_inst_addr/mem_addr: 0
+mem_addr/reconv_inst_addr: 0
+mem_access_size/barrier_id: 4
+num_barrier_threads: 0
+addr_space/fence_level: GPU_ADDR_SP_INVALID
+barrier_id/mem_access_size: 4
+fence_level/addr_space: GPU_FENCE_INVALID
+*** end of the data structure *** 
+
+*** begin of the data structure *** 
+core_id:0 thread_id:3
+opcode: NVBIT_CS2R
+num_read_regs: 0
+num_dest_regs: 1
+dst0: 12
+is_fp: 0
+cf_type: NOT_CF
+is_load: 0
+inst_size: 16
+inst_addr: 7f83a6fe08a0
+active_mask: ffffffff
+br_taken_mask: 0
+br_target_addr: 7f83a6fe08b0
+reconv_inst_addr/mem_addr: 0
+mem_addr/reconv_inst_addr: 0
+mem_access_size/barrier_id: 4
+num_barrier_threads: 0
+addr_space/fence_level: GPU_ADDR_SP_INVALID
+barrier_id/mem_access_size: 4
+fence_level/addr_space: GPU_FENCE_INVALID
+*** end of the data structure *** 
+
+*** begin of the data structure *** 
+core_id:0 thread_id:0
+opcode: NVBIT_IADD3
+num_read_regs: 2
+num_dest_regs: 1
+src0: 3
+src1: 255
+dst0: 15
+is_fp: 0
+cf_type: NOT_CF
+is_load: 0
+inst_size: 16
+inst_addr: 7f83a6fe08b0
+active_mask: ffffffff
+br_taken_mask: 0
+br_target_addr: 7f83a6fe08c0
+reconv_inst_addr/mem_addr: 0
+mem_addr/reconv_inst_addr: 0
+mem_access_size/barrier_id: 4
+num_barrier_threads: 0
+addr_space/fence_level: GPU_ADDR_SP_INVALID
+barrier_id/mem_access_size: 4
+fence_level/addr_space: GPU_FENCE_INVALID
+*** end of the data structure *** 
+
+*** begin of the data structure *** 
+core_id:0 thread_id:1
+opcode: NVBIT_IADD3
+num_read_regs: 2
+num_dest_regs: 1
+src0: 3
+src1: 255
+dst0: 15
+is_fp: 0
+cf_type: NOT_CF
+is_load: 0
+inst_size: 16
+inst_addr: 7f83a6fe08b0
+active_mask: ffffffff
+br_taken_mask: 0
+br_target_addr: 7f83a6fe08c0
+reconv_inst_addr/mem_addr: 0
+mem_addr/reconv_inst_addr: 0
+mem_access_size/barrier_id: 4
+num_barrier_threads: 0
+addr_space/fence_level: GPU_ADDR_SP_INVALID
+barrier_id/mem_access_size: 4
+fence_level/addr_space: GPU_FENCE_INVALID
+*** end of the data structure *** 
+
+*** begin of the data structure *** 
+core_id:0 thread_id:2
+opcode: NVBIT_IADD3
+num_read_regs: 2
+num_dest_regs: 1
+src0: 3
+src1: 255
+dst0: 15
+is_fp: 0
+cf_type: NOT_CF
+is_load: 0
+inst_size: 16
+inst_addr: 7f83a6fe08b0
+active_mask: ffffffff
+br_taken_mask: 0
+br_target_addr: 7f83a6fe08c0
+reconv_inst_addr/mem_addr: 0
+mem_addr/reconv_inst_addr: 0
+mem_access_size/barrier_id: 4
+num_barrier_threads: 0
+addr_space/fence_level: GPU_ADDR_SP_INVALID
+barrier_id/mem_access_size: 4
+fence_level/addr_space: GPU_FENCE_INVALID
+*** end of the data structure *** 
+
+*** begin of the data structure *** 
+core_id:0 thread_id:3
+opcode: NVBIT_IADD3
+num_read_regs: 2
+num_dest_regs: 1
+src0: 3
+src1: 255
+dst0: 15
+is_fp: 0
+cf_type: NOT_CF
+is_load: 0
+inst_size: 16
+inst_addr: 7f83a6fe08b0
+active_mask: ffffffff
+br_taken_mask: 0
+br_target_addr: 7f83a6fe08c0
+reconv_inst_addr/mem_addr: 0
+mem_addr/reconv_inst_addr: 0
+mem_access_size/barrier_id: 4
+num_barrier_threads: 0
+addr_space/fence_level: GPU_ADDR_SP_INVALID
+barrier_id/mem_access_size: 4
+fence_level/addr_space: GPU_FENCE_INVALID
+*** end of the data structure *** 
+
+*** begin of the data structure *** 
+core_id:0 thread_id:0
+opcode: NVBIT_IMAD
+num_read_regs: 3
+num_dest_regs: 1
+src0: 255
+src1: 255
+src2: 255
+dst0: 17
+is_fp: 0
+cf_type: NOT_CF
+is_load: 0
+inst_size: 16
+inst_addr: 7f83a6fe08c0
+active_mask: ffffffff
+br_taken_mask: 0
+br_target_addr: 7f83a6fe08d0
+reconv_inst_addr/mem_addr: 0
+mem_addr/reconv_inst_addr: 0
+mem_access_size/barrier_id: 4
+num_barrier_threads: 0
+addr_space/fence_level: GPU_ADDR_SP_INVALID
+barrier_id/mem_access_size: 4
+fence_level/addr_space: GPU_FENCE_INVALID
+*** end of the data structure *** 
+
+*** begin of the data structure *** 
+core_id:0 thread_id:1
+opcode: NVBIT_IMAD
+num_read_regs: 3
+num_dest_regs: 1
+src0: 255
+src1: 255
+src2: 255
+dst0: 17
+is_fp: 0
+cf_type: NOT_CF
+is_load: 0
+inst_size: 16
+inst_addr: 7f83a6fe08c0
+active_mask: ffffffff
+br_taken_mask: 0
+br_target_addr: 7f83a6fe08d0
+reconv_inst_addr/mem_addr: 0
+mem_addr/reconv_inst_addr: 0
+mem_access_size/barrier_id: 4
+num_barrier_threads: 0
+addr_space/fence_level: GPU_ADDR_SP_INVALID
+barrier_id/mem_access_size: 4
+fence_level/addr_space: GPU_FENCE_INVALID
+*** end of the data structure *** 
+
+*** begin of the data structure *** 
+core_id:0 thread_id:2
+opcode: NVBIT_IMAD
+num_read_regs: 3
+num_dest_regs: 1
+src0: 255
+src1: 255
+src2: 255
+dst0: 17
+is_fp: 0
+cf_type: NOT_CF
+is_load: 0
+inst_size: 16
+inst_addr: 7f83a6fe08c0
+active_mask: ffffffff
+br_taken_mask: 0
+br_target_addr: 7f83a6fe08d0
+reconv_inst_addr/mem_addr: 0
+mem_addr/reconv_inst_addr: 0
+mem_access_size/barrier_id: 4
+num_barrier_threads: 0
+addr_space/fence_level: GPU_ADDR_SP_INVALID
+barrier_id/mem_access_size: 4
+fence_level/addr_space: GPU_FENCE_INVALID
+*** end of the data structure *** 
+
+*** begin of the data structure *** 
+core_id:0 thread_id:3
+opcode: NVBIT_IMAD
+num_read_regs: 3
+num_dest_regs: 1
+src0: 255
+src1: 255
+src2: 255
+dst0: 17
+is_fp: 0
+cf_type: NOT_CF
+is_load: 0
+inst_size: 16
+inst_addr: 7f83a6fe08c0
+active_mask: ffffffff
+br_taken_mask: 0
+br_target_addr: 7f83a6fe08d0
+reconv_inst_addr/mem_addr: 0
+mem_addr/reconv_inst_addr: 0
+mem_access_size/barrier_id: 4
+num_barrier_threads: 0
+addr_space/fence_level: GPU_ADDR_SP_INVALID
+barrier_id/mem_access_size: 4
+fence_level/addr_space: GPU_FENCE_INVALID
+*** end of the data structure *** 
+
+*** begin of the data structure *** 
+core_id:0 thread_id:0
+opcode: NVBIT_MOV
+num_read_regs: 1
+num_dest_regs: 1
+src0: 255
+dst0: 14
+is_fp: 0
+cf_type: NOT_CF
+is_load: 0
+inst_size: 16
+inst_addr: 7f83a6fe08d0
+active_mask: ffffffff
+br_taken_mask: 0
+br_target_addr: 7f83a6fe08e0
+reconv_inst_addr/mem_addr: 0
+mem_addr/reconv_inst_addr: 0
+mem_access_size/barrier_id: 4
+num_barrier_threads: 0
+addr_space/fence_level: GPU_ADDR_SP_INVALID
+barrier_id/mem_access_size: 4
+fence_level/addr_space: GPU_FENCE_INVALID
+*** end of the data structure *** 
+
+*** begin of the data structure *** 
+core_id:0 thread_id:1
+opcode: NVBIT_MOV
+num_read_regs: 1
+num_dest_regs: 1
+src0: 255
+dst0: 14
+is_fp: 0
+cf_type: NOT_CF
+is_load: 0
+inst_size: 16
+inst_addr: 7f83a6fe08d0
+active_mask: ffffffff
+br_taken_mask: 0
+br_target_addr: 7f83a6fe08e0
+reconv_inst_addr/mem_addr: 0
+mem_addr/reconv_inst_addr: 0
+mem_access_size/barrier_id: 4
+num_barrier_threads: 0
+addr_space/fence_level: GPU_ADDR_SP_INVALID
+barrier_id/mem_access_size: 4
+fence_level/addr_space: GPU_FENCE_INVALID
+*** end of the data structure *** 
+
+*** begin of the data structure *** 
+core_id:0 thread_id:2
+opcode: NVBIT_MOV
+num_read_regs: 1
+num_dest_regs: 1
+src0: 255
+dst0: 14
+is_fp: 0
+cf_type: NOT_CF
+is_load: 0
+inst_size: 16
+inst_addr: 7f83a6fe08d0
+active_mask: ffffffff
+br_taken_mask: 0
+br_target_addr: 7f83a6fe08e0
+reconv_inst_addr/mem_addr: 0
+mem_addr/reconv_inst_addr: 0
+mem_access_size/barrier_id: 4
+num_barrier_threads: 0
+addr_space/fence_level: GPU_ADDR_SP_INVALID
+barrier_id/mem_access_size: 4
+fence_level/addr_space: GPU_FENCE_INVALID
+*** end of the data structure *** 
+
+*** begin of the data structure *** 
+core_id:0 thread_id:3
+opcode: NVBIT_MOV
+num_read_regs: 1
+num_dest_regs: 1
+src0: 255
+dst0: 14
+is_fp: 0
+cf_type: NOT_CF
+is_load: 0
+inst_size: 16
+inst_addr: 7f83a6fe08d0
+active_mask: ffffffff
+br_taken_mask: 0
+br_target_addr: 7f83a6fe08e0
+reconv_inst_addr/mem_addr: 0
+mem_addr/reconv_inst_addr: 0
+mem_access_size/barrier_id: 4
+num_barrier_threads: 0
+addr_space/fence_level: GPU_ADDR_SP_INVALID
+barrier_id/mem_access_size: 4
+fence_level/addr_space: GPU_FENCE_INVALID
+*** end of the data structure *** 
+
+*** begin of the data structure *** 
+core_id:0 thread_id:0
+opcode: NVBIT_BRA
+num_read_regs: 0
+num_dest_regs: 0
+is_fp: 0
+cf_type: CF_CBR
+is_load: 0
+inst_size: 16
+inst_addr: 7f83a6fe08e0
+active_mask: ffffffff
+br_taken_mask: 0
+br_target_addr: 7f83a6fe0a20
+reconv_inst_addr/mem_addr: 0
+mem_addr/reconv_inst_addr: 0
+mem_access_size/barrier_id: 4
+num_barrier_threads: 0
+addr_space/fence_level: GPU_ADDR_SP_INVALID
+barrier_id/mem_access_size: 4
+fence_level/addr_space: GPU_FENCE_INVALID
+*** end of the data structure *** 
+
+*** begin of the data structure *** 
+core_id:0 thread_id:1
+opcode: NVBIT_BRA
+num_read_regs: 0
+num_dest_regs: 0
+is_fp: 0
+cf_type: CF_CBR
+is_load: 0
+inst_size: 16
+inst_addr: 7f83a6fe08e0
+active_mask: ffffffff
+br_taken_mask: 0
+br_target_addr: 7f83a6fe0a20
+reconv_inst_addr/mem_addr: 0
+mem_addr/reconv_inst_addr: 0
+mem_access_size/barrier_id: 4
+num_barrier_threads: 0
+addr_space/fence_level: GPU_ADDR_SP_INVALID
+barrier_id/mem_access_size: 4
+fence_level/addr_space: GPU_FENCE_INVALID
+*** end of the data structure *** 
+
+*** begin of the data structure *** 
+core_id:0 thread_id:2
+opcode: NVBIT_BRA
+num_read_regs: 0
+num_dest_regs: 0
+is_fp: 0
+cf_type: CF_CBR
+is_load: 0
+inst_size: 16
+inst_addr: 7f83a6fe08e0
+active_mask: fffffffe
+br_taken_mask: 0
+br_target_addr: 7f83a6fe0a20
+reconv_inst_addr/mem_addr: 0
+mem_addr/reconv_inst_addr: 0
+mem_access_size/barrier_id: 4
+num_barrier_threads: 0
+addr_space/fence_level: GPU_ADDR_SP_INVALID
+barrier_id/mem_access_size: 4
+fence_level/addr_space: GPU_FENCE_INVALID
+*** end of the data structure *** 
+
+*** begin of the data structure *** 
+core_id:0 thread_id:3
+opcode: NVBIT_BRA
+num_read_regs: 0
+num_dest_regs: 0
+is_fp: 0
+cf_type: CF_CBR
+is_load: 0
+inst_size: 16
+inst_addr: 7f83a6fe08e0
+active_mask: ffffffff
+br_taken_mask: 0
+br_target_addr: 7f83a6fe0a20
+reconv_inst_addr/mem_addr: 0
+mem_addr/reconv_inst_addr: 0
+mem_access_size/barrier_id: 4
+num_barrier_threads: 0
+addr_space/fence_level: GPU_ADDR_SP_INVALID
+barrier_id/mem_access_size: 4
+fence_level/addr_space: GPU_FENCE_INVALID
+*** end of the data structure *** 
+
+*** begin of the data structure *** 
+core_id:0 thread_id:0
+opcode: NVBIT_BSYNC
+num_read_regs: 0
+num_dest_regs: 0
+is_fp: 0
+cf_type: NOT_CF
+is_load: 0
+inst_size: 16
+inst_addr: 7f83a6fe0a20
+active_mask: ffffffff
+br_taken_mask: 0
+br_target_addr: 7f83a6fe0a30
+reconv_inst_addr/mem_addr: 0
+mem_addr/reconv_inst_addr: 0
+mem_access_size/barrier_id: 4
+num_barrier_threads: 0
+addr_space/fence_level: GPU_ADDR_SP_INVALID
+barrier_id/mem_access_size: 4
+fence_level/addr_space: GPU_FENCE_INVALID
+*** end of the data structure *** 
+
+*** begin of the data structure *** 
+core_id:0 thread_id:1
+opcode: NVBIT_BSYNC
+num_read_regs: 0
+num_dest_regs: 0
+is_fp: 0
+cf_type: NOT_CF
+is_load: 0
+inst_size: 16
+inst_addr: 7f83a6fe0a20
+active_mask: ffffffff
+br_taken_mask: 0
+br_target_addr: 7f83a6fe0a30
+reconv_inst_addr/mem_addr: 0
+mem_addr/reconv_inst_addr: 0
+mem_access_size/barrier_id: 4
+num_barrier_threads: 0
+addr_space/fence_level: GPU_ADDR_SP_INVALID
+barrier_id/mem_access_size: 4
+fence_level/addr_space: GPU_FENCE_INVALID
+*** end of the data structure *** 
+
+*** begin of the data structure *** 
+core_id:0 thread_id:2
+opcode: NVBIT_IADD3
+num_read_regs: 3
+num_dest_regs: 1
+src0: 2
+src1: 3
+src2: 255
+dst0: 6
+is_fp: 0
+cf_type: NOT_CF
+is_load: 0
+inst_size: 16
+inst_addr: 7f83a6fe08f0
+active_mask: 1
+br_taken_mask: 0
+br_target_addr: 7f83a6fe0900
+reconv_inst_addr/mem_addr: 0
+mem_addr/reconv_inst_addr: 0
+mem_access_size/barrier_id: 4
+num_barrier_threads: 0
+addr_space/fence_level: GPU_ADDR_SP_INVALID
+barrier_id/mem_access_size: 4
+fence_level/addr_space: GPU_FENCE_INVALID
+*** end of the data structure *** 
+
+*** begin of the data structure *** 
+core_id:0 thread_id:3
+opcode: NVBIT_BSYNC
+num_read_regs: 0
+num_dest_regs: 0
+is_fp: 0
+cf_type: NOT_CF
+is_load: 0
+inst_size: 16
+inst_addr: 7f83a6fe0a20
+active_mask: ffffffff
+br_taken_mask: 0
+br_target_addr: 7f83a6fe0a30
+reconv_inst_addr/mem_addr: 0
+mem_addr/reconv_inst_addr: 0
+mem_access_size/barrier_id: 4
+num_barrier_threads: 0
+addr_space/fence_level: GPU_ADDR_SP_INVALID
+barrier_id/mem_access_size: 4
+fence_level/addr_space: GPU_FENCE_INVALID
+*** end of the data structure *** 
+
+*** begin of the data structure *** 
+core_id:0 thread_id:0
+opcode: NVBIT_EXIT
+num_read_regs: 0
+num_dest_regs: 0
+is_fp: 0
+cf_type: NOT_CF
+is_load: 0
+inst_size: 16
+inst_addr: 7f83a6fe0a30
+active_mask: ffffffff
+br_taken_mask: 0
+br_target_addr: 7f83a6fe0a40
+reconv_inst_addr/mem_addr: 0
+mem_addr/reconv_inst_addr: 0
+mem_access_size/barrier_id: 4
+num_barrier_threads: 0
+addr_space/fence_level: GPU_ADDR_SP_INVALID
+barrier_id/mem_access_size: 4
+fence_level/addr_space: GPU_FENCE_INVALID
+*** end of the data structure *** 
+
+*** begin of the data structure *** 
+core_id:0 thread_id:1
+opcode: NVBIT_EXIT
+num_read_regs: 0
+num_dest_regs: 0
+is_fp: 0
+cf_type: NOT_CF
+is_load: 0
+inst_size: 16
+inst_addr: 7f83a6fe0a30
+active_mask: ffffffff
+br_taken_mask: 0
+br_target_addr: 7f83a6fe0a40
+reconv_inst_addr/mem_addr: 0
+mem_addr/reconv_inst_addr: 0
+mem_access_size/barrier_id: 4
+num_barrier_threads: 0
+addr_space/fence_level: GPU_ADDR_SP_INVALID
+barrier_id/mem_access_size: 4
+fence_level/addr_space: GPU_FENCE_INVALID
+*** end of the data structure *** 
+
+*** begin of the data structure *** 
+core_id:0 thread_id:2
+opcode: NVBIT_IMAD
+num_read_regs: 2
+num_dest_regs: 1
+src0: 255
+src1: 255
+dst0: 7
+is_fp: 0
+cf_type: NOT_CF
+is_load: 0
+inst_size: 16
+inst_addr: 7f83a6fe0900
+active_mask: 1
+br_taken_mask: 0
+br_target_addr: 7f83a6fe0910
+reconv_inst_addr/mem_addr: 0
+mem_addr/reconv_inst_addr: 0
+mem_access_size/barrier_id: 4
+num_barrier_threads: 0
+addr_space/fence_level: GPU_ADDR_SP_INVALID
+barrier_id/mem_access_size: 4
+fence_level/addr_space: GPU_FENCE_INVALID
+*** end of the data structure *** 
+
+*** begin of the data structure *** 
+core_id:0 thread_id:3
+opcode: NVBIT_EXIT
+num_read_regs: 0
+num_dest_regs: 0
+is_fp: 0
+cf_type: NOT_CF
+is_load: 0
+inst_size: 16
+inst_addr: 7f83a6fe0a30
+active_mask: ffffffff
+br_taken_mask: 0
+br_target_addr: 7f83a6fe0a40
+reconv_inst_addr/mem_addr: 0
+mem_addr/reconv_inst_addr: 0
+mem_access_size/barrier_id: 4
+num_barrier_threads: 0
+addr_space/fence_level: GPU_ADDR_SP_INVALID
+barrier_id/mem_access_size: 4
+fence_level/addr_space: GPU_FENCE_INVALID
+*** end of the data structure *** 
+
+*** begin of the data structure *** 
+core_id:0 thread_id:2
+opcode: NVBIT_IMAD
+num_read_regs: 2
+num_dest_regs: 1
+src0: 6
+src1: 7
+dst0: 4
+is_fp: 0
+cf_type: NOT_CF
+is_load: 0
+inst_size: 16
+inst_addr: 7f83a6fe0910
+active_mask: 1
+br_taken_mask: 0
+br_target_addr: 7f83a6fe0920
+reconv_inst_addr/mem_addr: 0
+mem_addr/reconv_inst_addr: 0
+mem_access_size/barrier_id: 4
+num_barrier_threads: 0
+addr_space/fence_level: GPU_ADDR_SP_INVALID
+barrier_id/mem_access_size: 4
+fence_level/addr_space: GPU_FENCE_INVALID
+*** end of the data structure *** 
+
+*** begin of the data structure *** 
+core_id:0 thread_id:2
+opcode: NVBIT_IMAD
+num_read_regs: 2
+num_dest_regs: 1
+src0: 6
+src1: 7
+dst0: 6
+is_fp: 0
+cf_type: NOT_CF
+is_load: 0
+inst_size: 16
+inst_addr: 7f83a6fe0920
+active_mask: 1
+br_taken_mask: 0
+br_target_addr: 7f83a6fe0930
+reconv_inst_addr/mem_addr: 0
+mem_addr/reconv_inst_addr: 0
+mem_access_size/barrier_id: 4
+num_barrier_threads: 0
+addr_space/fence_level: GPU_ADDR_SP_INVALID
+barrier_id/mem_access_size: 4
+fence_level/addr_space: GPU_FENCE_INVALID
+*** end of the data structure *** 
+
+*** begin of the data structure *** 
+core_id:0 thread_id:2
+opcode: NVBIT_LDG
+num_read_regs: 0
+num_dest_regs: 1
+dst0: 14
+is_fp: 0
+cf_type: NOT_CF
+is_load: 1
+inst_size: 16
+inst_addr: 7f83a6fe0930
+active_mask: 1
+br_taken_mask: 0
+br_target_addr: 7f83a6fe0940
+reconv_inst_addr/mem_addr: 7f829b180800
+mem_addr/reconv_inst_addr: 7f829b180800
+mem_access_size/barrier_id: 4
+num_barrier_threads: 0
+addr_space/fence_level: GPU_ADDR_SP_LOCAL
+barrier_id/mem_access_size: 4
+fence_level/addr_space: GPU_FENCE_SYS
+*** end of the data structure *** 
+
+*** begin of the data structure *** 
+core_id:0 thread_id:2
+opcode: NVBIT_LDG
+num_read_regs: 0
+num_dest_regs: 1
+dst0: 17
+is_fp: 0
+cf_type: NOT_CF
+is_load: 1
+inst_size: 16
+inst_addr: 7f83a6fe0940
+active_mask: 1
+br_taken_mask: 0
+br_target_addr: 7f83a6fe0950
+reconv_inst_addr/mem_addr: 7f829b100200
+mem_addr/reconv_inst_addr: 7f829b100200
+mem_access_size/barrier_id: 4
+num_barrier_threads: 0
+addr_space/fence_level: GPU_ADDR_SP_LOCAL
+barrier_id/mem_access_size: 4
+fence_level/addr_space: GPU_FENCE_SYS
+*** end of the data structure *** 
+
+*** begin of the data structure *** 
+core_id:0 thread_id:2
+opcode: NVBIT_ISETP
+num_read_regs: 4
+num_dest_regs: 1
+src0: 7
+src1: 15
+src2: 0
+src3: 7
+dst0: 1
+is_fp: 0
+cf_type: NOT_CF
+is_load: 0
+inst_size: 16
+inst_addr: 7f83a6fe0950
+active_mask: 1
+br_taken_mask: 0
+br_target_addr: 7f83a6fe0960
+reconv_inst_addr/mem_addr: 0
+mem_addr/reconv_inst_addr: 0
+mem_access_size/barrier_id: 4
+num_barrier_threads: 0
+addr_space/fence_level: GPU_ADDR_SP_INVALID
+barrier_id/mem_access_size: 4
+fence_level/addr_space: GPU_FENCE_INVALID
+*** end of the data structure *** 
+
+*** begin of the data structure *** 
+core_id:0 thread_id:2
+opcode: NVBIT_BRA
+num_read_regs: 0
+num_dest_regs: 0
+is_fp: 0
+cf_type: CF_CBR
+is_load: 0
+inst_size: 16
+inst_addr: 7f83a6fe0960
+active_mask: 1
+br_taken_mask: 0
+br_target_addr: 7f83a6fe0a20
+reconv_inst_addr/mem_addr: 0
+mem_addr/reconv_inst_addr: 0
+mem_access_size/barrier_id: 4
+num_barrier_threads: 0
+addr_space/fence_level: GPU_ADDR_SP_INVALID
+barrier_id/mem_access_size: 4
+fence_level/addr_space: GPU_FENCE_INVALID
+*** end of the data structure *** 
+
+*** begin of the data structure *** 
+core_id:0 thread_id:2
+opcode: NVBIT_BSYNC
+num_read_regs: 0
+num_dest_regs: 0
+is_fp: 0
+cf_type: NOT_CF
+is_load: 0
+inst_size: 16
+inst_addr: 7f83a6fe0a20
+active_mask: 1
+br_taken_mask: 0
+br_target_addr: 7f83a6fe0a30
+reconv_inst_addr/mem_addr: 0
+mem_addr/reconv_inst_addr: 0
+mem_access_size/barrier_id: 4
+num_barrier_threads: 0
+addr_space/fence_level: GPU_ADDR_SP_INVALID
+barrier_id/mem_access_size: 4
+fence_level/addr_space: GPU_FENCE_INVALID
+*** end of the data structure *** 
+
+*** begin of the data structure *** 
+core_id:0 thread_id:2
+opcode: NVBIT_BSYNC
+num_read_regs: 0
+num_dest_regs: 0
+is_fp: 0
+cf_type: NOT_CF
+is_load: 0
+inst_size: 16
+inst_addr: 7f83a6fe0a20
+active_mask: fffffffe
+br_taken_mask: 0
+br_target_addr: 7f83a6fe0a30
+reconv_inst_addr/mem_addr: 0
+mem_addr/reconv_inst_addr: 0
+mem_access_size/barrier_id: 4
+num_barrier_threads: 0
+addr_space/fence_level: GPU_ADDR_SP_INVALID
+barrier_id/mem_access_size: 4
+fence_level/addr_space: GPU_FENCE_INVALID
+*** end of the data structure *** 
+
+*** begin of the data structure *** 
+core_id:0 thread_id:2
+opcode: NVBIT_EXIT
+num_read_regs: 0
+num_dest_regs: 0
+is_fp: 0
+cf_type: NOT_CF
+is_load: 0
+inst_size: 16
+inst_addr: 7f83a6fe0a30
+active_mask: fffffffe
+br_taken_mask: 0
+br_target_addr: 7f83a6fe0a40
+reconv_inst_addr/mem_addr: 0
+mem_addr/reconv_inst_addr: 0
+mem_access_size/barrier_id: 4
+num_barrier_threads: 0
+addr_space/fence_level: GPU_ADDR_SP_INVALID
+barrier_id/mem_access_size: 4
+fence_level/addr_space: GPU_FENCE_INVALID
+*** end of the data structure *** 
+
+*** begin of the data structure *** 
+core_id:0 thread_id:2
+opcode: NVBIT_ISETP
+num_read_regs: 4
+num_dest_regs: 1
+src0: 7
+src1: 15
+src2: 0
+src3: 7
+dst0: 0
+is_fp: 0
+cf_type: NOT_CF
+is_load: 0
+inst_size: 16
+inst_addr: 7f83a6fe0a40
+active_mask: 1
+br_taken_mask: 0
+br_target_addr: 7f83a6fe0a50
+reconv_inst_addr/mem_addr: 0
+mem_addr/reconv_inst_addr: 0
+mem_access_size/barrier_id: 4
+num_barrier_threads: 0
+addr_space/fence_level: GPU_ADDR_SP_INVALID
+barrier_id/mem_access_size: 4
+fence_level/addr_space: GPU_FENCE_INVALID
+*** end of the data structure *** 
+
+*** begin of the data structure *** 
+core_id:0 thread_id:2
+opcode: NVBIT_FMUL
+num_read_regs: 2
+num_dest_regs: 1
+src0: 17
+src1: 14
+dst0: 17
+is_fp: 1
+cf_type: NOT_CF
+is_load: 0
+inst_size: 16
+inst_addr: 7f83a6fe0a50
+active_mask: 1
+br_taken_mask: 0
+br_target_addr: 7f83a6fe0a60
+reconv_inst_addr/mem_addr: 0
+mem_addr/reconv_inst_addr: 0
+mem_access_size/barrier_id: 4
+num_barrier_threads: 0
+addr_space/fence_level: GPU_ADDR_SP_INVALID
+barrier_id/mem_access_size: 4
+fence_level/addr_space: GPU_FENCE_INVALID
+*** end of the data structure *** 
+
+*** begin of the data structure *** 
+core_id:0 thread_id:2
+opcode: NVBIT_IADD3
+num_read_regs: 3
+num_dest_regs: 1
+src0: 2
+src1: 3
+src2: 255
+dst0: 4
+is_fp: 0
+cf_type: NOT_CF
+is_load: 0
+inst_size: 16
+inst_addr: 7f83a6fe0a60
+active_mask: 1
+br_taken_mask: 0
+br_target_addr: 7f83a6fe0a70
+reconv_inst_addr/mem_addr: 0
+mem_addr/reconv_inst_addr: 0
+mem_access_size/barrier_id: 4
+num_barrier_threads: 0
+addr_space/fence_level: GPU_ADDR_SP_INVALID
+barrier_id/mem_access_size: 4
+fence_level/addr_space: GPU_FENCE_INVALID
+*** end of the data structure *** 
+
+*** begin of the data structure *** 
+core_id:0 thread_id:2
+opcode: NVBIT_MOV
+num_read_regs: 0
+num_dest_regs: 1
+dst0: 5
+is_fp: 0
+cf_type: NOT_CF
+is_load: 0
+inst_size: 16
+inst_addr: 7f83a6fe0a70
+active_mask: 1
+br_taken_mask: 0
+br_target_addr: 7f83a6fe0a80
+reconv_inst_addr/mem_addr: 0
+mem_addr/reconv_inst_addr: 0
+mem_access_size/barrier_id: 4
+num_barrier_threads: 0
+addr_space/fence_level: GPU_ADDR_SP_INVALID
+barrier_id/mem_access_size: 4
+fence_level/addr_space: GPU_FENCE_INVALID
+*** end of the data structure *** 
+
+*** begin of the data structure *** 
+core_id:0 thread_id:2
+opcode: NVBIT_IMAD
+num_read_regs: 2
+num_dest_regs: 1
+src0: 4
+src1: 5
+dst0: 4
+is_fp: 0
+cf_type: NOT_CF
+is_load: 0
+inst_size: 16
+inst_addr: 7f83a6fe0a80
+active_mask: 1
+br_taken_mask: 0
+br_target_addr: 7f83a6fe0a90
+reconv_inst_addr/mem_addr: 0
+mem_addr/reconv_inst_addr: 0
+mem_access_size/barrier_id: 4
+num_barrier_threads: 0
+addr_space/fence_level: GPU_ADDR_SP_INVALID
+barrier_id/mem_access_size: 4
+fence_level/addr_space: GPU_FENCE_INVALID
+*** end of the data structure *** 
+
+*** begin of the data structure *** 
+core_id:0 thread_id:2
+opcode: NVBIT_STG
+num_read_regs: 1
+num_dest_regs: 0
+src0: 17
+is_fp: 0
+cf_type: NOT_CF
+is_load: 0
+inst_size: 16
+inst_addr: 7f83a6fe0a90
+active_mask: 1
+br_taken_mask: 0
+br_target_addr: 7f83a6fe0aa0
+reconv_inst_addr/mem_addr: 7f829b100400
+mem_addr/reconv_inst_addr: 7f829b100400
+mem_access_size/barrier_id: 4
+num_barrier_threads: 0
+addr_space/fence_level: GPU_ADDR_SP_LOCAL
+barrier_id/mem_access_size: 4
+fence_level/addr_space: GPU_FENCE_SYS
+*** end of the data structure *** 
+
+*** begin of the data structure *** 
+core_id:0 thread_id:2
+opcode: NVBIT_EXIT
+num_read_regs: 0
+num_dest_regs: 0
+is_fp: 0
+cf_type: NOT_CF
+is_load: 0
+inst_size: 16
+inst_addr: 7f83a6fe0aa0
+active_mask: 1
+br_taken_mask: 0
+br_target_addr: 7f83a6fe0ab0
+reconv_inst_addr/mem_addr: 0
+mem_addr/reconv_inst_addr: 0
+mem_access_size/barrier_id: 4
+num_barrier_threads: 0
+addr_space/fence_level: GPU_ADDR_SP_INVALID
+barrier_id/mem_access_size: 4
+fence_level/addr_space: GPU_FENCE_INVALID
+*** end of the data structure *** 
+

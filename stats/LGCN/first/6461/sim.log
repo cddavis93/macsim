@@ -1,0 +1,34 @@
+Arguments: ./macsim 
+src/macsim.cc:122: (I=0  C=0):  initialize knobs
+number of cores : 16
+src/macsim.cc:541: (I=0  C=0):  initialize simulation
+src/macsim.cc:321: (I=0  C=0):  initialize cores (0/0/16)
+src/memory.cc:1570: (I=0  C=0):  Memory system(l2_decoupled_network) has been initialized.
+src/network_simple.cc:90: (I=0  C=0):  TOTAL_ROUTER:35 CPU:0 GPU:16 L3:1 LLC:12 MC:6
+enabling bug detector
+src/macsim.cc:754: (I=0  C=0):  Initializing new noc
+
+src/macsim.cc:842: (I=0  C=0):  Clock LCM           : 2
+src/macsim.cc:843: (I=0  C=0):  CPU clock frequency : 2 GHz
+src/macsim.cc:844: (I=0  C=0):  GPU clock frequency : 2 GHz
+src/macsim.cc:845: (I=0  C=0):  LLC clock frequency : 2 GHz
+src/macsim.cc:846: (I=0  C=0):  NOC clock frequency : 2 GHz
+src/macsim.cc:847: (I=0  C=0):  MC  clock frequency : 2 GHz
+src/process_manager.cc:426: (I=0  C=0):  setup_process:0 /home/cory/LightGCN-PyTorch/traces/macsim/Kernel6461/trace.txt current_index:0 (1)
+trace:/home/cory/LightGCN-PyTorch/traces/macsim/Kernel6461/trace.txt is opened 
+trace type: nvbit end
+src/process_manager.cc:541: (I=0  C=0):  thread_count: 8
+src/process_manager.cc:542: (I=0  C=0):  max blocks per core: 8
+**Core 00 Thread 04 Finished:   insts:613         cycles:11190      (11189)  seconds:1     -- 0.05 IPC (0.05 IPC) --  N/A  KHz (0.61 KHz) 
+**Core 00 Thread 06 Finished:   insts:613         cycles:11194      (11193)  seconds:1     -- 0.05 IPC (0.05 IPC) --  N/A  KHz (0.61 KHz) 
+**Core 00 Thread 00 Finished:   insts:626         cycles:11270      (11269)  seconds:1     -- 0.06 IPC (0.06 IPC) --  N/A  KHz (0.63 KHz) 
+**Core 00 Thread 07 Finished:   insts:613         cycles:11326      (11325)  seconds:1     -- 0.05 IPC (0.05 IPC) --  N/A  KHz (0.61 KHz) 
+**Core 00 Thread 01 Finished:   insts:613         cycles:11330      (11329)  seconds:1     -- 0.05 IPC (0.05 IPC) --  N/A  KHz (0.61 KHz) 
+**Core 00 Thread 05 Finished:   insts:614         cycles:11338      (11337)  seconds:1     -- 0.05 IPC (0.05 IPC) --  N/A  KHz (0.61 KHz) 
+**Core 00 Thread 02 Finished:   insts:710         cycles:11555      (11554)  seconds:1     -- 0.06 IPC (0.06 IPC) --  N/A  KHz (0.71 KHz) 
+**Core 00 Thread 03 Finished:   insts:712         cycles:11619      (11618)  seconds:1     -- 0.06 IPC (0.06 IPC) --  N/A  KHz (0.71 KHz) 
+src/retire.cc:563: (I=626  C=11618):  ----- application 0 terminated (/home/cory/LightGCN-PyTorch/traces/macsim/Kernel6461/trace.txt,0) at 11618
+**Core 00 Core_Total  Finished:   insts:5114        cycles:11619      (11618) seconds:1     -- 0.44 IPC (0.44 IPC) --  N/A  KHz (5.11 KHz)
+src/macsim.cc:624: (I=626  C=11619):  finalize simulation
+src/macsim.cc:628: (I=626  C=11619):  elapsed time:0.6 seconds
+Done

@@ -1,0 +1,970 @@
+####################################################################################################
+Interval
+####################################################################################################
+Cumulative:         Cycles:                  20000     Instructions:                  1200
+DISPATCHED_INST                                            110528                        110528
+
+DISPATCH_WAIT                                             3560567                       32.2142
+
+NUM_NO_FETCH_CYCLES                                            15                            15
+
+AVG_CORE_IDLE_CYCLE                                         10939                         10939
+
+REEXEC_NUM                                                      0                             0
+
+INV_MATCH_NUM                                                   0                             0
+
+EARLY_PERM_NUM                                                  0                             0
+
+PERM_MATCH_NUM                                                  0                             0
+
+RETIRE_SPECLD_NUM                                               0                             0
+
+RETIRE_SPECST_NUM                                               0                             0
+
+FENCE_HEAD_ROB_WAIT                                             0                             0
+
+NUM_SAMPLES_CORE_0                                          17599                         17599
+
+NUM_ACTIVE_BLOCKS_CORE_0                                    70280                       3.99341
+
+NUM_ACTIVE_THREADS_CORE_0                                  264788                       15.0456
+
+NUM_SCHED_IDLE_CYCLE_CORE_0                                     0                             0
+
+NUM_NO_SCHED_CYCLE_CORE_0                                     670                           670
+
+CORE_DISPATCHED_INST_CORE_0                                  6908                          6908
+
+CORE_DISPATCH_WAIT_CORE_0                                  226164                       32.7394
+
+CORE_CYCLES_CORE_0                                              0                             0
+
+CORE_SCHED_THREADS_CORE_0                                       0                           NaN
+
+CORE_NUM_NO_FETCH_CYCLES_CORE_0                                 1                             1
+
+CORE_NUM_NO_FETCH_CYCLES_WITH_READY_THREADS_CORE_0                   0                             0
+
+CORE_NUM_FETCH_CYCLES_CORE_0                                    0                             0
+
+CORE_FETCH_DELTA_CORE_0                                         0                           NaN
+
+CORE_NUM_RETIRE_CYCLES_CORE_0                                   0                             0
+
+CORE_RETIRE_DELTA_CORE_0                                        0                           NaN
+
+FENCE_PREF_REQ_CORE_0                                           0                             0
+
+FENCE_WAITING_CORE_0                                            0                             0
+
+DYN_FENCE_NUM_CORE_0                                            0                             0
+
+WB_ORDERING_STALL_CORE_0                                        0                             0
+
+WB_FULL_CORE_0                                                  0                             0
+
+FENCE_TOT_CYCLES_CORE_0                                         0                             0
+
+FENCE_EXEC_CYCLES_CORE_0                                        0                             0
+
+STORE_RES_CORE_0                                                0                             0
+
+STORE_NUM_CORE_0                                                0                             0
+
+STORE_WB_FREE_CORE_0                                            0                             0
+
+SCHED_FAILED_REASON_SUCCESS_CORE_0                           6908                       81.9454%
+SCHED_FAILED_OPERANDS_NOT_READY_CORE_0                       1078                       12.7877%
+SCHED_FAILED_NO_AVAILABLE_PORTS_CORE_0                        444                        5.2669%
+SCHED_FAILED_NO_MEM_REQ_SLOTS_CORE_0                            0                             0%
+SCHED_FAILED_NO_AVAILABLE_SIMD_UNIT_CORE_0                      0                             0%
+SCHED_FAILED_FENCE_ACTIVE_CORE_0                                0                             0%
+SCHED_FAILED_MEM_MANAGEMENT_CORE_0                              0                             0%
+                                                             8430                           100%
+
+NUM_SAMPLES_CORE_1                                          17560                         17560
+
+NUM_ACTIVE_BLOCKS_CORE_1                                    70037                       3.98844
+
+NUM_ACTIVE_THREADS_CORE_1                                  264873                       15.0839
+
+NUM_SCHED_IDLE_CYCLE_CORE_1                                     0                             0
+
+NUM_NO_SCHED_CYCLE_CORE_1                                     731                           731
+
+CORE_DISPATCHED_INST_CORE_1                                  6908                          6908
+
+CORE_DISPATCH_WAIT_CORE_1                                  210863                       30.5245
+
+CORE_CYCLES_CORE_1                                              0                             0
+
+CORE_SCHED_THREADS_CORE_1                                       0                           NaN
+
+CORE_NUM_NO_FETCH_CYCLES_CORE_1                                 1                             1
+
+CORE_NUM_NO_FETCH_CYCLES_WITH_READY_THREADS_CORE_1                   0                             0
+
+CORE_NUM_FETCH_CYCLES_CORE_1                                    0                             0
+
+CORE_FETCH_DELTA_CORE_1                                         0                           NaN
+
+CORE_NUM_RETIRE_CYCLES_CORE_1                                   0                             0
+
+CORE_RETIRE_DELTA_CORE_1                                        0                           NaN
+
+FENCE_PREF_REQ_CORE_1                                           0                             0
+
+FENCE_WAITING_CORE_1                                            0                             0
+
+DYN_FENCE_NUM_CORE_1                                            0                             0
+
+WB_ORDERING_STALL_CORE_1                                        0                             0
+
+WB_FULL_CORE_1                                                  0                             0
+
+FENCE_TOT_CYCLES_CORE_1                                         0                             0
+
+FENCE_EXEC_CYCLES_CORE_1                                        0                             0
+
+STORE_RES_CORE_1                                                0                             0
+
+STORE_NUM_CORE_1                                                0                             0
+
+STORE_WB_FREE_CORE_1                                            0                             0
+
+SCHED_FAILED_REASON_SUCCESS_CORE_1                           6908                       73.1083%
+SCHED_FAILED_OPERANDS_NOT_READY_CORE_1                       1399                       14.8058%
+SCHED_FAILED_NO_AVAILABLE_PORTS_CORE_1                       1142                       12.0859%
+SCHED_FAILED_NO_MEM_REQ_SLOTS_CORE_1                            0                             0%
+SCHED_FAILED_NO_AVAILABLE_SIMD_UNIT_CORE_1                      0                             0%
+SCHED_FAILED_FENCE_ACTIVE_CORE_1                                0                             0%
+SCHED_FAILED_MEM_MANAGEMENT_CORE_1                              0                             0%
+                                                             9449                           100%
+
+NUM_SAMPLES_CORE_2                                          17557                         17557
+
+NUM_ACTIVE_BLOCKS_CORE_2                                    70033                       3.98889
+
+NUM_ACTIVE_THREADS_CORE_2                                  265265                       15.1088
+
+NUM_SCHED_IDLE_CYCLE_CORE_2                                     0                             0
+
+NUM_NO_SCHED_CYCLE_CORE_2                                     700                           700
+
+CORE_DISPATCHED_INST_CORE_2                                  6908                          6908
+
+CORE_DISPATCH_WAIT_CORE_2                                  221441                       32.0557
+
+CORE_CYCLES_CORE_2                                              0                             0
+
+CORE_SCHED_THREADS_CORE_2                                       0                           NaN
+
+CORE_NUM_NO_FETCH_CYCLES_CORE_2                                 1                             1
+
+CORE_NUM_NO_FETCH_CYCLES_WITH_READY_THREADS_CORE_2                   0                             0
+
+CORE_NUM_FETCH_CYCLES_CORE_2                                    0                             0
+
+CORE_FETCH_DELTA_CORE_2                                         0                           NaN
+
+CORE_NUM_RETIRE_CYCLES_CORE_2                                   0                             0
+
+CORE_RETIRE_DELTA_CORE_2                                        0                           NaN
+
+FENCE_PREF_REQ_CORE_2                                           0                             0
+
+FENCE_WAITING_CORE_2                                            0                             0
+
+DYN_FENCE_NUM_CORE_2                                            0                             0
+
+WB_ORDERING_STALL_CORE_2                                        0                             0
+
+WB_FULL_CORE_2                                                  0                             0
+
+FENCE_TOT_CYCLES_CORE_2                                         0                             0
+
+FENCE_EXEC_CYCLES_CORE_2                                        0                             0
+
+STORE_RES_CORE_2                                                0                             0
+
+STORE_NUM_CORE_2                                                0                             0
+
+STORE_WB_FREE_CORE_2                                            0                             0
+
+SCHED_FAILED_REASON_SUCCESS_CORE_2                           6908                       78.3131%
+SCHED_FAILED_OPERANDS_NOT_READY_CORE_2                       1300                       14.7376%
+SCHED_FAILED_NO_AVAILABLE_PORTS_CORE_2                        613                       6.94933%
+SCHED_FAILED_NO_MEM_REQ_SLOTS_CORE_2                            0                             0%
+SCHED_FAILED_NO_AVAILABLE_SIMD_UNIT_CORE_2                      0                             0%
+SCHED_FAILED_FENCE_ACTIVE_CORE_2                                0                             0%
+SCHED_FAILED_MEM_MANAGEMENT_CORE_2                              0                             0%
+                                                             8821                           100%
+
+NUM_SAMPLES_CORE_3                                          17558                         17558
+
+NUM_ACTIVE_BLOCKS_CORE_3                                    70105                       3.99277
+
+NUM_ACTIVE_THREADS_CORE_3                                  265665                       15.1307
+
+NUM_SCHED_IDLE_CYCLE_CORE_3                                     0                             0
+
+NUM_NO_SCHED_CYCLE_CORE_3                                     681                           681
+
+CORE_DISPATCHED_INST_CORE_3                                  6908                          6908
+
+CORE_DISPATCH_WAIT_CORE_3                                  230209                        33.325
+
+CORE_CYCLES_CORE_3                                              0                             0
+
+CORE_SCHED_THREADS_CORE_3                                       0                           NaN
+
+CORE_NUM_NO_FETCH_CYCLES_CORE_3                                 1                             1
+
+CORE_NUM_NO_FETCH_CYCLES_WITH_READY_THREADS_CORE_3                   0                             0
+
+CORE_NUM_FETCH_CYCLES_CORE_3                                    0                             0
+
+CORE_FETCH_DELTA_CORE_3                                         0                           NaN
+
+CORE_NUM_RETIRE_CYCLES_CORE_3                                   0                             0
+
+CORE_RETIRE_DELTA_CORE_3                                        0                           NaN
+
+FENCE_PREF_REQ_CORE_3                                           0                             0
+
+FENCE_WAITING_CORE_3                                            0                             0
+
+DYN_FENCE_NUM_CORE_3                                            0                             0
+
+WB_ORDERING_STALL_CORE_3                                        0                             0
+
+WB_FULL_CORE_3                                                  0                             0
+
+FENCE_TOT_CYCLES_CORE_3                                         0                             0
+
+FENCE_EXEC_CYCLES_CORE_3                                        0                             0
+
+STORE_RES_CORE_3                                                0                             0
+
+STORE_NUM_CORE_3                                                0                             0
+
+STORE_WB_FREE_CORE_3                                            0                             0
+
+SCHED_FAILED_REASON_SUCCESS_CORE_3                           6908                       77.4092%
+SCHED_FAILED_OPERANDS_NOT_READY_CORE_3                       1277                       14.3097%
+SCHED_FAILED_NO_AVAILABLE_PORTS_CORE_3                        739                       8.28104%
+SCHED_FAILED_NO_MEM_REQ_SLOTS_CORE_3                            0                             0%
+SCHED_FAILED_NO_AVAILABLE_SIMD_UNIT_CORE_3                      0                             0%
+SCHED_FAILED_FENCE_ACTIVE_CORE_3                                0                             0%
+SCHED_FAILED_MEM_MANAGEMENT_CORE_3                              0                             0%
+                                                             8924                           100%
+
+NUM_SAMPLES_CORE_4                                          17559                         17559
+
+NUM_ACTIVE_BLOCKS_CORE_4                                    70032                       3.98838
+
+NUM_ACTIVE_THREADS_CORE_4                                  264696                       15.0747
+
+NUM_SCHED_IDLE_CYCLE_CORE_4                                     0                             0
+
+NUM_NO_SCHED_CYCLE_CORE_4                                     712                           712
+
+CORE_DISPATCHED_INST_CORE_4                                  6908                          6908
+
+CORE_DISPATCH_WAIT_CORE_4                                  216903                       31.3988
+
+CORE_CYCLES_CORE_4                                              0                             0
+
+CORE_SCHED_THREADS_CORE_4                                       0                           NaN
+
+CORE_NUM_NO_FETCH_CYCLES_CORE_4                                 1                             1
+
+CORE_NUM_NO_FETCH_CYCLES_WITH_READY_THREADS_CORE_4                   0                             0
+
+CORE_NUM_FETCH_CYCLES_CORE_4                                    0                             0
+
+CORE_FETCH_DELTA_CORE_4                                         0                           NaN
+
+CORE_NUM_RETIRE_CYCLES_CORE_4                                   0                             0
+
+CORE_RETIRE_DELTA_CORE_4                                        0                           NaN
+
+FENCE_PREF_REQ_CORE_4                                           0                             0
+
+FENCE_WAITING_CORE_4                                            0                             0
+
+DYN_FENCE_NUM_CORE_4                                            0                             0
+
+WB_ORDERING_STALL_CORE_4                                        0                             0
+
+WB_FULL_CORE_4                                                  0                             0
+
+FENCE_TOT_CYCLES_CORE_4                                         0                             0
+
+FENCE_EXEC_CYCLES_CORE_4                                        0                             0
+
+STORE_RES_CORE_4                                                0                             0
+
+STORE_NUM_CORE_4                                                0                             0
+
+STORE_WB_FREE_CORE_4                                            0                             0
+
+SCHED_FAILED_REASON_SUCCESS_CORE_4                           6908                       78.1713%
+SCHED_FAILED_OPERANDS_NOT_READY_CORE_4                       1318                       14.9146%
+SCHED_FAILED_NO_AVAILABLE_PORTS_CORE_4                        611                       6.91411%
+SCHED_FAILED_NO_MEM_REQ_SLOTS_CORE_4                            0                             0%
+SCHED_FAILED_NO_AVAILABLE_SIMD_UNIT_CORE_4                      0                             0%
+SCHED_FAILED_FENCE_ACTIVE_CORE_4                                0                             0%
+SCHED_FAILED_MEM_MANAGEMENT_CORE_4                              0                             0%
+                                                             8837                           100%
+
+NUM_SAMPLES_CORE_5                                          17558                         17558
+
+NUM_ACTIVE_BLOCKS_CORE_5                                    70030                        3.9885
+
+NUM_ACTIVE_THREADS_CORE_5                                  264714                       15.0765
+
+NUM_SCHED_IDLE_CYCLE_CORE_5                                     0                             0
+
+NUM_NO_SCHED_CYCLE_CORE_5                                     691                           691
+
+CORE_DISPATCHED_INST_CORE_5                                  6908                          6908
+
+CORE_DISPATCH_WAIT_CORE_5                                  211516                        30.619
+
+CORE_CYCLES_CORE_5                                              0                             0
+
+CORE_SCHED_THREADS_CORE_5                                       0                           NaN
+
+CORE_NUM_NO_FETCH_CYCLES_CORE_5                                 1                             1
+
+CORE_NUM_NO_FETCH_CYCLES_WITH_READY_THREADS_CORE_5                   0                             0
+
+CORE_NUM_FETCH_CYCLES_CORE_5                                    0                             0
+
+CORE_FETCH_DELTA_CORE_5                                         0                           NaN
+
+CORE_NUM_RETIRE_CYCLES_CORE_5                                   0                             0
+
+CORE_RETIRE_DELTA_CORE_5                                        0                           NaN
+
+FENCE_PREF_REQ_CORE_5                                           0                             0
+
+FENCE_WAITING_CORE_5                                            0                             0
+
+DYN_FENCE_NUM_CORE_5                                            0                             0
+
+WB_ORDERING_STALL_CORE_5                                        0                             0
+
+WB_FULL_CORE_5                                                  0                             0
+
+FENCE_TOT_CYCLES_CORE_5                                         0                             0
+
+FENCE_EXEC_CYCLES_CORE_5                                        0                             0
+
+STORE_RES_CORE_5                                                0                             0
+
+STORE_NUM_CORE_5                                                0                             0
+
+STORE_WB_FREE_CORE_5                                            0                             0
+
+SCHED_FAILED_REASON_SUCCESS_CORE_5                           6908                       77.3053%
+SCHED_FAILED_OPERANDS_NOT_READY_CORE_5                       1258                       14.0779%
+SCHED_FAILED_NO_AVAILABLE_PORTS_CORE_5                        770                       8.61683%
+SCHED_FAILED_NO_MEM_REQ_SLOTS_CORE_5                            0                             0%
+SCHED_FAILED_NO_AVAILABLE_SIMD_UNIT_CORE_5                      0                             0%
+SCHED_FAILED_FENCE_ACTIVE_CORE_5                                0                             0%
+SCHED_FAILED_MEM_MANAGEMENT_CORE_5                              0                             0%
+                                                             8936                           100%
+
+NUM_SAMPLES_CORE_6                                          17557                         17557
+
+NUM_ACTIVE_BLOCKS_CORE_6                                    70030                       3.98872
+
+NUM_ACTIVE_THREADS_CORE_6                                  264934                       15.0899
+
+NUM_SCHED_IDLE_CYCLE_CORE_6                                     0                             0
+
+NUM_NO_SCHED_CYCLE_CORE_6                                     695                           695
+
+CORE_DISPATCHED_INST_CORE_6                                  6908                          6908
+
+CORE_DISPATCH_WAIT_CORE_6                                  208827                       30.2297
+
+CORE_CYCLES_CORE_6                                              0                             0
+
+CORE_SCHED_THREADS_CORE_6                                       0                           NaN
+
+CORE_NUM_NO_FETCH_CYCLES_CORE_6                                 1                             1
+
+CORE_NUM_NO_FETCH_CYCLES_WITH_READY_THREADS_CORE_6                   0                             0
+
+CORE_NUM_FETCH_CYCLES_CORE_6                                    0                             0
+
+CORE_FETCH_DELTA_CORE_6                                         0                           NaN
+
+CORE_NUM_RETIRE_CYCLES_CORE_6                                   0                             0
+
+CORE_RETIRE_DELTA_CORE_6                                        0                           NaN
+
+FENCE_PREF_REQ_CORE_6                                           0                             0
+
+FENCE_WAITING_CORE_6                                            0                             0
+
+DYN_FENCE_NUM_CORE_6                                            0                             0
+
+WB_ORDERING_STALL_CORE_6                                        0                             0
+
+WB_FULL_CORE_6                                                  0                             0
+
+FENCE_TOT_CYCLES_CORE_6                                         0                             0
+
+FENCE_EXEC_CYCLES_CORE_6                                        0                             0
+
+STORE_RES_CORE_6                                                0                             0
+
+STORE_NUM_CORE_6                                                0                             0
+
+STORE_WB_FREE_CORE_6                                            0                             0
+
+SCHED_FAILED_REASON_SUCCESS_CORE_6                           6908                       77.8454%
+SCHED_FAILED_OPERANDS_NOT_READY_CORE_6                       1264                       14.2439%
+SCHED_FAILED_NO_AVAILABLE_PORTS_CORE_6                        702                       7.91075%
+SCHED_FAILED_NO_MEM_REQ_SLOTS_CORE_6                            0                             0%
+SCHED_FAILED_NO_AVAILABLE_SIMD_UNIT_CORE_6                      0                             0%
+SCHED_FAILED_FENCE_ACTIVE_CORE_6                                0                             0%
+SCHED_FAILED_MEM_MANAGEMENT_CORE_6                              0                             0%
+                                                             8874                           100%
+
+NUM_SAMPLES_CORE_7                                          17559                         17559
+
+NUM_ACTIVE_BLOCKS_CORE_7                                    70071                        3.9906
+
+NUM_ACTIVE_THREADS_CORE_7                                  265195                       15.1031
+
+NUM_SCHED_IDLE_CYCLE_CORE_7                                     0                             0
+
+NUM_NO_SCHED_CYCLE_CORE_7                                     671                           671
+
+CORE_DISPATCHED_INST_CORE_7                                  6908                          6908
+
+CORE_DISPATCH_WAIT_CORE_7                                  221757                       32.1015
+
+CORE_CYCLES_CORE_7                                              0                             0
+
+CORE_SCHED_THREADS_CORE_7                                       0                           NaN
+
+CORE_NUM_NO_FETCH_CYCLES_CORE_7                                 1                             1
+
+CORE_NUM_NO_FETCH_CYCLES_WITH_READY_THREADS_CORE_7                   0                             0
+
+CORE_NUM_FETCH_CYCLES_CORE_7                                    0                             0
+
+CORE_FETCH_DELTA_CORE_7                                         0                           NaN
+
+CORE_NUM_RETIRE_CYCLES_CORE_7                                   0                             0
+
+CORE_RETIRE_DELTA_CORE_7                                        0                           NaN
+
+FENCE_PREF_REQ_CORE_7                                           0                             0
+
+FENCE_WAITING_CORE_7                                            0                             0
+
+DYN_FENCE_NUM_CORE_7                                            0                             0
+
+WB_ORDERING_STALL_CORE_7                                        0                             0
+
+WB_FULL_CORE_7                                                  0                             0
+
+FENCE_TOT_CYCLES_CORE_7                                         0                             0
+
+FENCE_EXEC_CYCLES_CORE_7                                        0                             0
+
+STORE_RES_CORE_7                                                0                             0
+
+STORE_NUM_CORE_7                                                0                             0
+
+STORE_WB_FREE_CORE_7                                            0                             0
+
+SCHED_FAILED_REASON_SUCCESS_CORE_7                           6908                       77.7315%
+SCHED_FAILED_OPERANDS_NOT_READY_CORE_7                       1297                       14.5944%
+SCHED_FAILED_NO_AVAILABLE_PORTS_CORE_7                        682                       7.67413%
+SCHED_FAILED_NO_MEM_REQ_SLOTS_CORE_7                            0                             0%
+SCHED_FAILED_NO_AVAILABLE_SIMD_UNIT_CORE_7                      0                             0%
+SCHED_FAILED_FENCE_ACTIVE_CORE_7                                0                             0%
+SCHED_FAILED_MEM_MANAGEMENT_CORE_7                              0                             0%
+                                                             8887                           100%
+
+NUM_SAMPLES_CORE_8                                          17419                         17419
+
+NUM_ACTIVE_BLOCKS_CORE_8                                    69517                       3.99087
+
+NUM_ACTIVE_THREADS_CORE_8                                  263233                       15.1118
+
+NUM_SCHED_IDLE_CYCLE_CORE_8                                     0                             0
+
+NUM_NO_SCHED_CYCLE_CORE_8                                     669                           669
+
+CORE_DISPATCHED_INST_CORE_8                                  6908                          6908
+
+CORE_DISPATCH_WAIT_CORE_8                                  226497                       32.7876
+
+CORE_CYCLES_CORE_8                                              0                             0
+
+CORE_SCHED_THREADS_CORE_8                                       0                           NaN
+
+CORE_NUM_NO_FETCH_CYCLES_CORE_8                                 0                             0
+
+CORE_NUM_NO_FETCH_CYCLES_WITH_READY_THREADS_CORE_8                   0                             0
+
+CORE_NUM_FETCH_CYCLES_CORE_8                                    0                             0
+
+CORE_FETCH_DELTA_CORE_8                                         0                           NaN
+
+CORE_NUM_RETIRE_CYCLES_CORE_8                                   0                             0
+
+CORE_RETIRE_DELTA_CORE_8                                        0                           NaN
+
+FENCE_PREF_REQ_CORE_8                                           0                             0
+
+FENCE_WAITING_CORE_8                                            0                             0
+
+DYN_FENCE_NUM_CORE_8                                            0                             0
+
+WB_ORDERING_STALL_CORE_8                                        0                             0
+
+WB_FULL_CORE_8                                                  0                             0
+
+FENCE_TOT_CYCLES_CORE_8                                         0                             0
+
+FENCE_EXEC_CYCLES_CORE_8                                        0                             0
+
+STORE_RES_CORE_8                                                0                             0
+
+STORE_NUM_CORE_8                                                0                             0
+
+STORE_WB_FREE_CORE_8                                            0                             0
+
+SCHED_FAILED_REASON_SUCCESS_CORE_8                           6908                       72.9077%
+SCHED_FAILED_OPERANDS_NOT_READY_CORE_8                       1377                        14.533%
+SCHED_FAILED_NO_AVAILABLE_PORTS_CORE_8                       1190                       12.5594%
+SCHED_FAILED_NO_MEM_REQ_SLOTS_CORE_8                            0                             0%
+SCHED_FAILED_NO_AVAILABLE_SIMD_UNIT_CORE_8                      0                             0%
+SCHED_FAILED_FENCE_ACTIVE_CORE_8                                0                             0%
+SCHED_FAILED_MEM_MANAGEMENT_CORE_8                              0                             0%
+                                                             9475                           100%
+
+NUM_SAMPLES_CORE_9                                          17418                         17418
+
+NUM_ACTIVE_BLOCKS_CORE_9                                    69478                       3.98886
+
+NUM_ACTIVE_THREADS_CORE_9                                  263090                       15.1045
+
+NUM_SCHED_IDLE_CYCLE_CORE_9                                     0                             0
+
+NUM_NO_SCHED_CYCLE_CORE_9                                     687                           687
+
+CORE_DISPATCHED_INST_CORE_9                                  6908                          6908
+
+CORE_DISPATCH_WAIT_CORE_9                                  223031                       32.2859
+
+CORE_CYCLES_CORE_9                                              0                             0
+
+CORE_SCHED_THREADS_CORE_9                                       0                           NaN
+
+CORE_NUM_NO_FETCH_CYCLES_CORE_9                                 1                             1
+
+CORE_NUM_NO_FETCH_CYCLES_WITH_READY_THREADS_CORE_9                   0                             0
+
+CORE_NUM_FETCH_CYCLES_CORE_9                                    0                             0
+
+CORE_FETCH_DELTA_CORE_9                                         0                           NaN
+
+CORE_NUM_RETIRE_CYCLES_CORE_9                                   0                             0
+
+CORE_RETIRE_DELTA_CORE_9                                        0                           NaN
+
+FENCE_PREF_REQ_CORE_9                                           0                             0
+
+FENCE_WAITING_CORE_9                                            0                             0
+
+DYN_FENCE_NUM_CORE_9                                            0                             0
+
+WB_ORDERING_STALL_CORE_9                                        0                             0
+
+WB_FULL_CORE_9                                                  0                             0
+
+FENCE_TOT_CYCLES_CORE_9                                         0                             0
+
+FENCE_EXEC_CYCLES_CORE_9                                        0                             0
+
+STORE_RES_CORE_9                                                0                             0
+
+STORE_NUM_CORE_9                                                0                             0
+
+STORE_WB_FREE_CORE_9                                            0                             0
+
+SCHED_FAILED_REASON_SUCCESS_CORE_9                           6908                       77.1327%
+SCHED_FAILED_OPERANDS_NOT_READY_CORE_9                       1284                       14.3368%
+SCHED_FAILED_NO_AVAILABLE_PORTS_CORE_9                        764                       8.53059%
+SCHED_FAILED_NO_MEM_REQ_SLOTS_CORE_9                            0                             0%
+SCHED_FAILED_NO_AVAILABLE_SIMD_UNIT_CORE_9                      0                             0%
+SCHED_FAILED_FENCE_ACTIVE_CORE_9                                0                             0%
+SCHED_FAILED_MEM_MANAGEMENT_CORE_9                              0                             0%
+                                                             8956                           100%
+
+NUM_SAMPLES_CORE_10                                         17419                         17419
+
+NUM_ACTIVE_BLOCKS_CORE_10                                   69611                       3.99627
+
+NUM_ACTIVE_THREADS_CORE_10                                 263943                       15.1526
+
+NUM_SCHED_IDLE_CYCLE_CORE_10                                    0                             0
+
+NUM_NO_SCHED_CYCLE_CORE_10                                    677                           677
+
+CORE_DISPATCHED_INST_CORE_10                                 6908                          6908
+
+CORE_DISPATCH_WAIT_CORE_10                                 216469                        31.336
+
+CORE_CYCLES_CORE_10                                             0                             0
+
+CORE_SCHED_THREADS_CORE_10                                      0                           NaN
+
+CORE_NUM_NO_FETCH_CYCLES_CORE_10                                1                             1
+
+CORE_NUM_NO_FETCH_CYCLES_WITH_READY_THREADS_CORE_10                   0                             0
+
+CORE_NUM_FETCH_CYCLES_CORE_10                                   0                             0
+
+CORE_FETCH_DELTA_CORE_10                                        0                           NaN
+
+CORE_NUM_RETIRE_CYCLES_CORE_10                                  0                             0
+
+CORE_RETIRE_DELTA_CORE_10                                       0                           NaN
+
+FENCE_PREF_REQ_CORE_10                                          0                             0
+
+FENCE_WAITING_CORE_10                                           0                             0
+
+DYN_FENCE_NUM_CORE_10                                           0                             0
+
+WB_ORDERING_STALL_CORE_10                                       0                             0
+
+WB_FULL_CORE_10                                                 0                             0
+
+FENCE_TOT_CYCLES_CORE_10                                        0                             0
+
+FENCE_EXEC_CYCLES_CORE_10                                       0                             0
+
+STORE_RES_CORE_10                                               0                             0
+
+STORE_NUM_CORE_10                                               0                             0
+
+STORE_WB_FREE_CORE_10                                           0                             0
+
+SCHED_FAILED_REASON_SUCCESS_CORE_10                          6908                       76.5684%
+SCHED_FAILED_OPERANDS_NOT_READY_CORE_10                      1300                       14.4092%
+SCHED_FAILED_NO_AVAILABLE_PORTS_CORE_10                       814                       9.02239%
+SCHED_FAILED_NO_MEM_REQ_SLOTS_CORE_10                           0                             0%
+SCHED_FAILED_NO_AVAILABLE_SIMD_UNIT_CORE_10                     0                             0%
+SCHED_FAILED_FENCE_ACTIVE_CORE_10                               0                             0%
+SCHED_FAILED_MEM_MANAGEMENT_CORE_10                             0                             0%
+                                                             9022                           100%
+
+NUM_SAMPLES_CORE_11                                         17473                         17473
+
+NUM_ACTIVE_BLOCKS_CORE_11                                   69626                       3.98478
+
+NUM_ACTIVE_THREADS_CORE_11                                 263482                       15.0794
+
+NUM_SCHED_IDLE_CYCLE_CORE_11                                    0                             0
+
+NUM_NO_SCHED_CYCLE_CORE_11                                    665                           665
+
+CORE_DISPATCHED_INST_CORE_11                                 6908                          6908
+
+CORE_DISPATCH_WAIT_CORE_11                                 231083                       33.4515
+
+CORE_CYCLES_CORE_11                                             0                             0
+
+CORE_SCHED_THREADS_CORE_11                                      0                           NaN
+
+CORE_NUM_NO_FETCH_CYCLES_CORE_11                                1                             1
+
+CORE_NUM_NO_FETCH_CYCLES_WITH_READY_THREADS_CORE_11                   0                             0
+
+CORE_NUM_FETCH_CYCLES_CORE_11                                   0                             0
+
+CORE_FETCH_DELTA_CORE_11                                        0                           NaN
+
+CORE_NUM_RETIRE_CYCLES_CORE_11                                  0                             0
+
+CORE_RETIRE_DELTA_CORE_11                                       0                           NaN
+
+FENCE_PREF_REQ_CORE_11                                          0                             0
+
+FENCE_WAITING_CORE_11                                           0                             0
+
+DYN_FENCE_NUM_CORE_11                                           0                             0
+
+WB_ORDERING_STALL_CORE_11                                       0                             0
+
+WB_FULL_CORE_11                                                 0                             0
+
+FENCE_TOT_CYCLES_CORE_11                                        0                             0
+
+FENCE_EXEC_CYCLES_CORE_11                                       0                             0
+
+STORE_RES_CORE_11                                               0                             0
+
+STORE_NUM_CORE_11                                               0                             0
+
+STORE_WB_FREE_CORE_11                                           0                             0
+
+SCHED_FAILED_REASON_SUCCESS_CORE_11                          6908                       76.7044%
+SCHED_FAILED_OPERANDS_NOT_READY_CORE_11                      1328                       14.7457%
+SCHED_FAILED_NO_AVAILABLE_PORTS_CORE_11                       770                       8.54986%
+SCHED_FAILED_NO_MEM_REQ_SLOTS_CORE_11                           0                             0%
+SCHED_FAILED_NO_AVAILABLE_SIMD_UNIT_CORE_11                     0                             0%
+SCHED_FAILED_FENCE_ACTIVE_CORE_11                               0                             0%
+SCHED_FAILED_MEM_MANAGEMENT_CORE_11                             0                             0%
+                                                             9006                           100%
+
+NUM_SAMPLES_CORE_12                                         17417                         17417
+
+NUM_ACTIVE_BLOCKS_CORE_12                                   69533                       3.99225
+
+NUM_ACTIVE_THREADS_CORE_12                                 263385                       15.1223
+
+NUM_SCHED_IDLE_CYCLE_CORE_12                                    0                             0
+
+NUM_NO_SCHED_CYCLE_CORE_12                                    703                           703
+
+CORE_DISPATCHED_INST_CORE_12                                 6908                          6908
+
+CORE_DISPATCH_WAIT_CORE_12                                 228524                       33.0811
+
+CORE_CYCLES_CORE_12                                             0                             0
+
+CORE_SCHED_THREADS_CORE_12                                      0                           NaN
+
+CORE_NUM_NO_FETCH_CYCLES_CORE_12                                1                             1
+
+CORE_NUM_NO_FETCH_CYCLES_WITH_READY_THREADS_CORE_12                   0                             0
+
+CORE_NUM_FETCH_CYCLES_CORE_12                                   0                             0
+
+CORE_FETCH_DELTA_CORE_12                                        0                           NaN
+
+CORE_NUM_RETIRE_CYCLES_CORE_12                                  0                             0
+
+CORE_RETIRE_DELTA_CORE_12                                       0                           NaN
+
+FENCE_PREF_REQ_CORE_12                                          0                             0
+
+FENCE_WAITING_CORE_12                                           0                             0
+
+DYN_FENCE_NUM_CORE_12                                           0                             0
+
+WB_ORDERING_STALL_CORE_12                                       0                             0
+
+WB_FULL_CORE_12                                                 0                             0
+
+FENCE_TOT_CYCLES_CORE_12                                        0                             0
+
+FENCE_EXEC_CYCLES_CORE_12                                       0                             0
+
+STORE_RES_CORE_12                                               0                             0
+
+STORE_NUM_CORE_12                                               0                             0
+
+STORE_WB_FREE_CORE_12                                           0                             0
+
+SCHED_FAILED_REASON_SUCCESS_CORE_12                          6908                        73.764%
+SCHED_FAILED_OPERANDS_NOT_READY_CORE_12                      1403                       14.9813%
+SCHED_FAILED_NO_AVAILABLE_PORTS_CORE_12                      1054                       11.2547%
+SCHED_FAILED_NO_MEM_REQ_SLOTS_CORE_12                           0                             0%
+SCHED_FAILED_NO_AVAILABLE_SIMD_UNIT_CORE_12                     0                             0%
+SCHED_FAILED_FENCE_ACTIVE_CORE_12                               0                             0%
+SCHED_FAILED_MEM_MANAGEMENT_CORE_12                             0                             0%
+                                                             9365                           100%
+
+NUM_SAMPLES_CORE_13                                         17556                         17556
+
+NUM_ACTIVE_BLOCKS_CORE_13                                   70128                       3.99453
+
+NUM_ACTIVE_THREADS_CORE_13                                 264292                       15.0542
+
+NUM_SCHED_IDLE_CYCLE_CORE_13                                    0                             0
+
+NUM_NO_SCHED_CYCLE_CORE_13                                    654                           654
+
+CORE_DISPATCHED_INST_CORE_13                                 6908                          6908
+
+CORE_DISPATCH_WAIT_CORE_13                                 233575                       33.8122
+
+CORE_CYCLES_CORE_13                                             0                             0
+
+CORE_SCHED_THREADS_CORE_13                                      0                           NaN
+
+CORE_NUM_NO_FETCH_CYCLES_CORE_13                                1                             1
+
+CORE_NUM_NO_FETCH_CYCLES_WITH_READY_THREADS_CORE_13                   0                             0
+
+CORE_NUM_FETCH_CYCLES_CORE_13                                   0                             0
+
+CORE_FETCH_DELTA_CORE_13                                        0                           NaN
+
+CORE_NUM_RETIRE_CYCLES_CORE_13                                  0                             0
+
+CORE_RETIRE_DELTA_CORE_13                                       0                           NaN
+
+FENCE_PREF_REQ_CORE_13                                          0                             0
+
+FENCE_WAITING_CORE_13                                           0                             0
+
+DYN_FENCE_NUM_CORE_13                                           0                             0
+
+WB_ORDERING_STALL_CORE_13                                       0                             0
+
+WB_FULL_CORE_13                                                 0                             0
+
+FENCE_TOT_CYCLES_CORE_13                                        0                             0
+
+FENCE_EXEC_CYCLES_CORE_13                                       0                             0
+
+STORE_RES_CORE_13                                               0                             0
+
+STORE_NUM_CORE_13                                               0                             0
+
+STORE_WB_FREE_CORE_13                                           0                             0
+
+SCHED_FAILED_REASON_SUCCESS_CORE_13                          6908                       82.4245%
+SCHED_FAILED_OPERANDS_NOT_READY_CORE_13                      1043                       12.4448%
+SCHED_FAILED_NO_AVAILABLE_PORTS_CORE_13                       430                       5.13065%
+SCHED_FAILED_NO_MEM_REQ_SLOTS_CORE_13                           0                             0%
+SCHED_FAILED_NO_AVAILABLE_SIMD_UNIT_CORE_13                     0                             0%
+SCHED_FAILED_FENCE_ACTIVE_CORE_13                               0                             0%
+SCHED_FAILED_MEM_MANAGEMENT_CORE_13                             0                             0%
+                                                             8381                           100%
+
+NUM_SAMPLES_CORE_14                                         17418                         17418
+
+NUM_ACTIVE_BLOCKS_CORE_14                                   69538                       3.99231
+
+NUM_ACTIVE_THREADS_CORE_14                                 263118                       15.1061
+
+NUM_SCHED_IDLE_CYCLE_CORE_14                                    0                             0
+
+NUM_NO_SCHED_CYCLE_CORE_14                                    649                           649
+
+CORE_DISPATCHED_INST_CORE_14                                 6908                          6908
+
+CORE_DISPATCH_WAIT_CORE_14                                 217422                       31.4739
+
+CORE_CYCLES_CORE_14                                             0                             0
+
+CORE_SCHED_THREADS_CORE_14                                      0                           NaN
+
+CORE_NUM_NO_FETCH_CYCLES_CORE_14                                1                             1
+
+CORE_NUM_NO_FETCH_CYCLES_WITH_READY_THREADS_CORE_14                   0                             0
+
+CORE_NUM_FETCH_CYCLES_CORE_14                                   0                             0
+
+CORE_FETCH_DELTA_CORE_14                                        0                           NaN
+
+CORE_NUM_RETIRE_CYCLES_CORE_14                                  0                             0
+
+CORE_RETIRE_DELTA_CORE_14                                       0                           NaN
+
+FENCE_PREF_REQ_CORE_14                                          0                             0
+
+FENCE_WAITING_CORE_14                                           0                             0
+
+DYN_FENCE_NUM_CORE_14                                           0                             0
+
+WB_ORDERING_STALL_CORE_14                                       0                             0
+
+WB_FULL_CORE_14                                                 0                             0
+
+FENCE_TOT_CYCLES_CORE_14                                        0                             0
+
+FENCE_EXEC_CYCLES_CORE_14                                       0                             0
+
+STORE_RES_CORE_14                                               0                             0
+
+STORE_NUM_CORE_14                                               0                             0
+
+STORE_WB_FREE_CORE_14                                           0                             0
+
+SCHED_FAILED_REASON_SUCCESS_CORE_14                          6908                       78.1802%
+SCHED_FAILED_OPERANDS_NOT_READY_CORE_14                      1305                       14.7691%
+SCHED_FAILED_NO_AVAILABLE_PORTS_CORE_14                       623                        7.0507%
+SCHED_FAILED_NO_MEM_REQ_SLOTS_CORE_14                           0                             0%
+SCHED_FAILED_NO_AVAILABLE_SIMD_UNIT_CORE_14                     0                             0%
+SCHED_FAILED_FENCE_ACTIVE_CORE_14                               0                             0%
+SCHED_FAILED_MEM_MANAGEMENT_CORE_14                             0                             0%
+                                                             8836                           100%
+
+NUM_SAMPLES_CORE_15                                         17420                         17420
+
+NUM_ACTIVE_BLOCKS_CORE_15                                   69589                       3.99478
+
+NUM_ACTIVE_THREADS_CORE_15                                 264013                       15.1557
+
+NUM_SCHED_IDLE_CYCLE_CORE_15                                    0                             0
+
+NUM_NO_SCHED_CYCLE_CORE_15                                    684                           684
+
+CORE_DISPATCHED_INST_CORE_15                                 6908                          6908
+
+CORE_DISPATCH_WAIT_CORE_15                                 236286                       34.2047
+
+CORE_CYCLES_CORE_15                                             0                             0
+
+CORE_SCHED_THREADS_CORE_15                                      0                           NaN
+
+CORE_NUM_NO_FETCH_CYCLES_CORE_15                                1                             1
+
+CORE_NUM_NO_FETCH_CYCLES_WITH_READY_THREADS_CORE_15                   0                             0
+
+CORE_NUM_FETCH_CYCLES_CORE_15                                   0                             0
+
+CORE_FETCH_DELTA_CORE_15                                        0                           NaN
+
+CORE_NUM_RETIRE_CYCLES_CORE_15                                  0                             0
+
+CORE_RETIRE_DELTA_CORE_15                                       0                           NaN
+
+FENCE_PREF_REQ_CORE_15                                          0                             0
+
+FENCE_WAITING_CORE_15                                           0                             0
+
+DYN_FENCE_NUM_CORE_15                                           0                             0
+
+WB_ORDERING_STALL_CORE_15                                       0                             0
+
+WB_FULL_CORE_15                                                 0                             0
+
+FENCE_TOT_CYCLES_CORE_15                                        0                             0
+
+FENCE_EXEC_CYCLES_CORE_15                                       0                             0
+
+STORE_RES_CORE_15                                               0                             0
+
+STORE_NUM_CORE_15                                               0                             0
+
+STORE_WB_FREE_CORE_15                                           0                             0
+
+SCHED_FAILED_REASON_SUCCESS_CORE_15                          6908                       78.8855%
+SCHED_FAILED_OPERANDS_NOT_READY_CORE_15                      1320                       15.0737%
+SCHED_FAILED_NO_AVAILABLE_PORTS_CORE_15                       529                       6.04088%
+SCHED_FAILED_NO_MEM_REQ_SLOTS_CORE_15                           0                             0%
+SCHED_FAILED_NO_AVAILABLE_SIMD_UNIT_CORE_15                     0                             0%
+SCHED_FAILED_FENCE_ACTIVE_CORE_15                               0                             0%
+SCHED_FAILED_MEM_MANAGEMENT_CORE_15                             0                             0%
+                                                             8757                           100%
+

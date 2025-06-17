@@ -1,0 +1,42 @@
+Arguments: ./macsim 
+src/macsim.cc:122: (I=0  C=0):  initialize knobs
+number of cores : 108
+src/macsim.cc:541: (I=0  C=0):  initialize simulation
+src/macsim.cc:321: (I=0  C=0):  initialize cores (0/0/108)
+src/memory.cc:1570: (I=0  C=0):  Memory system(l2_decoupled_network) has been initialized.
+src/network_simple.cc:90: (I=0  C=0):  TOTAL_ROUTER:155 CPU:0 GPU:108 L3:1 LLC:40 MC:6
+enabling bug detector
+src/macsim.cc:754: (I=0  C=0):  Initializing new noc
+
+src/macsim.cc:842: (I=0  C=0):  Clock LCM           : 60
+src/macsim.cc:843: (I=0  C=0):  CPU clock frequency : 1.597 GHz
+src/macsim.cc:844: (I=0  C=0):  GPU clock frequency : 1.597 GHz
+src/macsim.cc:845: (I=0  C=0):  LLC clock frequency : 1.597 GHz
+src/macsim.cc:846: (I=0  C=0):  NOC clock frequency : 1.597 GHz
+src/macsim.cc:847: (I=0  C=0):  MC  clock frequency : 1.215 GHz
+src/process_manager.cc:426: (I=0  C=0):  setup_process:0 /home/cory/ExpressGNN/traces/macsim-update/Kernel66065/trace.txt current_index:0 (1)
+trace:/home/cory/ExpressGNN/traces/macsim-update/Kernel66065/trace.txt is opened 
+trace type: nvbit end
+src/process_manager.cc:541: (I=0  C=0):  thread_count: 16
+src/process_manager.cc:542: (I=0  C=0):  max blocks per core: 8
+**Core 00 Thread 13 Finished:   insts:5           cycles:458        (1828)  seconds:2     -- 0.01 IPC (0.01 IPC) --  N/A  KHz (0.00 KHz) 
+**Core 00 Thread 12 Finished:   insts:5           cycles:458        (1828)  seconds:2     -- 0.01 IPC (0.01 IPC) --  N/A  KHz (0.00 KHz) 
+**Core 00 Thread 15 Finished:   insts:5           cycles:462        (1844)  seconds:2     -- 0.01 IPC (0.01 IPC) --  N/A  KHz (0.00 KHz) 
+**Core 00 Thread 14 Finished:   insts:5           cycles:462        (1844)  seconds:2     -- 0.01 IPC (0.01 IPC) --  N/A  KHz (0.00 KHz) 
+**Core 00 Thread 03 Finished:   insts:5           cycles:466        (1860)  seconds:2     -- 0.01 IPC (0.01 IPC) --  N/A  KHz (0.00 KHz) 
+**Core 00 Thread 02 Finished:   insts:5           cycles:466        (1860)  seconds:2     -- 0.01 IPC (0.01 IPC) --  N/A  KHz (0.00 KHz) 
+**Core 00 Thread 04 Finished:   insts:5           cycles:470        (1876)  seconds:2     -- 0.01 IPC (0.01 IPC) --  N/A  KHz (0.00 KHz) 
+**Core 00 Thread 05 Finished:   insts:5           cycles:470        (1876)  seconds:2     -- 0.01 IPC (0.01 IPC) --  N/A  KHz (0.00 KHz) 
+**Core 00 Thread 06 Finished:   insts:5           cycles:470        (1876)  seconds:2     -- 0.01 IPC (0.01 IPC) --  N/A  KHz (0.00 KHz) 
+**Core 00 Thread 07 Finished:   insts:5           cycles:470        (1876)  seconds:2     -- 0.01 IPC (0.01 IPC) --  N/A  KHz (0.00 KHz) 
+**Core 00 Thread 08 Finished:   insts:5           cycles:474        (1892)  seconds:2     -- 0.01 IPC (0.01 IPC) --  N/A  KHz (0.00 KHz) 
+**Core 00 Thread 09 Finished:   insts:5           cycles:474        (1892)  seconds:2     -- 0.01 IPC (0.01 IPC) --  N/A  KHz (0.00 KHz) 
+**Core 00 Thread 10 Finished:   insts:5           cycles:474        (1892)  seconds:2     -- 0.01 IPC (0.01 IPC) --  N/A  KHz (0.00 KHz) 
+**Core 00 Thread 11 Finished:   insts:5           cycles:478        (1908)  seconds:2     -- 0.01 IPC (0.01 IPC) --  N/A  KHz (0.00 KHz) 
+**Core 00 Thread 00 Finished:   insts:19          cycles:1204       (4812)  seconds:2     -- 0.02 IPC (0.02 IPC) --  N/A  KHz (0.01 KHz) 
+**Core 00 Thread 01 Finished:   insts:20          cycles:1229       (4912)  seconds:2     -- 0.02 IPC (0.02 IPC) --  N/A  KHz (0.01 KHz) 
+src/retire.cc:563: (I=19  C=4912):  ----- application 0 terminated (/home/cory/ExpressGNN/traces/macsim-update/Kernel66065/trace.txt,0) at 4912
+**Core 00 Core_Total  Finished:   insts:109         cycles:1229       (4912) seconds:2     -- 0.09 IPC (0.09 IPC) --  N/A  KHz (0.05 KHz)
+src/macsim.cc:624: (I=19  C=4913):  finalize simulation
+src/macsim.cc:628: (I=19  C=4913):  elapsed time:1.4 seconds
+Done

@@ -1,0 +1,720 @@
+####################################################################################################
+Interval
+####################################################################################################
+Cumulative:         Cycles:                  20000     Instructions:                  1200
+INST_COUNT_TOT                                            1697195                       1697195
+
+UOP_COUNT_TOT                                             1697195                       1697195
+
+CYC_COUNT_TOT                                              514612                        514612
+
+EXE_TIME                                                        0                             0
+
+NUM_REPEAT                                                      0                             0
+
+CYC_COUNT_X86                                                   0                             0
+
+CYC_COUNT_ACC                                              514612                        514612
+
+AVG_BLOCK_EXE_CYCLE                                     829336115                     829336115
+
+AVG_BLOCK_EXE_CYCLE_BASE                                     3165                          3165
+
+PROGRESS_ERROR                                                  0                             0
+
+FILE_OPEN_ERROR                                                 0                             0
+
+NUM_THREAD                                                      0                             0
+
+APPL_CYC_COUNT_BASE0                                            1                             1
+
+APPL_CYC_COUNT_BASE1                                            0                             0
+
+APPL_CYC_COUNT_BASE2                                            0                             0
+
+APPL_CYC_COUNT_BASE3                                            0                             0
+
+APPL_CYC_COUNT_BASE4                                            0                             0
+
+APPL_CYC_COUNT0                                            514612                        514612
+
+APPL_CYC_COUNT1                                                 0                           NaN
+
+APPL_CYC_COUNT2                                                 0                           NaN
+
+APPL_CYC_COUNT3                                                 0                           NaN
+
+APPL_CYC_COUNT4                                                 0                           NaN
+
+CPI_DELTA_BASE0                                                 0                             0
+
+CPI_DELTA_BASE1                                                 0                             0
+
+CPI_DELTA_BASE2                                                 0                             0
+
+CPI_DELTA_BASE3                                                 0                             0
+
+CPI_DELTA_BASE4                                                 0                             0
+
+CPI_DELTA0                                                      0                           NaN
+
+CPI_DELTA1                                                      0                           NaN
+
+CPI_DELTA2                                                      0                           NaN
+
+CPI_DELTA3                                                      0                           NaN
+
+CPI_DELTA4                                                      0                           NaN
+
+CYCLE_CPU                                                       0                             0
+
+CYCLE_GPU                                                       0                             0
+
+INST_COUNT_CORE_0                                           18224                         18224
+
+UOP_COUNT_CORE_0                                            18224                         18224
+
+CYC_COUNT_CORE_0                                           123998                        123998
+
+INST_COUNT_CORE_1                                           19296                         19296
+
+UOP_COUNT_CORE_1                                            19296                         19296
+
+CYC_COUNT_CORE_1                                           115693                        115693
+
+INST_COUNT_CORE_2                                           16080                         16080
+
+UOP_COUNT_CORE_2                                            16080                         16080
+
+CYC_COUNT_CORE_2                                           126724                        126724
+
+INST_COUNT_CORE_3                                           24656                         24656
+
+UOP_COUNT_CORE_3                                            24656                         24656
+
+CYC_COUNT_CORE_3                                           124772                        124772
+
+INST_COUNT_CORE_4                                           15544                         15544
+
+UOP_COUNT_CORE_4                                            15544                         15544
+
+CYC_COUNT_CORE_4                                           125372                        125372
+
+INST_COUNT_CORE_5                                           17688                         17688
+
+UOP_COUNT_CORE_5                                            17688                         17688
+
+CYC_COUNT_CORE_5                                           126875                        126875
+
+INST_COUNT_CORE_6                                           16080                         16080
+
+UOP_COUNT_CORE_6                                            16080                         16080
+
+CYC_COUNT_CORE_6                                           110157                        110157
+
+INST_COUNT_CORE_7                                           17688                         17688
+
+UOP_COUNT_CORE_7                                            17688                         17688
+
+CYC_COUNT_CORE_7                                           128653                        128653
+
+INST_COUNT_CORE_8                                           16616                         16616
+
+UOP_COUNT_CORE_8                                            16616                         16616
+
+CYC_COUNT_CORE_8                                           115540                        115540
+
+INST_COUNT_CORE_9                                           11792                         11792
+
+UOP_COUNT_CORE_9                                            11792                         11792
+
+CYC_COUNT_CORE_9                                           124406                        124406
+
+INST_COUNT_CORE_10                                          16080                         16080
+
+UOP_COUNT_CORE_10                                           16080                         16080
+
+CYC_COUNT_CORE_10                                          128079                        128079
+
+INST_COUNT_CORE_11                                          20368                         20368
+
+UOP_COUNT_CORE_11                                           20368                         20368
+
+CYC_COUNT_CORE_11                                          127791                        127791
+
+INST_COUNT_CORE_12                                          16080                         16080
+
+UOP_COUNT_CORE_12                                           16080                         16080
+
+CYC_COUNT_CORE_12                                          125369                        125369
+
+INST_COUNT_CORE_13                                          18224                         18224
+
+UOP_COUNT_CORE_13                                           18224                         18224
+
+CYC_COUNT_CORE_13                                          127128                        127128
+
+INST_COUNT_CORE_14                                          15544                         15544
+
+UOP_COUNT_CORE_14                                           15544                         15544
+
+CYC_COUNT_CORE_14                                          128426                        128426
+
+INST_COUNT_CORE_15                                          21976                         21976
+
+UOP_COUNT_CORE_15                                           21976                         21976
+
+CYC_COUNT_CORE_15                                          115318                        115318
+
+INST_COUNT_CORE_16                                          14472                         14472
+
+UOP_COUNT_CORE_16                                           14472                         14472
+
+CYC_COUNT_CORE_16                                          124100                        124100
+
+INST_COUNT_CORE_17                                          11792                         11792
+
+UOP_COUNT_CORE_17                                           11792                         11792
+
+CYC_COUNT_CORE_17                                          127385                        127385
+
+INST_COUNT_CORE_18                                          20368                         20368
+
+UOP_COUNT_CORE_18                                           20368                         20368
+
+CYC_COUNT_CORE_18                                          116904                        116904
+
+INST_COUNT_CORE_19                                          13936                         13936
+
+UOP_COUNT_CORE_19                                           13936                         13936
+
+CYC_COUNT_CORE_19                                          128431                        128431
+
+INST_COUNT_CORE_20                                          13936                         13936
+
+UOP_COUNT_CORE_20                                           13936                         13936
+
+CYC_COUNT_CORE_20                                          125235                        125235
+
+INST_COUNT_CORE_21                                          18224                         18224
+
+UOP_COUNT_CORE_21                                           18224                         18224
+
+CYC_COUNT_CORE_21                                          125394                        125394
+
+INST_COUNT_CORE_22                                          11792                         11792
+
+UOP_COUNT_CORE_22                                           11792                         11792
+
+CYC_COUNT_CORE_22                                          120002                        120002
+
+INST_COUNT_CORE_23                                          14472                         14472
+
+UOP_COUNT_CORE_23                                           14472                         14472
+
+CYC_COUNT_CORE_23                                          122943                        122943
+
+INST_COUNT_CORE_24                                           8576                          8576
+
+UOP_COUNT_CORE_24                                            8576                          8576
+
+CYC_COUNT_CORE_24                                          122598                        122598
+
+INST_COUNT_CORE_25                                          17688                         17688
+
+UOP_COUNT_CORE_25                                           17688                         17688
+
+CYC_COUNT_CORE_25                                          122294                        122294
+
+INST_COUNT_CORE_26                                          13936                         13936
+
+UOP_COUNT_CORE_26                                           13936                         13936
+
+CYC_COUNT_CORE_26                                          112778                        112778
+
+INST_COUNT_CORE_27                                           9648                          9648
+
+UOP_COUNT_CORE_27                                            9648                          9648
+
+CYC_COUNT_CORE_27                                          125832                        125832
+
+INST_COUNT_CORE_28                                          13936                         13936
+
+UOP_COUNT_CORE_28                                           13936                         13936
+
+CYC_COUNT_CORE_28                                          119773                        119773
+
+INST_COUNT_CORE_29                                          20368                         20368
+
+UOP_COUNT_CORE_29                                           20368                         20368
+
+CYC_COUNT_CORE_29                                          111154                        111154
+
+INST_COUNT_CORE_30                                          21440                         21440
+
+UOP_COUNT_CORE_30                                           21440                         21440
+
+CYC_COUNT_CORE_30                                          126049                        126049
+
+INST_COUNT_CORE_31                                          16080                         16080
+
+UOP_COUNT_CORE_31                                           16080                         16080
+
+CYC_COUNT_CORE_31                                          126579                        126579
+
+INST_COUNT_CORE_32                                          11792                         11792
+
+UOP_COUNT_CORE_32                                           11792                         11792
+
+CYC_COUNT_CORE_32                                          120081                        120081
+
+INST_COUNT_CORE_33                                          17286                         17286
+
+UOP_COUNT_CORE_33                                           17286                         17286
+
+CYC_COUNT_CORE_33                                          125936                        125936
+
+INST_COUNT_CORE_34                                           8576                          8576
+
+UOP_COUNT_CORE_34                                            8576                          8576
+
+CYC_COUNT_CORE_34                                          125618                        125618
+
+INST_COUNT_CORE_35                                          19296                         19296
+
+UOP_COUNT_CORE_35                                           19296                         19296
+
+CYC_COUNT_CORE_35                                          110549                        110549
+
+INST_COUNT_CORE_36                                           8576                          8576
+
+UOP_COUNT_CORE_36                                            8576                          8576
+
+CYC_COUNT_CORE_36                                          124101                        124101
+
+INST_COUNT_CORE_37                                          27872                         27872
+
+UOP_COUNT_CORE_37                                           27872                         27872
+
+CYC_COUNT_CORE_37                                          126683                        126683
+
+INST_COUNT_CORE_38                                          13400                         13400
+
+UOP_COUNT_CORE_38                                           13400                         13400
+
+CYC_COUNT_CORE_38                                          121674                        121674
+
+INST_COUNT_CORE_39                                          20368                         20368
+
+UOP_COUNT_CORE_39                                           20368                         20368
+
+CYC_COUNT_CORE_39                                          125343                        125343
+
+INST_COUNT_CORE_40                                          15008                         15008
+
+UOP_COUNT_CORE_40                                           15008                         15008
+
+CYC_COUNT_CORE_40                                          112948                        112948
+
+INST_COUNT_CORE_41                                          17152                         17152
+
+UOP_COUNT_CORE_41                                           17152                         17152
+
+CYC_COUNT_CORE_41                                          115789                        115789
+
+INST_COUNT_CORE_42                                          11256                         11256
+
+UOP_COUNT_CORE_42                                           11256                         11256
+
+CYC_COUNT_CORE_42                                          116832                        116832
+
+INST_COUNT_CORE_43                                          24120                         24120
+
+UOP_COUNT_CORE_43                                           24120                         24120
+
+CYC_COUNT_CORE_43                                          126303                        126303
+
+INST_COUNT_CORE_44                                          16080                         16080
+
+UOP_COUNT_CORE_44                                           16080                         16080
+
+CYC_COUNT_CORE_44                                          125199                        125199
+
+INST_COUNT_CORE_45                                          18760                         18760
+
+UOP_COUNT_CORE_45                                           18760                         18760
+
+CYC_COUNT_CORE_45                                          127334                        127334
+
+INST_COUNT_CORE_46                                          14472                         14472
+
+UOP_COUNT_CORE_46                                           14472                         14472
+
+CYC_COUNT_CORE_46                                          124928                        124928
+
+INST_COUNT_CORE_47                                          12998                         12998
+
+UOP_COUNT_CORE_47                                           12998                         12998
+
+CYC_COUNT_CORE_47                                          125649                        125649
+
+INST_COUNT_CORE_48                                          28408                         28408
+
+UOP_COUNT_CORE_48                                           28408                         28408
+
+CYC_COUNT_CORE_48                                          116216                        116216
+
+INST_COUNT_CORE_49                                          16616                         16616
+
+UOP_COUNT_CORE_49                                           16616                         16616
+
+CYC_COUNT_CORE_49                                          116234                        116234
+
+INST_COUNT_CORE_50                                          12328                         12328
+
+UOP_COUNT_CORE_50                                           12328                         12328
+
+CYC_COUNT_CORE_50                                          125313                        125313
+
+INST_COUNT_CORE_51                                          16080                         16080
+
+UOP_COUNT_CORE_51                                           16080                         16080
+
+CYC_COUNT_CORE_51                                          113663                        113663
+
+INST_COUNT_CORE_52                                          11792                         11792
+
+UOP_COUNT_CORE_52                                           11792                         11792
+
+CYC_COUNT_CORE_52                                          123383                        123383
+
+INST_COUNT_CORE_53                                          16080                         16080
+
+UOP_COUNT_CORE_53                                           16080                         16080
+
+CYC_COUNT_CORE_53                                          125314                        125314
+
+INST_COUNT_CORE_54                                          20904                         20904
+
+UOP_COUNT_CORE_54                                           20904                         20904
+
+CYC_COUNT_CORE_54                                          126234                        126234
+
+INST_COUNT_CORE_55                                          12864                         12864
+
+UOP_COUNT_CORE_55                                           12864                         12864
+
+CYC_COUNT_CORE_55                                          127251                        127251
+
+INST_COUNT_CORE_56                                          15008                         15008
+
+UOP_COUNT_CORE_56                                           15008                         15008
+
+CYC_COUNT_CORE_56                                          125614                        125614
+
+INST_COUNT_CORE_57                                          22512                         22512
+
+UOP_COUNT_CORE_57                                           22512                         22512
+
+CYC_COUNT_CORE_57                                          114661                        114661
+
+INST_COUNT_CORE_58                                          13936                         13936
+
+UOP_COUNT_CORE_58                                           13936                         13936
+
+CYC_COUNT_CORE_58                                          125941                        125941
+
+INST_COUNT_CORE_59                                          17688                         17688
+
+UOP_COUNT_CORE_59                                           17688                         17688
+
+CYC_COUNT_CORE_59                                          115818                        115818
+
+INST_COUNT_CORE_60                                          11256                         11256
+
+UOP_COUNT_CORE_60                                           11256                         11256
+
+CYC_COUNT_CORE_60                                          124819                        124819
+
+INST_COUNT_CORE_61                                          17688                         17688
+
+UOP_COUNT_CORE_61                                           17688                         17688
+
+CYC_COUNT_CORE_61                                          121124                        121124
+
+INST_COUNT_CORE_62                                          19296                         19296
+
+UOP_COUNT_CORE_62                                           19296                         19296
+
+CYC_COUNT_CORE_62                                          123146                        123146
+
+INST_COUNT_CORE_63                                          23718                         23718
+
+UOP_COUNT_CORE_63                                           23718                         23718
+
+CYC_COUNT_CORE_63                                          113781                        113781
+
+INST_COUNT_CORE_64                                          12462                         12462
+
+UOP_COUNT_CORE_64                                           12462                         12462
+
+CYC_COUNT_CORE_64                                          117412                        117412
+
+INST_COUNT_CORE_65                                           8576                          8576
+
+UOP_COUNT_CORE_65                                            8576                          8576
+
+CYC_COUNT_CORE_65                                          125921                        125921
+
+INST_COUNT_CORE_66                                          16080                         16080
+
+UOP_COUNT_CORE_66                                           16080                         16080
+
+CYC_COUNT_CORE_66                                          125861                        125861
+
+INST_COUNT_CORE_67                                          18760                         18760
+
+UOP_COUNT_CORE_67                                           18760                         18760
+
+CYC_COUNT_CORE_67                                          113761                        113761
+
+INST_COUNT_CORE_68                                          11256                         11256
+
+UOP_COUNT_CORE_68                                           11256                         11256
+
+CYC_COUNT_CORE_68                                          125639                        125639
+
+INST_COUNT_CORE_69                                          12328                         12328
+
+UOP_COUNT_CORE_69                                           12328                         12328
+
+CYC_COUNT_CORE_69                                          125650                        125650
+
+INST_COUNT_CORE_70                                          12462                         12462
+
+UOP_COUNT_CORE_70                                           12462                         12462
+
+CYC_COUNT_CORE_70                                          116205                        116205
+
+INST_COUNT_CORE_71                                          15544                         15544
+
+UOP_COUNT_CORE_71                                           15544                         15544
+
+CYC_COUNT_CORE_71                                          113727                        113727
+
+INST_COUNT_CORE_72                                          12864                         12864
+
+UOP_COUNT_CORE_72                                           12864                         12864
+
+CYC_COUNT_CORE_72                                          116870                        116870
+
+INST_COUNT_CORE_73                                          18224                         18224
+
+UOP_COUNT_CORE_73                                           18224                         18224
+
+CYC_COUNT_CORE_73                                          126665                        126665
+
+INST_COUNT_CORE_74                                          13400                         13400
+
+UOP_COUNT_CORE_74                                           13400                         13400
+
+CYC_COUNT_CORE_74                                          125540                        125540
+
+INST_COUNT_CORE_75                                          18224                         18224
+
+UOP_COUNT_CORE_75                                           18224                         18224
+
+CYC_COUNT_CORE_75                                          127220                        127220
+
+INST_COUNT_CORE_76                                          20368                         20368
+
+UOP_COUNT_CORE_76                                           20368                         20368
+
+CYC_COUNT_CORE_76                                          124136                        124136
+
+INST_COUNT_CORE_77                                          12864                         12864
+
+UOP_COUNT_CORE_77                                           12864                         12864
+
+CYC_COUNT_CORE_77                                          116989                        116989
+
+INST_COUNT_CORE_78                                          12462                         12462
+
+UOP_COUNT_CORE_78                                           12462                         12462
+
+CYC_COUNT_CORE_78                                          123216                        123216
+
+INST_COUNT_CORE_79                                          19296                         19296
+
+UOP_COUNT_CORE_79                                           19296                         19296
+
+CYC_COUNT_CORE_79                                          125811                        125811
+
+INST_COUNT_CORE_80                                          11256                         11256
+
+UOP_COUNT_CORE_80                                           11256                         11256
+
+CYC_COUNT_CORE_80                                          123553                        123553
+
+INST_COUNT_CORE_81                                          14472                         14472
+
+UOP_COUNT_CORE_81                                           14472                         14472
+
+CYC_COUNT_CORE_81                                          120784                        120784
+
+INST_COUNT_CORE_82                                          12864                         12864
+
+UOP_COUNT_CORE_82                                           12864                         12864
+
+CYC_COUNT_CORE_82                                          114788                        114788
+
+INST_COUNT_CORE_83                                          13936                         13936
+
+UOP_COUNT_CORE_83                                           13936                         13936
+
+CYC_COUNT_CORE_83                                          122265                        122265
+
+INST_COUNT_CORE_84                                          18760                         18760
+
+UOP_COUNT_CORE_84                                           18760                         18760
+
+CYC_COUNT_CORE_84                                          123719                        123719
+
+INST_COUNT_CORE_85                                          11792                         11792
+
+UOP_COUNT_CORE_85                                           11792                         11792
+
+CYC_COUNT_CORE_85                                          126563                        126563
+
+INST_COUNT_CORE_86                                           8040                          8040
+
+UOP_COUNT_CORE_86                                            8040                          8040
+
+CYC_COUNT_CORE_86                                          115947                        115947
+
+INST_COUNT_CORE_87                                           8040                          8040
+
+UOP_COUNT_CORE_87                                            8040                          8040
+
+CYC_COUNT_CORE_87                                          125018                        125018
+
+INST_COUNT_CORE_88                                          18760                         18760
+
+UOP_COUNT_CORE_88                                           18760                         18760
+
+CYC_COUNT_CORE_88                                          119815                        119815
+
+INST_COUNT_CORE_89                                          12328                         12328
+
+UOP_COUNT_CORE_89                                           12328                         12328
+
+CYC_COUNT_CORE_89                                          124870                        124870
+
+INST_COUNT_CORE_90                                           9648                          9648
+
+UOP_COUNT_CORE_90                                            9648                          9648
+
+CYC_COUNT_CORE_90                                          125179                        125179
+
+INST_COUNT_CORE_91                                          10184                         10184
+
+UOP_COUNT_CORE_91                                           10184                         10184
+
+CYC_COUNT_CORE_91                                          122564                        122564
+
+INST_COUNT_CORE_92                                          20368                         20368
+
+UOP_COUNT_CORE_92                                           20368                         20368
+
+CYC_COUNT_CORE_92                                          117011                        117011
+
+INST_COUNT_CORE_93                                          18760                         18760
+
+UOP_COUNT_CORE_93                                           18760                         18760
+
+CYC_COUNT_CORE_93                                          125587                        125587
+
+INST_COUNT_CORE_94                                          12328                         12328
+
+UOP_COUNT_CORE_94                                           12328                         12328
+
+CYC_COUNT_CORE_94                                          118960                        118960
+
+INST_COUNT_CORE_95                                          12864                         12864
+
+UOP_COUNT_CORE_95                                           12864                         12864
+
+CYC_COUNT_CORE_95                                          125769                        125769
+
+INST_COUNT_CORE_96                                          12145                         12145
+
+UOP_COUNT_CORE_96                                           12145                         12145
+
+CYC_COUNT_CORE_96                                          119737                        119737
+
+INST_COUNT_CORE_97                                          19296                         19296
+
+UOP_COUNT_CORE_97                                           19296                         19296
+
+CYC_COUNT_CORE_97                                          122202                        122202
+
+INST_COUNT_CORE_98                                          20368                         20368
+
+UOP_COUNT_CORE_98                                           20368                         20368
+
+CYC_COUNT_CORE_98                                          122326                        122326
+
+INST_COUNT_CORE_99                                          13400                         13400
+
+UOP_COUNT_CORE_99                                           13400                         13400
+
+CYC_COUNT_CORE_99                                          126688                        126688
+
+INST_COUNT_CORE_100                                         19832                         19832
+
+UOP_COUNT_CORE_100                                          19832                         19832
+
+CYC_COUNT_CORE_100                                         115671                        115671
+
+INST_COUNT_CORE_101                                         16616                         16616
+
+UOP_COUNT_CORE_101                                          16616                         16616
+
+CYC_COUNT_CORE_101                                         125090                        125090
+
+INST_COUNT_CORE_102                                         16080                         16080
+
+UOP_COUNT_CORE_102                                          16080                         16080
+
+CYC_COUNT_CORE_102                                         128460                        128460
+
+INST_COUNT_CORE_103                                         16080                         16080
+
+UOP_COUNT_CORE_103                                          16080                         16080
+
+CYC_COUNT_CORE_103                                         112137                        112137
+
+INST_COUNT_CORE_104                                         21976                         21976
+
+UOP_COUNT_CORE_104                                          21976                         21976
+
+CYC_COUNT_CORE_104                                         125555                        125555
+
+INST_COUNT_CORE_105                                          8576                          8576
+
+UOP_COUNT_CORE_105                                           8576                          8576
+
+CYC_COUNT_CORE_105                                         125703                        125703
+
+INST_COUNT_CORE_106                                         12328                         12328
+
+UOP_COUNT_CORE_106                                          12328                         12328
+
+CYC_COUNT_CORE_106                                         117610                        117610
+
+INST_COUNT_CORE_107                                         15142                         15142
+
+UOP_COUNT_CORE_107                                          15142                         15142
+
+CYC_COUNT_CORE_107                                         113302                        113302
+
